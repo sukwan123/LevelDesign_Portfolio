@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>손석완 · 레벨 디자이너 포트폴리오</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#ffffff; --surface:#f6f7f9; --line:#e3e6ea;
+  --ink:#15181c; --ink2:#4a525c; --ink3:#7b848f;
+  --accent:#1f5f8b; --accent-soft:#e8f0f6; --rule:#c9d4dd;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#14171a; --surface:#1c2024; --line:#2b3137;
+    --ink:#eef1f4; --ink2:#b3bcc6; --ink3:#818b96;
+    --accent:#7fb4d8; --accent-soft:#1d2a34; --rule:#39434c;
+  }
+}
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font-family:"Noto Sans KR",-apple-system,"Segoe UI","Malgun Gothic",sans-serif;
+  font-size:15px; line-height:1.75; letter-spacing:-.01em;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:900px; margin:0 auto; padding:56px 28px 80px}
+
+header{border-bottom:3px solid var(--ink); padding-bottom:22px; margin-bottom:38px}
+.name{font-size:34px; font-weight:900; letter-spacing:-.03em; margin:0 0 4px}
+.role{font-size:17px; font-weight:700; color:var(--accent); margin:0 0 14px}
+.meta{font-size:13.5px; color:var(--ink2); margin:0}
+.meta span{white-space:nowrap}
+.meta i{font-style:normal; color:var(--ink3); padding:0 8px}
+
+h2{
+  font-size:12px; font-weight:900; letter-spacing:.16em; color:var(--ink3);
+  text-transform:uppercase; margin:46px 0 16px; padding-bottom:8px;
+  border-bottom:1px solid var(--line);
+}
+h2:first-of-type{margin-top:0}
+
+.lead{font-size:16.5px; line-height:1.85; margin:0 0 18px}
+.lead b{font-weight:700; background:linear-gradient(transparent 62%, var(--accent-soft) 62%)}
+ul.clean{margin:0; padding:0; list-style:none}
+ul.clean li{position:relative; padding-left:17px; margin-bottom:9px; color:var(--ink2)}
+ul.clean li::before{content:""; position:absolute; left:0; top:.72em; width:6px; height:6px; border-radius:50%; background:var(--rule)}
+ul.clean li b{color:var(--ink); font-weight:700}
+
+.metrics{display:grid; grid-template-columns:repeat(5,1fr); gap:1px; background:var(--line); border:1px solid var(--line); border-radius:8px; overflow:hidden}
+.metric{background:var(--bg); padding:16px 14px; text-align:center}
+.metric .n{display:block; font-size:26px; font-weight:900; color:var(--accent); letter-spacing:-.03em; line-height:1.2}
+.metric .l{display:block; font-size:11.5px; color:var(--ink3); margin-top:3px; line-height:1.4}
+
+.comp{display:grid; grid-template-columns:1fr 1fr; gap:14px}
+.comp .c{background:var(--surface); border:1px solid var(--line); border-radius:8px; padding:15px 17px}
+.comp .c h3{margin:0 0 6px; font-size:14.5px; font-weight:700}
+.comp .c p{margin:0; font-size:13.5px; color:var(--ink2); line-height:1.65}
+
+.work{border-left:3px solid var(--rule); padding:2px 0 2px 20px; margin-bottom:38px}
+.work .top{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:3px}
+.work h3{margin:0; font-size:18px; font-weight:700; letter-spacing:-.02em}
+.work .yr{font-size:12px; font-weight:700; color:var(--accent); background:var(--accent-soft); padding:2px 8px; border-radius:99px; white-space:nowrap}
+.work .sub{font-size:13px; color:var(--ink3); margin:0 0 11px}
+.work dl{margin:0; display:grid; grid-template-columns:58px 1fr; gap:5px 12px; font-size:14px}
+.work dt{color:var(--ink3); font-size:12px; font-weight:700; padding-top:3px; letter-spacing:.02em}
+.work dd{margin:0; color:var(--ink2); line-height:1.7}
+.work dd b{color:var(--ink); font-weight:700}
+.tags{margin-top:11px; display:flex; flex-wrap:wrap; gap:5px}
+.tag{font-size:11.5px; color:var(--ink2); background:var(--surface); border:1px solid var(--line); border-radius:4px; padding:2px 7px}
+
+/* figures */
+.figs{display:grid; gap:12px; margin:16px 0 4px}
+.figs.two{grid-template-columns:1fr 1fr}
+.figs.one{grid-template-columns:1fr}
+figure{margin:0; border:1px solid var(--line); border-radius:7px; overflow:hidden; background:var(--surface)}
+figure img{display:block; width:100%; height:auto}
+figcaption{font-size:11.5px; line-height:1.55; color:var(--ink3); padding:8px 11px 9px; border-top:1px solid var(--line)}
+figcaption b{color:var(--ink2); font-weight:700}
+
+table{width:100%; border-collapse:collapse; font-size:14px}
+th,td{text-align:left; padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top}
+th{font-size:11.5px; color:var(--ink3); font-weight:700; letter-spacing:.08em; text-transform:uppercase; border-bottom:2px solid var(--rule)}
+td.per{white-space:nowrap; font-weight:700; color:var(--ink); width:130px}
+td.ph{white-space:nowrap; color:var(--accent); font-weight:700; width:130px}
+tr.leave td{color:var(--ink3)}
+
+.skills{display:grid; grid-template-columns:110px 1fr; gap:9px 16px; font-size:14px}
+.skills dt{font-size:12px; font-weight:700; color:var(--ink3); padding-top:3px; letter-spacing:.02em}
+.skills dd{margin:0; color:var(--ink2)}
+
+/* case study */
+.case{border:1px solid var(--line); border-radius:10px; padding:20px 22px; margin-bottom:26px; background:var(--surface)}
+.case .top{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:2px}
+.case h3{margin:0; font-size:19px; font-weight:900; letter-spacing:-.02em}
+.case .sub{font-size:13px; color:var(--ink3); margin:0 0 12px}
+.case .role{font-size:14px; color:var(--ink2); margin:0 0 4px; line-height:1.7}
+.case .role b{color:var(--ink)}
+.step{display:inline-block; font-size:10.5px; font-weight:900; letter-spacing:.1em; color:var(--accent);
+  background:var(--accent-soft); border-radius:3px; padding:1px 6px; margin-right:6px; vertical-align:2px}
+.vid{display:flex; align-items:center; gap:12px; margin-top:14px; padding:12px 14px;
+  background:var(--bg); border:1px solid var(--line); border-radius:7px; text-decoration:none}
+.vid:hover{border-color:var(--accent)}
+.vid .play{flex:none; width:34px; height:34px; border-radius:50%; background:#e23b2e; position:relative}
+.vid .play::after{content:""; position:absolute; left:13px; top:10px; border-style:solid;
+  border-width:7px 0 7px 11px; border-color:transparent transparent transparent #fff}
+.vid .t{font-size:13.5px; font-weight:700; color:var(--ink); line-height:1.4}
+.vid .u{font-size:11.5px; color:var(--ink3); word-break:break-all}
+
+.grid3{display:grid; grid-template-columns:repeat(3,1fr); gap:6px}
+.grid3 img{width:100%; height:auto; display:block; border-radius:3px}
+figure .grid3{padding:6px}
+@media (max-width:640px){ .grid3{grid-template-columns:repeat(2,1fr)} }
+.empty{border:2px dashed var(--rule); border-radius:7px; background:transparent;
+  min-height:150px; display:flex; flex-direction:column; align-items:center; justify-content:center;
+  gap:6px; padding:22px; text-align:center}
+.empty .lb{font-size:10.5px; font-weight:900; letter-spacing:.1em; color:var(--accent);
+  background:var(--accent-soft); border-radius:3px; padding:1px 6px}
+.empty .tx{font-size:12.5px; color:var(--ink3); line-height:1.5}
+.note{margin-top:44px; padding:14px 16px; background:var(--surface); border:1px solid var(--line); border-left:3px solid var(--rule); border-radius:0 6px 6px 0; font-size:12.5px; color:var(--ink3); line-height:1.7}
+
+@media (max-width:640px){
+  .wrap{padding:36px 20px 60px}
+  .metrics{grid-template-columns:repeat(2,1fr)}
+  .comp,.figs.two{grid-template-columns:1fr}
+  .name{font-size:28px}
+  .work dl{grid-template-columns:1fr; gap:2px}
+  .work dt{padding-top:8px}
+  td.per,td.ph{width:auto}
+}
+@media print{
+  :root{--bg:#fff; --surface:#fafbfc; --ink:#000; --ink2:#333; --ink3:#666; --line:#ddd; --accent:#1f5f8b; --accent-soft:#eef4f8; --rule:#bbb}
+  body{font-size:10.5pt}
+  .wrap{max-width:none; padding:0}
+  .work,.comp .c,figure{break-inside:avoid}
+  h2{break-after:avoid}
+  .note{break-inside:avoid}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1 class="name">손석완</h1>
+  <p class="role">레벨 디자이너 · Level Designer</p>
+  <p class="meta">
+    <span>오픈월드 액션 어드벤처 <b>ProjectT</b> (왕좌의 게임 IP)</span><i>·</i>
+    <span>2022.08 ~ 재직 중 (경력 3년 3개월, 육아휴직 10개월 제외)</span><i>·</i>
+    <span>Unreal Engine 5</span>
+  </p>
+</header>
+
+<h2>Summary</h2>
+<p class="lead">
+지형과 동선을 만드는 데서 멈추지 않고, <b>레벨에 필요한 기능을 직접 기획해 타 부서에 발주하고 완성까지 끌고 가는</b> 레벨 디자이너입니다.
+</p>
+<ul class="clean">
+  <li><b>필드 지역 5곳</b> — 최북단 · 올드타운 · 하이가든 · 크로우즈네스트 · 트윈스</li>
+  <li><b>던전 5종</b> — 그리핀 · 크라켄 · 장벽너머 · 맘모스 · 하렌홀(PvEvP)</li>
+  <li>필드 콘텐츠 <b>5개 유형을 정의</b>하고 지역마다 인스턴스화</li>
+  <li><b>레벨 기믹 · 가젯 · 이동 규칙 · 전투 장막</b>을 기획해 6개 부서에 발주 (100건)</li>
+  <li><b>AI 목업 파이프라인 구축</b> — 활용률 53%, 시간 절감 31%</li>
+</ul>
+
+<h2>By the numbers</h2>
+<div class="metrics">
+  <div class="metric"><span class="n">1,637</span><span class="l">Perforce 서브밋</span></div>
+  <div class="metric"><span class="n">597</span><span class="l">Jira 이슈 관여</span></div>
+  <div class="metric"><span class="n">5</span><span class="l">주요 필드 지역</span></div>
+  <div class="metric"><span class="n">5</span><span class="l">던전</span></div>
+  <div class="metric"><span class="n">100</span><span class="l">타 부서 발주 이슈</span></div>
+</div>
+
+<h2>Selected work</h2>
+
+<div class="work">
+  <div class="top"><h3>레벨 관련 각종 기능·기믹 기획</h3><span class="yr">2022 – 2024</span></div>
+  <p class="sub">발주 이슈 100건 · 담당했다가 배분한 이슈 365건</p>
+  <dl>
+    <dt>범위</dt><dd><b>이동 규칙</b>(경사 지형·특수 지형·사다리·로프·도개교) · <b>레벨 기믹</b>(트리거 시스템·문·물체 옮기기·도르레) · <b>가젯</b>(스위치·carry·파괴형 프랍) · <b>전투 연출</b>(영역 장막·파괴 FX)</dd>
+    <dt>방식</dt><dd>Story를 쥐고 하위 작업을 클라·서버·애니·이펙트·배경·사운드로 분해해 발주. 기능과 함께 <b>작업 도구</b>(에디터 경사도 표시, 좌표 복사)도 요청.</dd>
+    <dt>기반</dt><dd>2022년 발주한 <b>트리거 시스템</b>이 이후 모든 레벨 기믹의 공통 기반이 되었습니다.</dd>
+  </dl>
+  <div class="figs one">
+    <figure><img src="images/10-1_%EB%A0%88%EB%B2%A8%EA%B8%B0%EB%8A%A5_%EC%97%85%EB%AC%B4%EB%B9%84%EC%A4%91_%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BD.png" alt="업무 비중 인포그래픽" loading="lazy"><figcaption><b>업무 비중</b> — Perforce 서브밋 1,637건과 Jira 이슈 554건을 분류한 결과. 서브밋의 21%가 레벨 기능·기믹이며, 이슈의 61%는 설계 후 타 부서로 넘긴 작업.</figcaption></figure>
+  </div>
+  <div class="tags"><span class="tag">레벨 기믹</span><span class="tag">가젯</span><span class="tag">이동 규칙</span><span class="tag">전투 장막·FX</span><span class="tag">크로스팀 발주</span></div>
+</div>
+
+<h2>Field regions</h2>
+<p class="lead" style="font-size:14.5px; color:var(--ink2)">각 지역을 <b>평면도 → 목업 전경 → 실작업</b> 순으로. 출시 지역은 공식 영상 링크 포함.</p>
+
+<div class="case">
+  <div class="top"><h3>최북단 · 라스트허스 / 레난스레스트</h3><span class="yr">챕터 1.1 · 2023</span></div>
+  <p class="sub">인트로 튜토리얼 구간 · 평면도 · 레벨 기획서 · 목업 담당 · 서브밋 234건</p>
+  <p class="role"><b>게임의 첫 지역.</b> 이동 규칙과 필드 콘텐츠 5종을 학습시키는 구간으로, 플레이 시퀀스와 구간별 소요 시간까지 함께 설계했습니다.</p>
+  <div class="figs one">
+    <figure><img src="images/01-1_%EC%B5%9C%EB%B6%81%EB%8B%A8_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg" alt="최북단 지역 평면도" loading="lazy"><figcaption><span class="step">01 평면도</span><b>최북단 평면도</b> — 캐슬블랙~라스트하스~롱레이크 구간의 지역 경계·주 동선·콘텐츠 배치.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/01-2_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EB%AA%A9%EC%97%85_01.jpg" alt="최북단 목업 전경 1" loading="lazy"><img src="images/01-2_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EB%AA%A9%EC%97%85_02.jpg" alt="최북단 목업 전경 2" loading="lazy"><img src="images/01-2_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EB%AA%A9%EC%97%85_03.jpg" alt="최북단 목업 전경 3" loading="lazy"><img src="images/01-2_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EB%AA%A9%EC%97%85_04.jpg" alt="최북단 목업 전경 4" loading="lazy"><img src="images/01-2_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EB%AA%A9%EC%97%85_05.jpg" alt="최북단 목업 전경 5" loading="lazy"><img src="images/01-2_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EB%AA%A9%EC%97%85_06.jpg" alt="최북단 목업 전경 6" loading="lazy"><img src="images/01-2_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EB%AA%A9%EC%97%85_07.jpg" alt="최북단 목업 전경 7" loading="lazy"><img src="images/01-2_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EB%AA%A9%EC%97%85_08.jpg" alt="최북단 목업 전경 8" loading="lazy"><img src="images/01-2_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EB%AA%A9%EC%97%85_09.jpg" alt="최북단 목업 전경 9" loading="lazy"></div><figcaption><span class="step">02 목업 전경</span><b>목업 전경</b> — 세부 지역별 목업을 각도별로 검증. 붉은 마킹은 배치·수정 대상 구역.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_01.jpg" alt="최북단 완성 화면 1" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_02.jpg" alt="최북단 완성 화면 2" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_03.jpg" alt="최북단 완성 화면 3" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_04.jpg" alt="최북단 완성 화면 4" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_05.jpg" alt="최북단 완성 화면 5" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_06.jpg" alt="최북단 완성 화면 6" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_07.jpg" alt="최북단 완성 화면 7" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_08.jpg" alt="최북단 완성 화면 8" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_09.jpg" alt="최북단 완성 화면 9" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_10.jpg" alt="최북단 완성 화면 10" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_11.jpg" alt="최북단 완성 화면 11" loading="lazy"><img src="images/01-3_%EC%B5%9C%EB%B6%81%EB%8B%A8_%EC%8B%A4%EC%9E%91%EC%97%85_12.jpg" alt="최북단 완성 화면 12" loading="lazy"></div><figcaption><span class="step">03 실작업</span><b>완성된 최북단</b> — 장벽·몰스 타운·라스트 하스 일대와 실내 공간.</figcaption></figure>
+  </div>
+  <a class="vid" href="https://www.youtube.com/watch?v=AsC8DTOZZI4"><span class="play"></span><span><span class="t">04 출시 영상 — [왕좌의 게임: 킹스로드] 레난스레스트</span><br><span class="u">youtube.com/watch?v=AsC8DTOZZI4 · 공식 채널</span></span></a>
+</div>
+
+<div class="case">
+  <div class="top"><h3>올드타운 (리치)</h3><span class="yr">챕터 2.1 – 2.2 · 2023</span></div>
+  <p class="sub">평면도 · 레벨 기획서 · B구역 필드 목업 S1~S5 · 시타델 내부 목업 담당 · 서브밋 248건</p>
+  <p class="role">담당 지역 중 <b>최대 규모.</b> A~D 구역으로 쪼개고 콘텐츠마다 식별 코드를 부여해 목업·이슈·QA까지 같은 코드로 추적했습니다.</p>
+  <div class="figs one">
+    <figure><img src="images/02-1_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg" alt="올드타운 평면도" loading="lazy"><figcaption><span class="step">01 평면도</span><b>올드타운 평면도</b> — 시타델·항구를 축으로 한 도시 구조와 주변 필드, 이동 경로.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/02-2_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EB%AA%A9%EC%97%85_01.jpg" alt="올드타운 목업 전경 1" loading="lazy"><img src="images/02-2_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EB%AA%A9%EC%97%85_02.jpg" alt="올드타운 목업 전경 2" loading="lazy"><img src="images/02-2_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EB%AA%A9%EC%97%85_03.jpg" alt="올드타운 목업 전경 3" loading="lazy"><img src="images/02-2_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EB%AA%A9%EC%97%85_04.jpg" alt="올드타운 목업 전경 4" loading="lazy"><img src="images/02-2_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EB%AA%A9%EC%97%85_05.jpg" alt="올드타운 목업 전경 5" loading="lazy"><img src="images/02-2_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EB%AA%A9%EC%97%85_06.jpg" alt="올드타운 목업 전경 6" loading="lazy"><img src="images/02-2_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EB%AA%A9%EC%97%85_07.jpg" alt="올드타운 목업 전경 7" loading="lazy"><img src="images/02-2_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EB%AA%A9%EC%97%85_08.jpg" alt="올드타운 목업 전경 8" loading="lazy"><img src="images/02-2_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EB%AA%A9%EC%97%85_09.jpg" alt="올드타운 목업 전경 9" loading="lazy"></div><figcaption><span class="step">02 목업 전경</span><b>목업 전경</b> — 밀밭·마을·셉트·해안 절벽 등 세부 지역 목업. 색상 마킹으로 배치 대상을 구분.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/02-3_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EC%8B%A4%EC%9E%91%EC%97%85_01.jpg" alt="올드타운 완성 화면 1" loading="lazy"><img src="images/02-3_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EC%8B%A4%EC%9E%91%EC%97%85_02.jpg" alt="올드타운 완성 화면 2" loading="lazy"><img src="images/02-3_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EC%8B%A4%EC%9E%91%EC%97%85_03.jpg" alt="올드타운 완성 화면 3" loading="lazy"><img src="images/02-3_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EC%8B%A4%EC%9E%91%EC%97%85_04.jpg" alt="올드타운 완성 화면 4" loading="lazy"><img src="images/02-3_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EC%8B%A4%EC%9E%91%EC%97%85_05.jpg" alt="올드타운 완성 화면 5" loading="lazy"><img src="images/02-3_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EC%8B%A4%EC%9E%91%EC%97%85_06.jpg" alt="올드타운 완성 화면 6" loading="lazy"><img src="images/02-3_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EC%8B%A4%EC%9E%91%EC%97%85_07.jpg" alt="올드타운 완성 화면 7" loading="lazy"><img src="images/02-3_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EC%8B%A4%EC%9E%91%EC%97%85_08.jpg" alt="올드타운 완성 화면 8" loading="lazy"><img src="images/02-3_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EC%8B%A4%EC%9E%91%EC%97%85_09.jpg" alt="올드타운 완성 화면 9" loading="lazy"><img src="images/02-3_%EC%98%AC%EB%93%9C%ED%83%80%EC%9A%B4_%EC%8B%A4%EC%9E%91%EC%97%85_10.jpg" alt="올드타운 완성 화면 10" loading="lazy"></div><figcaption><span class="step">03 실작업</span><b>완성된 올드타운</b> — 시타델과 항구, 해안 절벽 시가지와 광장.</figcaption></figure>
+  </div>
+  <a class="vid" href="https://www.youtube.com/watch?v=b4sJzjbDA_U"><span class="play"></span><span><span class="t">04 출시 영상 — [왕좌의 게임: 킹스로드] 웨스테로스 탐험 · 올드타운</span><br><span class="u">youtube.com/watch?v=b4sJzjbDA_U · 공식 채널</span></span></a>
+</div>
+
+<div class="case">
+  <div class="top"><h3>하이가든</h3><span class="yr">챕터 2.3 · 2023</span></div>
+  <p class="sub">평면도 1차·최종 · 레벨 기획서 1차·최종 · 성·마을 목업 · 필드 목업 담당 · 서브밋 138건</p>
+  <p class="role">리치 남부의 정원 도시. 평면도·기획서를 <b>1차 / 최종으로 나눠 개정</b>하며 성·마을과 필드를 단계적으로 확정. 필드 콘텐츠로 세력 은신처와 위기의 성소를 배치.</p>
+  <div class="figs one">
+    <figure><img src="images/03-1_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg" alt="하이가든 평면도" loading="lazy"><figcaption><span class="step">01 평면도</span><b>하이가든 평면도</b> — 성채를 중심으로 한 필드 구성과 진입 동선.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/03-2_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EB%AA%A9%EC%97%85_01.jpg" alt="하이가든 목업 전경 1" loading="lazy"><img src="images/03-2_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EB%AA%A9%EC%97%85_02.jpg" alt="하이가든 목업 전경 2" loading="lazy"><img src="images/03-2_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EB%AA%A9%EC%97%85_03.jpg" alt="하이가든 목업 전경 3" loading="lazy"><img src="images/03-2_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EB%AA%A9%EC%97%85_04.jpg" alt="하이가든 목업 전경 4" loading="lazy"><img src="images/03-2_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EB%AA%A9%EC%97%85_05.jpg" alt="하이가든 목업 전경 5" loading="lazy"><img src="images/03-2_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EB%AA%A9%EC%97%85_06.jpg" alt="하이가든 목업 전경 6" loading="lazy"><img src="images/03-2_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EB%AA%A9%EC%97%85_07.jpg" alt="하이가든 목업 전경 7" loading="lazy"><img src="images/03-2_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EB%AA%A9%EC%97%85_08.jpg" alt="하이가든 목업 전경 8" loading="lazy"><img src="images/03-2_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EB%AA%A9%EC%97%85_09.jpg" alt="하이가든 목업 전경 9" loading="lazy"></div><figcaption><span class="step">02 목업 전경</span><b>목업 전경</b> — 성 입구·메인 광장·연회장·축제장·상점가·미로 정원 목업.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_01.jpg" alt="하이가든 완성 화면 1" loading="lazy"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_02.jpg" alt="하이가든 완성 화면 2" loading="lazy"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_03.jpg" alt="하이가든 완성 화면 3" loading="lazy"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_04.jpg" alt="하이가든 완성 화면 4" loading="lazy"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_05.jpg" alt="하이가든 완성 화면 5" loading="lazy"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_06.jpg" alt="하이가든 완성 화면 6" loading="lazy"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_07.jpg" alt="하이가든 완성 화면 7" loading="lazy"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_08.jpg" alt="하이가든 완성 화면 8" loading="lazy"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_09.jpg" alt="하이가든 완성 화면 9" loading="lazy"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_10.jpg" alt="하이가든 완성 화면 10" loading="lazy"><img src="images/03-3_%ED%95%98%EC%9D%B4%EA%B0%80%EB%93%A0_%EC%8B%A4%EC%9E%91%EC%97%85_11.jpg" alt="하이가든 완성 화면 11" loading="lazy"></div><figcaption><span class="step">03 실작업</span><b>완성된 하이가든</b> — 성채와 정원, 연회장·축제장, 본성 영접실.</figcaption></figure>
+  </div>
+</div>
+
+<div class="case">
+  <div class="top"><h3>크로우즈네스트 (스톰랜드)</h3><span class="yr">챕터 3.3 · 2023 – 2024</span></div>
+  <p class="sub">평면도·기획서 리뉴얼 전 세트 재제작 · 세력 은신처 · 점령된 구역 담당 · 서브밋 63건</p>
+  <p class="role">초기 제작 후 리뉴얼이 결정되어 <b>평면도부터 목업까지 전 세트를 다시 제작</b>. 이후 점령된 구역(2024)과 소형 콘텐츠 배치(2026)까지 담당.</p>
+  <div class="figs one">
+    <figure><img src="images/04-1_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg" alt="크로우즈네스트 평면도" loading="lazy"><figcaption><span class="step">01 평면도</span><b>크로우즈네스트 평면도</b> — 메인(M)·서브(S) 콘텐츠 배치를 지도에 직접 표기.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/04-2_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EB%AA%A9%EC%97%85_01.jpg" alt="크로우즈네스트 목업 전경 1" loading="lazy"><img src="images/04-2_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EB%AA%A9%EC%97%85_02.jpg" alt="크로우즈네스트 목업 전경 2" loading="lazy"><img src="images/04-2_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EB%AA%A9%EC%97%85_03.jpg" alt="크로우즈네스트 목업 전경 3" loading="lazy"><img src="images/04-2_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EB%AA%A9%EC%97%85_04.jpg" alt="크로우즈네스트 목업 전경 4" loading="lazy"><img src="images/04-2_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EB%AA%A9%EC%97%85_05.jpg" alt="크로우즈네스트 목업 전경 5" loading="lazy"><img src="images/04-2_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EB%AA%A9%EC%97%85_06.jpg" alt="크로우즈네스트 목업 전경 6" loading="lazy"><img src="images/04-2_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EB%AA%A9%EC%97%85_07.jpg" alt="크로우즈네스트 목업 전경 7" loading="lazy"><img src="images/04-2_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EB%AA%A9%EC%97%85_08.jpg" alt="크로우즈네스트 목업 전경 8" loading="lazy"><img src="images/04-2_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EB%AA%A9%EC%97%85_09.jpg" alt="크로우즈네스트 목업 전경 9" loading="lazy"></div><figcaption><span class="step">02 목업 전경</span><b>목업 전경</b> — 숙영지·항구마을·약초밭·채석장 등 점령된 구역 목업. 초록은 전투 구역, 붉은색은 배치 대상.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_01.jpg" alt="크로우즈네스트 완성 화면 1" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_02.jpg" alt="크로우즈네스트 완성 화면 2" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_03.jpg" alt="크로우즈네스트 완성 화면 3" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_04.jpg" alt="크로우즈네스트 완성 화면 4" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_05.jpg" alt="크로우즈네스트 완성 화면 5" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_06.jpg" alt="크로우즈네스트 완성 화면 6" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_07.jpg" alt="크로우즈네스트 완성 화면 7" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_08.jpg" alt="크로우즈네스트 완성 화면 8" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_09.jpg" alt="크로우즈네스트 완성 화면 9" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_10.jpg" alt="크로우즈네스트 완성 화면 10" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_11.jpg" alt="크로우즈네스트 완성 화면 11" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_12.jpg" alt="크로우즈네스트 완성 화면 12" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_13.jpg" alt="크로우즈네스트 완성 화면 13" loading="lazy"><img src="images/04-3_%ED%81%AC%EB%A1%9C%EC%9A%B0%EC%A6%88%EB%84%A4%EC%8A%A4%ED%8A%B8_%EC%8B%A4%EC%9E%91%EC%97%85_14.jpg" alt="크로우즈네스트 완성 화면 14" loading="lazy"></div><figcaption><span class="step">03 실작업</span><b>완성된 크로우즈네스트</b> — 성채와 채석장, 항구마을, 숙영지 일대.</figcaption></figure>
+  </div>
+</div>
+
+<div class="case">
+  <div class="top"><h3>트윈스</h3><span class="yr">챕터 5.2 · 2026</span></div>
+  <p class="sub">지역 레벨디자인 · 목업 담당 · 진행 중</p>
+  <p class="role">챕터5 넥 권역의 신규 지역. <b>진행 중.</b> 늪지·수상 가옥 등 기존 지역과 무드가 달라 컨셉 단계를 별도로 세웠습니다.</p>
+  <p class="role" style="margin-top:10px; padding:11px 13px; background:var(--bg); border:1px dashed var(--rule); border-radius:6px; font-size:13px; color:var(--ink3)"><b>미공개 지역</b> — 아직 출시되지 않은 지역이라 평면도·목업·실작업 이미지를 첨부하지 않았습니다.</p>
+</div>
+
+<h2>Dungeons</h2>
+<p class="lead" style="font-size:14.5px; color:var(--ink2)">던전 5종. 같은 순서로 정리.</p>
+
+<div class="case">
+  <div class="top"><h3>그리핀 던전 (기억의 제단)</h3><span class="yr">2022 – 2023</span></div>
+  <p class="sub">첫 던전 단독 전담 · 레벨 기획 + 기능 기획 · 6개 부서 발주 · Jira 42건 · 서브밋 118건</p>
+  <p class="role">입사 3개월차에 받은 <b>첫 던전, 단독 전담.</b> 레벨·기능 기획을 직접 하고 <b>6개 부서에 발주</b>. 기획 의도 전달용 인게임 장치(컨셉 쪽지 가젯)까지 설계했습니다.</p>
+  <div class="figs one">
+    <figure><img src="images/05-1_%EA%B7%B8%EB%A6%AC%ED%95%80%EB%8D%98%EC%A0%84_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg" alt="그리핀 던전 평면도" loading="lazy"><figcaption><span class="step">01 평면도</span><b>던전 구조 (Top View)</b> — 스타트 포인트·진입로·전투 공간·공중 공간(직경 110m)과 덫 설치 지점을 치수와 함께 확정.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><img src="images/05-2_%EA%B7%B8%EB%A6%AC%ED%95%80%EB%8D%98%EC%A0%84_%EB%AA%A9%EC%97%85.jpg" alt="그리핀 던전 목업 전경" loading="lazy"><figcaption><span class="step">02 목업 전경</span><b>Perspective View</b> — 나루터·진입로·전투 공간·숲길·피치 오염 지대를 블록아웃으로 세우고 등장 연출 위치를 표기.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/05-3_%EA%B7%B8%EB%A6%AC%ED%95%80%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_01.jpg" alt="그리핀 던전 완성 화면 1" loading="lazy"><img src="images/05-3_%EA%B7%B8%EB%A6%AC%ED%95%80%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_02.jpg" alt="그리핀 던전 완성 화면 2" loading="lazy"><img src="images/05-3_%EA%B7%B8%EB%A6%AC%ED%95%80%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_03.jpg" alt="그리핀 던전 완성 화면 3" loading="lazy"><img src="images/05-3_%EA%B7%B8%EB%A6%AC%ED%95%80%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_04.jpg" alt="그리핀 던전 완성 화면 4" loading="lazy"><img src="images/05-3_%EA%B7%B8%EB%A6%AC%ED%95%80%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_05.jpg" alt="그리핀 던전 완성 화면 5" loading="lazy"></div><figcaption><span class="step">03 실작업</span><b>완성된 그리핀 던전</b> — 나루터 진입부와 전투 공간, 갱도 구간.</figcaption></figure>
+  </div>
+  <a class="vid" href="https://www.youtube.com/watch?v=PTcLt2CsOfU"><span class="play"></span><span><span class="t">04 플레이 영상 — 기억의 제단 · 그리핀 처치</span><br><span class="u">youtube.com/watch?v=PTcLt2CsOfU</span></span></a>
+</div>
+
+<div class="case">
+  <div class="top"><h3>크라켄 던전 (기억의 제단 → 심연의 제단)</h3><span class="yr">2023 – 2026</span></div>
+  <p class="sub">레벨디자인 · 페이즈 동선 · 서브밋 26건</p>
+  <p class="role">해저 동굴 던전. 페이즈 전환 동선과 낙사 지점을 설계하고, 심연의 제단으로 이어지며 하드·관전 모드 이슈까지 대응.</p>
+  <div class="figs one">
+    <figure><img src="images/06-1_%ED%81%AC%EB%9D%BC%EC%BC%84%EB%8D%98%EC%A0%84_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg" alt="크라켄 던전 평면도" loading="lazy"><figcaption><span class="step">01 평면도</span><b>평면도</b> — 인트로부터 P1~P3-3까지 페이즈별 전투 구역과 이동 경로를 구역 설명과 함께 정리.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><img src="images/06-2_%ED%81%AC%EB%9D%BC%EC%BC%84%EB%8D%98%EC%A0%84_%EB%AA%A9%EC%97%85.jpg" alt="크라켄 던전 목업 전경" loading="lazy"><figcaption><span class="step">02 목업 전경</span><b>목업 전경</b> — 해안 요새·난파선·등대를 블록아웃으로 배치해 페이즈 간 동선을 검증.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/06-3_%ED%81%AC%EB%9D%BC%EC%BC%84%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_01.jpg" alt="크라켄 던전 완성 화면 1" loading="lazy"><img src="images/06-3_%ED%81%AC%EB%9D%BC%EC%BC%84%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_02.jpg" alt="크라켄 던전 완성 화면 2" loading="lazy"><img src="images/06-3_%ED%81%AC%EB%9D%BC%EC%BC%84%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_03.jpg" alt="크라켄 던전 완성 화면 3" loading="lazy"><img src="images/06-3_%ED%81%AC%EB%9D%BC%EC%BC%84%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_04.jpg" alt="크라켄 던전 완성 화면 4" loading="lazy"><img src="images/06-3_%ED%81%AC%EB%9D%BC%EC%BC%84%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_05.jpg" alt="크라켄 던전 완성 화면 5" loading="lazy"><img src="images/06-3_%ED%81%AC%EB%9D%BC%EC%BC%84%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_06.jpg" alt="크라켄 던전 완성 화면 6" loading="lazy"><img src="images/06-3_%ED%81%AC%EB%9D%BC%EC%BC%84%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_07.jpg" alt="크라켄 던전 완성 화면 7" loading="lazy"><img src="images/06-3_%ED%81%AC%EB%9D%BC%EC%BC%84%EB%8D%98%EC%A0%84_%EC%8B%A4%EC%9E%91%EC%97%85_08.jpg" alt="크라켄 던전 완성 화면 8" loading="lazy"></div><figcaption><span class="step">03 실작업</span><b>완성된 크라켄 던전</b> — 해안 요새와 난파선, 페이즈별 전투 공간.</figcaption></figure>
+  </div>
+  <a class="vid" href="https://www.youtube.com/watch?v=pWnUNvTq0wU"><span class="play"></span><span><span class="t">04 플레이 영상 — 심연의 제단 · 강철군도 해안의 크라켄</span><br><span class="u">youtube.com/watch?v=pWnUNvTq0wU</span></span></a>
+</div>
+
+<div class="case">
+  <div class="top"><h3>장벽너머 던전 (일부)</h3><span class="yr">2023 – 2024</span></div>
+  <p class="sub">PvE 콘텐츠 목업 9/9 완주 · 밤의 경비대 구출 · 야인 거인 처치 구간 · 서브밋 28건</p>
+  <p class="role">PvE 콘텐츠의 <b>일부 구간</b> 담당. 목업 9회 완주, 밤의 경비대 구출·야인 거인 처치 구간의 밧줄 특수 이동과 스타팅 포인트 이슈 정리.</p>
+  <div class="figs one">
+    <figure><img src="images/07-1_%EC%9E%A5%EB%B2%BD%EB%84%88%EB%A8%B8_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg" alt="장벽너머 던전 평면도" loading="lazy"><figcaption><span class="step">01 평면도</span><b>7구역 평면도</b> — 설원 전투 구역의 지형과 엄폐물 배치.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/07-3_%EC%9E%A5%EB%B2%BD%EB%84%88%EB%A8%B8_%EC%8B%A4%EC%9E%91%EC%97%85_01.jpg" alt="장벽너머 던전 완성 화면 1" loading="lazy"><img src="images/07-3_%EC%9E%A5%EB%B2%BD%EB%84%88%EB%A8%B8_%EC%8B%A4%EC%9E%91%EC%97%85_02.jpg" alt="장벽너머 던전 완성 화면 2" loading="lazy"><img src="images/07-3_%EC%9E%A5%EB%B2%BD%EB%84%88%EB%A8%B8_%EC%8B%A4%EC%9E%91%EC%97%85_03.jpg" alt="장벽너머 던전 완성 화면 3" loading="lazy"></div><figcaption><span class="step">03 실작업</span><b>완성된 장벽너머 구간</b> — 설원 협곡과 빙벽 전투 구역.</figcaption></figure>
+  </div>
+</div>
+
+<div class="case">
+  <div class="top"><h3>맘모스 던전 (심연의 제단)</h3><span class="yr">2026 · 진행 중</span></div>
+  <p class="sub">배경팀 전달용 레벨 기획서 작성 · 구역 분할 및 치수 확정 · 목업 OBJ 전달</p>
+  <p class="role">빙하 던전. <b>진행 중.</b> 배경팀 전달용 레벨 기획서를 작성해 구역 분할·치수를 확정하고, 목업을 좌표계 맞춘 OBJ로 전달.</p>
+  <div class="figs one">
+    <figure><img src="images/08-1_%EB%A7%98%EB%AA%A8%EC%8A%A4%EB%8D%98%EC%A0%84_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg" alt="맘모스 던전 평면도" loading="lazy"><figcaption><span class="step">01 평면도</span><b>평면도</b> — 스폰 지점부터 P1 빙하 평원 · P2 빙벽/동굴 · P3 빙하 끝단까지 페이즈별 구역과 요약 설명.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><img src="images/08-2_%EB%A7%98%EB%AA%A8%EC%8A%A4%EB%8D%98%EC%A0%84_%EB%AA%A9%EC%97%85.jpg" alt="맘모스 던전 목업 전경" loading="lazy"><figcaption><span class="step">02 목업 전경</span><b>목업 전경</b> — 빙하 지형과 조우 공간을 블록아웃으로 세워 규모와 진입 실루엣을 확정.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <div class="empty"><span class="lb">03 실작업</span><span class="tx">미공개 — 개발 진행 중인 콘텐츠로 완성 화면을 첨부하지 않았습니다</span></div>
+  </div>
+</div>
+
+<div class="case">
+  <div class="top"><h3>하렌홀 (PvEvP)</h3><span class="yr">2026</span></div>
+  <p class="sub">킥오프부터 참여 · 구현 기획서 · 레벨 기획서 · 목업 1차·2차(픽스) · 레벨 조정</p>
+  <p class="role">경쟁형 PvEvP 던전. 킥오프부터 참여해 구현·레벨 기획서를 쓰고 목업 1차·2차(픽스)까지 제작. 성채를 다층으로 나눠 <b>진입 관문 → 중정 → 시가지 → 협곡 수로</b> 동선을 화이트박스로 검증.</p>
+  <div class="figs one">
+    <figure><img src="images/09-1_%ED%95%98%EB%A0%8C%ED%99%80_%ED%8F%89%EB%A9%B4%EB%8F%84.jpg" alt="하렌홀 평면도" loading="lazy"><figcaption><span class="step">01 평면도</span><b>하렌홀 평면도</b> — A~G 구역 분할, 층별 색 구분, 팀 A/B 스타팅·리스폰·인장 반납·문·기믹 위치.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <figure><div class="grid3"><img src="images/09-2_%ED%95%98%EB%A0%8C%ED%99%80_%EB%AA%A9%EC%97%85_01.jpg" alt="하렌홀 목업 전경 1" loading="lazy"><img src="images/09-2_%ED%95%98%EB%A0%8C%ED%99%80_%EB%AA%A9%EC%97%85_02.jpg" alt="하렌홀 목업 전경 2" loading="lazy"><img src="images/09-2_%ED%95%98%EB%A0%8C%ED%99%80_%EB%AA%A9%EC%97%85_03.jpg" alt="하렌홀 목업 전경 3" loading="lazy"><img src="images/09-2_%ED%95%98%EB%A0%8C%ED%99%80_%EB%AA%A9%EC%97%85_04.jpg" alt="하렌홀 목업 전경 4" loading="lazy"><img src="images/09-2_%ED%95%98%EB%A0%8C%ED%99%80_%EB%AA%A9%EC%97%85_05.jpg" alt="하렌홀 목업 전경 5" loading="lazy"><img src="images/09-2_%ED%95%98%EB%A0%8C%ED%99%80_%EB%AA%A9%EC%97%85_06.jpg" alt="하렌홀 목업 전경 6" loading="lazy"></div><figcaption><span class="step">02 목업 전경</span><b>목업 전경</b> — 흐름돌 마당·부서진 탑·지하 감옥 터널·정원 회랑·병영·내성 앞마당과 문 기믹 공간.</figcaption></figure>
+  </div>
+  <div class="figs one">
+    <div class="empty"><span class="lb">03 실작업</span><span class="tx">미공개 — 미출시 콘텐츠로 완성 화면을 첨부하지 않았습니다</span></div>
+  </div>
+</div>
+
+<h2>Selected work (계속)</h2>
+
+<div class="work">
+  <div class="top"><h3>이동 기믹 상세기획</h3><span class="yr">2026</span></div>
+  <p class="sub">복귀 후 · 기획 문서 반복 개정으로 부서 간 합의 도출</p>
+  <dl>
+    <dt>엘리베이터</dt><dd>제작 기획을 세우고 <b>제작을 직접 담당</b>하며 5개 부서에 발주. 상세 기획서를 <b>v8까지 개정</b>해 구현 범위(멀티 미지원, 2층, LevelGimmick 기반, 시즌4)를 확정.</dd>
+    <dt>사다리 중간 취소</dt><dd><b>상세 기획서 v12까지 개정</b>해 확정 — 진입 지점 복귀, 전역 적용, 튜토리얼 밧줄만 예외. 취소 가능 구간 도식을 별도 작성.</dd>
+    <dt>렛지그랩</dt><dd>도입 제안 검토부터 참여, 시타델·올드타운 주요 월드의 문제 지점을 정리하고 최적화 진행 중.</dd>
+    <dt>차이</dt><dd>2023년이 <b>넓게 많이 만드는 일</b>이었다면, 2026년은 <b>기믹 하나를 v12까지 밀어붙여 부서 합의를 끌어내는 일</b>입니다.</dd>
+  </dl>
+  <div class="tags"><span class="tag">기믹 상세기획</span><span class="tag">문서 반복 개정</span><span class="tag">5개 부서 발주</span></div>
+</div>
+
+<div class="work">
+  <div class="top"><h3>AI 작업 파이프라인 구축과 팀 확산</h3><span class="yr">2026</span></div>
+  <p class="sub">본업과 별개로 만든 업무 인프라</p>
+  <dl>
+    <dt>목업</dt><dd>컨셉 이미지 생성 → <b>AI 3D 변환 → 언리얼 목업</b> 경로를 만들고, 지역별 고정 무드 프롬프트로 결과물 편차를 줄였습니다.</dd>
+    <dt>도구</dt><dd>시나리오 자동 분석 스킬, Jira·업무보고 연동 MCP 서버, 사내 기획서 양식 자동 적용 도구를 제작.</dd>
+    <dt>확산</dt><dd>팀 공용 AI 자산 연결, 팀원용 사용 안내, AI 활용 현황 취합.</dd>
+    <dt>성과</dt><dd>업무 기록상 <b>평균 활용률 53% · 시간 절감 31%</b>. 발산이 필요한 <b>컨셉 기획 단계는 75% · 40%</b>로 가장 높음.</dd>
+  </dl>
+  <div class="tags"><span class="tag">AI 목업</span><span class="tag">도구 제작</span><span class="tag">팀 확산</span><span class="tag">정량 성과</span></div>
+</div>
+
+<h2>Career timeline</h2>
+<table>
+  <thead><tr><th>기간</th><th>국면</th><th>내용</th></tr></thead>
+  <tbody>
+    <tr><td class="per">2022.08 – 2022.12</td><td class="ph">입사 · 시스템 기획</td><td>레벨 기믹 트리거 시스템 등 레벨 기능 기획 착수, 그리핀 던전 단독 전담</td></tr>
+    <tr><td class="per">2023</td><td class="ph">지역 대량 생산</td><td>최북단·올드타운·하이가든·크로우즈네스트 제작, 필드 콘텐츠 5종 유형화, 가젯·파괴형 프랍 시스템, 장벽너머 던전 — 서브밋 626건</td></tr>
+    <tr><td class="per">2024</td><td class="ph">월드 품질 관리</td><td>길찾기 waypoint 정리, 네비메시·레벨기믹 결함 대응, 세력 은신처 개선 — 서브밋 771건</td></tr>
+    <tr class="leave"><td class="per">2025.02 – 2025.11</td><td class="ph">육아휴직</td><td>약 10개월</td></tr>
+    <tr><td class="per">2026.01 – 현재</td><td class="ph">복귀 · 상세기획 + AI</td><td>하렌홀 PvEvP 던전, 트윈스·챕터5 넥 지역, 맘모스 던전(진행 중), 이동 기믹 상세기획(v8·v12), AI 파이프라인 구축 및 팀 확산</td></tr>
+  </tbody>
+</table>
+
+<h2>Skills &amp; tools</h2>
+<dl class="skills">
+  <dt>엔진</dt><dd>Unreal Engine 5 — World Partition, Data Layer, Level Instance, NavMesh / NavDataChunk, HLOD, Landscape, Area Volume, 실내맵 구조</dd>
+  <dt>레벨디자인</dt><dd>평면도 · 레벨 기획서 작성, 그레이박스 / 화이트박스 목업, 동선 설계, 퍼즐 및 기믹 배치, 실내 구조 설계, 도달성 판정</dd>
+  <dt>기획</dt><dd>시스템·기믹 상세 기획, 부서별 작업 분해 및 발주, 사양 문서 반복 개정을 통한 합의 도출</dd>
+  <dt>협업</dt><dd>Perforce, Jira, Confluence, 사내 업무 관리 시스템</dd>
+  <dt>AI 활용</dt><dd>Claude Code, Gemini, Meshy, 이미지 생성 도구, MCP 서버 구축 및 워크플로우 자동화</dd>
+</dl>
+
+<div class="note">
+<b>이미지</b> — 모든 이미지는 원본 해상도 파일을 그대로 참조합니다. 이 HTML은 같은 폴더의 <code>images</code> 폴더와 함께 두어야 표시됩니다. 해상도는 원본과 동일하며 인코딩만 JPEG로 바꿨습니다.<br><b>문서 작성 기준</b> — 모든 수치는 Perforce 서브밋(1,637건) · Jira 이슈(597건) · 사내 업무 기록을 교차 대조해 산출했습니다.
+</div>
+
+</div>
+</body>
+</html>

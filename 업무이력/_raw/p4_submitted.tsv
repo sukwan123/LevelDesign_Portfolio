@@ -1,0 +1,1638 @@
+change	date	client	desc
+533359	2026/05/28	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @529215 / [손석완][레벨] 올드타운 세력은신처 보스존 이중사다리 삭제 후 일반 사다리로 대체 / https://jira.nmn.io/browse/QAGOTASIA-636 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @52
+524179	2026/05/08	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @524174 / [손석완][레벨] 불필요 포인트 라이트 제거 ExecTCmd MOV 7185.150423 -767327.487935 7090.903846 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @524174
+518763	2026/04/28	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @518762 / [손석완][레벨] 올드타운 버려진 유적지 끌차 끌고 턱 올라가지는 문제 수정 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @518762
+516904	2026/04/24	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @516903 / [손석완][레벨] 브워킵 프랍 들뜬 것들 수정 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @516903
+516352	2026/04/24	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @516347 / [손석완][레벨] 브워킵 지역 들뜬 프랍 수정 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @516347
+516314	2026/04/24	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @516313 / [손석완][레벨] 브워킵 지역 들뜬 프랍 붙이기 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @516313
+516274	2026/04/24	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @516273 / [손석완][레벨] 올드타운 버유 02 수정 - 끌차 끌고 계단에 올라가지는 현상 수정 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @516273
+515857	2026/04/23	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @515853 / [손석완][레벨] 피직스 머티리얼 PM_Rock으로 수정 - 발소리가 Dirt로 나오는 문제 수정 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @515853
+515084	2026/04/23	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @515083 / [손석완][레벨] 최북단 2.0 버려진 유적지 도개교 사선 통제되게 수정 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @515083
+514247	2026/04/22	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @514208 / [손석완][레벨] 웜워크 입구 실내용 미니맵 볼륨 신설 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @514208
+514176	2026/04/22	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @514171 / [손석완][레벨] 올드타운 흉포한동물 뼈다구 어뷰징 문제로 동굴 속으로 넣어버림. / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @514171
+514131	2026/04/22	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @514122 / [손석완][레벨] 올드타운 세력은신처 미니맵 볼륨 수정 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @514122
+513245	2026/04/21	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @513182 / [손석완][레벨] 시타델 지하수로에서 "시타델"이라고 지역명 뜨는 문제 수정 - 2100041 subarea의 z값을 높임. / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @513182
+505719	2026/04/10	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @505696 / [손석완][레벨] 드레드포트 지역에 바위 밑둥 보이는 문제 수정 / #changelist 유효성 검사 완료 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/AL01 (//streamsMain/Main/Trunk) @505696
+497763	2026/03/31	Design_Seokwan_AL01	[손석완][Trunk=>AL01] @496083 / [손석완][레벨] 시타델 내부 데이터레이어 및 가젯 수정 - 브워킵 다녀온 후에 나와야 할 프랍들이 그 이전부터 나오는 현상 수정 -> 시타델 정상화된 상태를 다음의 퀘스트태스크가 완료된 시점으로 변
+569455	2026/08/19	Design_Seokwan_CBT	[손석완][Trunk=>Asia_S2] @569071 / [손석완][레벨] 크라켄 던전 3 -> 4페이즈 이동 경로에 빠지는 구역 수정 / https://jira.nmn.io/browse/GOAT-9100 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_S2 (//streamsMain/Main/Trunk) @569071
+563326	2026/08/06	Design_Seokwan_CBT	[손석완][Trunk=>Asia_S2] @563325 / [손석완][레벨] 크라켄 난파선 난간에 블로킹 볼륨 추가_2 / https://jira.nmn.io/browse/GOAT-8197 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_S2 (//streamsMain/Main/Trunk) @563325
+563299	2026/08/06	Design_Seokwan_CBT	[손석완][Trunk=>Asia_S2] @563296 / [손석완][레벨] 크라켄 난파선 난간에 블로킹 볼륨 추가 / https://jira.nmn.io/browse/GOAT-8197 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_S2 (//streamsMain/Main/Trunk) @563296
+563155	2026/08/06	Design_Seokwan_CBT	[손석완][Trunk=>Asia_S2] @563146 / [손석완][레벨] 스톰랜드 목업 액터 에디터 전용 처리 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_S2 (//streamsMain/Main/Trunk) @563146
+563057	2026/08/06	Design_Seokwan_CBT	[손석완][Trunk=>Asia_S2] @563056 / [손석완][레벨] 크로우즈 네스트 목업용 액터들 쿠킹 제외 처리 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_S2 (//streamsMain/Main/Trunk) @563056
+559220	2026/07/31	Design_Seokwan_CBT	[손석완][Trunk=>Asia_S2] @559076 / [손석완][레벨][점령된구역] 점령된 구역: 레드픽 > 캐릭터가 올라탈 수 있는 프랍 및 NPC 접근 불가 지형 좌표 모음 / https://jira.nmn.io/browse/GOAT-7949 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Releas
+559219	2026/07/31	Design_Seokwan_CBT	[손석완][Trunk=>Asia_S2] @559047 / [손석완][레벨][Live] 북부 버려진 유적지 이중 사다리 끼임 현상 확인 요청 / https://jira.nmn.io/browse/QAGOTASIA-1060 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_S2 (//streamsMain/Main/Trunk) @559047
+533698	2026/05/29	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @533691 / [손석완][레벨]  / [버려진 유적지] 사나운 바다 레벨 버그 - 추가 수정 / https://jira.nmn.io/browse/PROJECTT-40604 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_UP01 (//streamsMain/Main/Trunk) @533691
+533696	2026/05/29	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @533695 / [손석완][레벨]  / [소형컨텐츠] 편지통으로 쉽게 도달하지 못하는 지점 - 추가 수정 / https://jira.nmn.io/browse/PROJECTT-40642 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_UP01 (//streamsMain/Main/Tr
+533668	2026/05/29	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @533534 / [손석완][레벨] / [버려진 유적지] 쓰러진 거인의 왕 점프로 넘어가선 안 되는 지점 넘어가짐 / https://jira.nmn.io/browse/PROJECTT-40596 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_UP01 (//streams
+533667	2026/05/29	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @533535 / [손석완][레벨] / [점령된 구역] 그리핀스코브에 유도동선을 가로 막는 프랍 / https://jira.nmn.io/browse/PROJECTT-40609 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_UP01 (//streamsMain/Main/Trunk) @5335
+533665	2026/05/29	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @533536 / [손석완][레벨] / [버려진 유적지] 사나운 바다 레벨 버그 / https://jira.nmn.io/browse/PROJECTT-40604 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_UP01 (//streamsMain/Main/Trunk) @533536
+533664	2026/05/29	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @533537 / [손석완][레벨] / [레벨디자인] 크로우즈네스트 버려진 유적지 부근에 떨어지면 되올라올 수 없는 구간 존재 / https://jira.nmn.io/browse/PROJECTT-40601 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release
+533663	2026/05/29	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @533539 / [손석완][레벨] / [버려진 유적지] 숲의 마녀 갇히는 공간 수정 / https://jira.nmn.io/browse/PROJECTT-40600 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_UP01 (//streamsMain/Main/Trunk) @533539
+533662	2026/05/29	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @533614 / [손석완][레벨] / [소형컨텐츠] 편지통으로 쉽게 도달하지 못하는 지점 / https://jira.nmn.io/browse/PROJECTT-40642 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_UP01 (//streamsMain/Main/Trunk) @533614
+531658	2026/05/22	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @531650 / [손석완][레벨] 허브빌리지 고업 액터 위치 미세 조정 / [배경] 최북단 2.0 점령된 구역 허브빌리지에 고업을 못하는 지점 / https://jira.nmn.io/browse/PROJECTT-40444 / #changelist 유효성 검사 완료 / Merging  to //str
+531438	2026/05/22	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @531437 / [손석완][레벨] / [레벨디자인] 하이가든 로즈워터 지역에 공중부양하는 프랍 / https://jira.nmn.io/browse/PROJECTT-40425 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_UP01 (//streamsMain/Main/Trunk) @53
+531340	2026/05/22	Design_Seokwan_CBT	[손석완][Trunk=>Asia_UP01] @531308 / [레벨디자인] 최북단 2.0 버려진 유적지 끼임 현상 발생 / https://jira.nmn.io/browse/PROJECTT-40384 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Asia_UP01 (//streamsMain/Main/Trunk) @531308
+308723	2025/01/03	Design_Seokwan_CBT	[손석완][레벨] 최북단 말도적단 앞 지하실 입구 수정  /  - 풀 제거  /  - 고업 BP 위치 수정  / #changelist 유효성 검사 완료
+307607	2025/01/03	Design_Seokwan_CBT	[손석완][레벨] 선다운퍼치 마을 게시판 제거 / 현상수배 게시판 프랍 삭제 / 게시판 자리에 볼팅 펜스 연장 / https://jira.nmn.io/browse/NNT-10529 / #changelist 유효성 검사 완료
+505741	2026/04/10	Design_Seokwan_Marketing	[손석완][Trunk=>Marketing] @505696 / [손석완][레벨] 드레드포트 지역에 바위 밑둥 보이는 문제 수정 / #changelist 유효성 검사 완료 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Marketing (//streamsMain/Main/Trunk) @505696
+497756	2026/03/31	Design_Seokwan_Marketing	[손석완][Trunk=>Marketing] @496083 / [손석완][레벨] 시타델 내부 데이터레이어 및 가젯 수정 - 브워킵 다녀온 후에 나와야 할 프랍들이 그 이전부터 나오는 현상 수정 -> 시타델 정상화된 상태를 다음의 퀘스트태스크가 완료된 시점으�
+488639	2026/03/13	Design_Seokwan_Marketing	[손석완][Trunk=>Marketing] @488182 / [손석완][레벨] 내비모디파이어 볼륨 수정 - 최북단 투명벽 현상 수정 / #changelist 유효성 검사 완료 / Merging  to //streamsMain/Release/Marketing (//streamsMain/Main/Trunk) @488182
+236003	2024/06/12	Design_Seokwan_QA	[손석완][레벨] 장벽너머 미션07 밧줄 타다가 멈추는 현상 수정  / #changelist 유효성 검사 완료
+235858	2024/06/12	Design_Seokwan_QA	[손석완][레벨] 올타 셉트 지하실 내려가는 길목 내비 생기게 수정  / #changelist 유효성 검사 완료
+234945	2024/06/10	Design_Seokwan_QA	[손석완][레벨] 올타 버유 3단지 점프대 콜리전 수정  / #changelist 유효성 검사 완료
+234944	2024/06/10	Design_Seokwan_QA	[손석완][레벨] 올드타운 녹색항구 버려진 유적지 버그 수정  / #changelist 유효성 검사 완료
+234943	2024/06/10	Design_Seokwan_QA	[손석완][레벨] 올드타운 담벼락 이상하게 넘어지는 문제 수정  / #changelist 유효성 검사 완료
+234942	2024/06/10	Design_Seokwan_QA	[손석완][레벨] 퀼앤탱커드 문 추가  / #changelist 유효성 검사 완료
+234940	2024/06/10	Design_Seokwan_QA	[손석완][레벨] 하이가든 보석상인의 집 들어갔다가 못나오는 현상 임시 수정  / #changelist 유효성 검사 완료
+233896	2024/06/07	Design_Seokwan_QA	[손석완][레벨] 북부 버유 1단지 넘어가지 못해야 하는 부분 차단  / #changelist 유효성 검사 완료
+233895	2024/06/07	Design_Seokwan_QA	[손석완][레벨] 롱레이크 대교에서 자연스럽게 떨어지지 못하는 문제 해결 / #changelist 유효성 검사 완료
+233894	2024/06/07	Design_Seokwan_QA	[손석완][레벨] 북부 버유 2단지 가면 안 되는 곳 도달 못하게 수정  / #changelist 유효성 검사 완료
+231276	2024/06/03	Design_Seokwan_QA	[손석완][레벨] 최북단 도적 캠프 블로킹 볼륨에 의해 인터랙션 스피어 침범되는 문제 수정  / #changelist 유효성 검사 완료
+220442	2024/05/02	Design_Seokwan_QA	[손석완][Trunk=>QA]  / @220423 [손석완][레벨] 프로스트 필드 이단 사다리 위치 조정  / #changelist 유효성 검사 완료
+220441	2024/05/02	Design_Seokwan_QA	[손석완][Trunk=>QA]  / @220422 [손석완][레벨] 최북단 천 프랍에서 콜리전 제거  / #changelist 유효성 검사 완료
+220440	2024/05/02	Design_Seokwan_QA	[손석완][Trunk=>QA]  / @220420 [손석완][레벨] 올드타운 지하하수도 물 높이 낮춤.  / #changelist 유효성 검사 완료
+220439	2024/05/02	Design_Seokwan_QA	[손석완][Trunk=>QA]  / @220419 [손석완][레벨] 웜워크 입구 관련 버그 수정 - 입구에 경사로 조성, 원탑 프랍 제거  / #changelist 유효성 검사 완료
+210314	2024/03/27	Design_Seokwan_QA	[손석완][Trunk=>QA]  / @210311 [손석완][레벨] 최북단 흉포한동물 지역 레벨 정리  / #changelist 유효성 검사 완료
+210303	2024/03/27	Design_Seokwan_QA	[손석완][Trunk=>QA] / @210178 [손석완][레벨] 퀸즈크라운 앞마당 절벽 높이 올림 / #changelist 유효성 검사 완료
+207441	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @207221 [손석완][레벨] 최북단 2.0 버유 가젯 수정 / #changelist 유효성 검사 완료
+207440	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @207193 [손석완][레벨] 레벨기믹 액터들 ID Generate / #changelist 유효성 검사 완료
+207439	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @207153 [손석완][레벨] 불필요 가이드액터 삭제 / #changelist 유효성 검사 완료
+207438	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @207105 [손석완][레벨] 최북단 지형 수정 및 불필요 레벨가이드 삭제 / #changelist 유효성 검사 완료
+207437	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @207104 [손석완][레벨] 최북단 웨이포인트 추가, 로드 BP 옵션 수정 / #changelist 유효성 검사 완료
+207436	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @206625 [손석완][레벨] 최북단2.0 허브빌리지 웨이포인트 링크 추가 / #changelist 유효성 검사 완료
+207435	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @206562 [손석완][레벨] 최북단 지형 정리 - 퀸스크라운 to 레난스레스트 / #changelist 유효성 검사 완료
+207434	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @206510 [손석완][레벨] 게이트 내려올 떄 콜리전 켜지게 노티 추가 / #changelist 유효성 검사 완료
+207433	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @206350 [손석완][레벨] 퀸스크라운 빙판 위치 이동 / #changelist 유효성 검사 완료
+207432	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @206325 [손석완][레벨] 퀸즈크라운 - 레/레 지형 정리 / #changelist 유효성 검사 완료
+207430	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @206057 [손석완][레벨] 레난스레스트 이정표 앞 볼팅 펜스 수정 / #changelist 유효성 검사 완료
+207429	2024/03/21	Design_Seokwan_QA	[손석완][Trunk=>QA] / @205891 [손석완][레벨] 최북단 콘텐츠 보강 후보지 설정 / #changelist 유효성 검사 완료
+199264	2024/02/15	Design_Seokwan_QA	[손석완][Trunk=>QA] / @199261 [손석완][레벨] 최북단 2.0 버유 가이드 프랍 제거, 마네킹 숨김, 드포 가이드 액터 숨김 / #changelist 유효성 검사 완료
+199234	2024/02/15	Design_Seokwan_QA	[손석완][Trunk=>QA] / @199226 [손석완][레벨] 최북단 - 사냥꾼의 오두막에 못지나가는 지점 수정 / #changelist 유효성 검사 완료
+188050	2024/01/04	Design_Seokwan_QA	[손석완][Trunk=>QA]  / @188048 [손석완][레벨] 최북단 2.0 진입 가능하게 데이터레이어 수정  / #changelist 유효성 검사 완료
+576134	2026/09/03	Design_Seokwan_work	[손석완][레벨] 렛지그랩 최적화 - 시타델 월드  / #changelist 유효성 검사 완료
+575967	2026/09/02	Design_Seokwan_work	[손석완][레벨] 렛지그랩 최적화 - 올드타운 도시 남쪽  / #changelist 유효성 검사 완료
+575966	2026/09/02	Design_Seokwan_work	[손석완][레벨] 렛지그랩 최적화 - 올드타운 도시 북쪽  / #changelist 유효성 검사 완료
+575677	2026/09/02	Design_Seokwan_work	[손석완][레벨] 시타델 근처 노컬리전 프랍 컬리전 처리 / #changelist 유효성 검사 완료
+575292	2026/09/01	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 데이터레이어 볼륨 수정 - 뚫리는 부분 수정  / #changelist 유효성 검사 완료
+573455	2026/08/27	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 세력은신처 보물방 윗층에 잘못된 미니맵 리소스가 연결된 문제 해결. ID : 1000
+573412	2026/08/27	Design_Seokwan_work	[손석완][레벨] 미니맵 가이드 액터들에 Temp_MinimapHide 데이터레이어 추가  / #changelist 유효성 검사 완료
+573288	2026/08/27	Design_Seokwan_work	[손석완][레벨] Ship Movement 값 조절 - 3. 완전 정지 처리 (PROJECTT-44415) / #changelist 유효성 검사 완료
+573287	2026/08/27	Design_Seokwan_work	[손석완][레벨] Ship Movement 값 조절 - 2. NoCollision 처리 (PROJECTT-44415) / #changelist 유효성 검사 완료
+573286	2026/08/27	Design_Seokwan_work	[손석완][레벨] Ship Movement 값 조절 - 1. 값 조정 (PROJECTT-44415) / #changelist 유효성 검사 완료
+571364	2026/08/25	Design_Seokwan_work	[손석완][레벨] 맘모스 목업 작업중  / #changelist 유효성 검사 완료
+569071	2026/08/18	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 3 -> 4페이즈 이동 경로에 빠지는 구역 수정 / https://jira.nmn.io/browse/GOAT-9100 / #changelist 유효성 검사 완료
+569064	2026/08/18	Design_Seokwan_work	[손석완][레벨] 브로드 아치 지하실에 머티리얼 곂침 문제 수정  / ExecTCmd MOV 12941.273692 91660.317656 1500.355728  / #changelist 유효성 검사 완료
+566911	2026/08/12	Design_Seokwan_work	[손석완][레벨] 맘모스 던전 목업 작업  / #changelist 유효성 검사 완료
+563325	2026/08/06	Design_Seokwan_work	[손석완][레벨] 크라켄 난파선 난간에 블로킹 볼륨 추가_2  / https://jira.nmn.io/browse/GOAT-8197  / #changelist 유효성 검사 완료
+563296	2026/08/06	Design_Seokwan_work	[손석완][레벨] 크라켄 난파선 난간에 블로킹 볼륨 추가  / https://jira.nmn.io/browse/GOAT-8197  / #changelist 유효성 검사 완료
+563146	2026/08/06	Design_Seokwan_work	[손석완][레벨] 스톰랜드 목업 액터 에디터 전용 처리  / #changelist 유효성 검사 완료
+563056	2026/08/06	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 목업용 액터들 쿠킹 제외 처리  / #changelist 유효성 검사 완료
+562663	2026/08/05	Design_Seokwan_work	[손석완][레벨] 하렌홀의 비명 깃발 3개로 추가, 보스 몹 스폰 위치 추가  / #changelist 유효성 검사 완료
+560565	2026/08/04	Design_Seokwan_work	[손석완][레벨] 하렌홀의 비명 수정  / #changelist 유효성 검사 완료
+559471	2026/08/03	Design_Seokwan_work	[손석완][레벨] 하렌홀의 비명 크기 조정 / #changelist 유효성 검사 완료
+559076	2026/07/31	Design_Seokwan_work	[손석완][레벨][점령된구역] 점령된 구역: 레드픽 > 캐릭터가 올라탈 수 있는 프랍 및 NPC 접근 불가 지형 좌표 모음  / https://jira.nmn.io/browse/GOAT-7949  / #changelist 유효성 검사 완료
+559047	2026/07/31	Design_Seokwan_work	[손석완][레벨][Live] 북부 버려진 유적지 이중 사다리 끼임 현상 확인 요청  / https://jira.nmn.io/browse/QAGOTASIA-1060  / #changelist 유효성 검사 완료
+557317	2026/07/28	Design_Seokwan_work	[손석완][레벨] 맘모스맵 - 월드 세팅 수정 및 랜드스케이프 머티리얼 적용  / #changelist 유효성 검사 완료
+557234	2026/07/28	Design_Seokwan_work	[손석완][레벨] 맘모스 맵 - 런타임 그리드 수정  / #changelist 유효성 검사 완료
+557223	2026/07/28	Design_Seokwan_work	[손석완][레벨] 맘모스 레이드 맵 신규 추가  / #changelist 유효성 검사 완료
+557123	2026/07/28	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 필드에 절벽 프랍 뜬 것 수정  / ExecTCmd MOV 3065.383370 130839.341234 5249.659296  / #changelist 유효성 검사 완료
+556907	2026/07/27	Design_Seokwan_work	[손석완][레벨] 점령된 구역: 레드픽 > 캐릭터가 올라탈 수 있는 프랍 및 NPC 접근 불가 수정  / https://jira.nmn.io/browse/GOAT-7949  / #changelist 유효성 검사 완료
+555756	2026/07/24	Design_Seokwan_work	[손석완][레벨] 챕터 5.2. 위기의 성소 목업  / #changelist 유효성 검사 완료
+555679	2026/07/24	Design_Seokwan_work	[손석완][레벨] 챕터 5.2. 숯장이 마을 수정  / #changelist 유효성 검사 완료
+555630	2026/07/24	Design_Seokwan_work	[손석완][레벨] 챕터 5.2. 트윈스 지역 목업  / #changelist 유효성 검사 완료
+555596	2026/07/24	Design_Seokwan_work	[손석완][레벨] 챕터 5.2. 트윈스 지역 목업  / #changelist 유효성 검사 완료
+551234	2026/07/10	Design_Seokwan_work	[손석완][레벨] 챕터 5.2. 목업 작업물 중간 업로드  / #changelist 유효성 검사 완료
+544997	2026/06/25	Design_Seokwan_work	[손석완][레벨] 5.2. 목업 중간 업로드 - 모든 액터들 에디터 전용 모드로 전환  / #changelist 유효성 검사 완료
+544265	2026/06/24	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 세력은신처 미니맵 볼륨 수정 / [레벨디자인] 챕터 5.2 트윈스 레벨 디자인 / https://jira.nmn.io/browse/PROJECTT-38149 / #changelist 유효성 검사 완료
+543467	2026/06/22	Design_Seokwan_work	[손석완][레벨] 하렌할의 비명 유실된 프랍 원복 / #changelist 유효성 검사 완료
+542077	2026/06/16	Design_Seokwan_work	[손석완][레벨] 5.2. 지역 목업 작업 중 변경된 화이트하버의 WoodenBridge03 액터들 원복  / #changelist 유효성 검사 완료
+540515	2026/06/11	Design_Seokwan_work	[손석완][레벨] 챕터 5.2. 목업 작업중  / #changelist 유효성 검사 완료
+540341	2026/06/11	Design_Seokwan_work	[손석완][레벨] 챕터 5.2. 목업 작업  / #changelist 유효성 검사 완료
+533695	2026/05/29	Design_Seokwan_work	[손석완][레벨]  / [소형컨텐츠] 편지통으로 쉽게 도달하지 못하는 지점 - 추가 수정 / https://jira.nmn.io/browse/PROJECTT-40642 / #changelist 유효성 검사 완료
+533691	2026/05/29	Design_Seokwan_work	[손석완][레벨]   / [버려진 유적지] 사나운 바다 레벨 버그 - 추가 수정  / https://jira.nmn.io/browse/PROJECTT-40604  / #changelist 유효성 검사 완료
+533614	2026/05/29	Design_Seokwan_work	[손석완][레벨]  / [소형컨텐츠] 편지통으로 쉽게 도달하지 못하는 지점  / https://jira.nmn.io/browse/PROJECTT-40642  / #changelist 유효성 검사 완료
+533539	2026/05/28	Design_Seokwan_work	[손석완][레벨]  / [버려진 유적지] 숲의 마녀 갇히는 공간 수정  / https://jira.nmn.io/browse/PROJECTT-40600  / #changelist 유효성 검사 완료
+533537	2026/05/28	Design_Seokwan_work	[손석완][레벨]  / [레벨디자인] 크로우즈네스트 버려진 유적지 부근에 떨어지면 되올라올 수 없는 구간 존재  / https://jira.nmn.io/browse/PROJECTT-40601  / #changelist 유효성 검사 완료
+533536	2026/05/28	Design_Seokwan_work	[손석완][레벨]  / [버려진 유적지] 사나운 바다 레벨 버그  / https://jira.nmn.io/browse/PROJECTT-40604  / #changelist 유효성 검사 완료
+533535	2026/05/28	Design_Seokwan_work	[손석완][레벨]  / [점령된 구역] 그리핀스코브에 유도동선을 가로 막는 프랍  / https://jira.nmn.io/browse/PROJECTT-40609  / #changelist 유효성 검사 완료
+533534	2026/05/28	Design_Seokwan_work	[손석완][레벨]  / [버려진 유적지] 쓰러진 거인의 왕 점프로 넘어가선 안 되는 지점 넘어가짐  / https://jira.nmn.io/browse/PROJECTT-40596  / #changelist 유효성 검사 완료
+531650	2026/05/22	Design_Seokwan_work	[손석완][레벨] 허브빌리지 고업 액터 위치 미세 조정  / [배경] 최북단 2.0 점령된 구역 허브빌리지에 고업을 못하는 지점  / https://jira.nmn.io/browse/PROJECTT-40444  / #changelist 유효성 검사 완료
+531437	2026/05/22	Design_Seokwan_work	[손석완][레벨]  / [레벨디자인] 하이가든 로즈워터 지역에 공중부양하는 프랍  / https://jira.nmn.io/browse/PROJECTT-40425  / #changelist 유효성 검사 완료
+531308	2026/05/22	Design_Seokwan_work	[레벨디자인] 최북단 2.0 버려진 유적지 끼임 현상 발생  / https://jira.nmn.io/browse/PROJECTT-40384  / #changelist 유효성 검사 완료
+530758	2026/05/21	Design_Seokwan_work	[손석완][레벨] 넥 지역 버유 1~3단지 피드백 반영  / #changelist 유효성 검사 완료
+529829	2026/05/18	Design_Seokwan_work	[손석완][레벨] 넥 지역 버려진 유적지 1~3단지 폴리싱  / #changelist 유효성 검사 완료
+529819	2026/05/18	Design_Seokwan_work	[손석완][레벨] 넥 버려진 유적지 1~3단지 수정  / #changelist 유효성 검사 완료
+529818	2026/05/18	Design_Seokwan_work	[손석완][레벨] 대형 부서지는 바닥 가젯 BP 생성 - 임시용  / #changelist 유효성 검사 완료
+529615	2026/05/18	Design_Seokwan_work	[월드][레벨] 크로우즈네스트 점령된 구역 그리핀스 코브 동선 수정  / https://jira.nmn.io/browse/PROJECTT-40145  / #changelist 유효성 검사 완료
+529254	2026/05/18	Design_Seokwan_work	[월드][레벨] 최북단 > 라스트 허스 인근 소형 컨텐츠 서신 획득 루트 개선  / https://jira.nmn.io/browse/PROJECTT-40053  / #changelist 유효성 검사 완료
+529237	2026/05/18	Design_Seokwan_work	[손석완][레벨] 올드타운에 올라가면 안 되는 지형에 올라가지는 문제  / https://jira.nmn.io/browse/PROJECTT-40144  / #changelist 유효성 검사 완료
+529215	2026/05/18	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 보스존 이중사다리 삭제 후 일반 사다리로 대체 / https://jira.nmn.io/browse/QAGOTASIA-636 / #changelist 유효성 검사 완료
+528586	2026/05/14	Design_Seokwan_work	[손석완][레벨] 시타델 도서관에서 점프로 들어가면 안 되는 구역 넘어가는 현상 수정. 아래 위치 부근의 블로킹 볼륨을 높여서 막음  / ExecTCmd MOV -244853.065572 260839.469586 2912.306094  / ExecTCmd MOV -243559.236242 260771.653178 2097.149958  / #change
+528535	2026/05/14	Design_Seokwan_work	[손석완][레벨] 넥 버유 1~3단지 수정 중  / #changelist 유효성 검사 완료
+528506	2026/05/14	Design_Seokwan_work	[손석완][레벨] 넥 지역 버려진 유적지 제작 중  / #changelist 유효성 검사 완료
+528355	2026/05/13	Design_Seokwan_work	[레벨][손석완] 넥 지역 버려진 유적지 2단지 수정  / #changelist 유효성 검사 완료
+528342	2026/05/13	Design_Seokwan_work	[손석완][레벨] 넥 지역 버려진 유적지 1~3단지 제작 중  / #changelist 유효성 검사 완료
+527468	2026/05/12	Design_Seokwan_work	[손석완][레벨] 넥 지역 버려진 유적지 1~3단지  / #changelist 유효성 검사 완료
+526245	2026/05/11	Design_Seokwan_work	[손석완][레벨] 넥 지역 버유 1, 2 단지 제작 중  / #changelist 유효성 검사 완료
+524174	2026/05/08	Design_Seokwan_work	[손석완][레벨] 불필요 포인트 라이트 제거 ExecTCmd MOV 7185.150423 -767327.487935 7090.903846  / #changelist 유효성 검사 완료
+523359	2026/05/06	Design_Seokwan_work	[손석완][레벨] 넥 지역 버려진 유적 1, 2 단지 추가  / #changelist 유효성 검사 완료
+518762	2026/04/28	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지 끌차 끌고 턱 올라가지는 문제 수정  / #changelist 유효성 검사 완료
+516903	2026/04/24	Design_Seokwan_work	[손석완][레벨] 브워킵 프랍 들뜬 것들 수정  / #changelist 유효성 검사 완료
+516347	2026/04/24	Design_Seokwan_work	[손석완][레벨] 브워킵 지역 들뜬 프랍 수정  / #changelist 유효성 검사 완료
+516313	2026/04/24	Design_Seokwan_work	[손석완][레벨] 브워킵 지역 들뜬 프랍 붙이기  / #changelist 유효성 검사 완료
+516273	2026/04/24	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 02 수정 - 끌차 끌고 계단에 올라가지는 현상 수정  / #changelist 유효성 검사 완료
+515853	2026/04/23	Design_Seokwan_work	[손석완][레벨] 피직스 머티리얼 PM_Rock으로 수정 - 발소리가 Dirt로 나오는 문제 수정  / #changelist 유효성 검사 완료
+515083	2026/04/23	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진 유적지 도개교 사선 통제되게 수정  / #changelist 유효성 검사 완료
+514208	2026/04/22	Design_Seokwan_work	[손석완][레벨] 웜워크 입구 실내용 미니맵 볼륨 신설 / #changelist 유효성 검사 완료
+514171	2026/04/22	Design_Seokwan_work	[손석완][레벨] 올드타운 흉포한동물 뼈다구 어뷰징 문제로 동굴 속으로 넣어버림.  / #changelist 유효성 검사 완료
+514122	2026/04/22	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 미니맵 볼륨 수정 / #changelist 유효성 검사 완료
+513182	2026/04/21	Design_Seokwan_work	[손석완][레벨] 시타델 지하수로에서 "시타델"이라고 지역명 뜨는 문제 수정 - 2100041 subarea의 z값을 높임. / #changelist 유효성 검사 완료
+505696	2026/04/10	Design_Seokwan_work	[손석완][레벨] 드레드포트 지역에 바위 밑둥 보이는 문제 수정  / #changelist 유효성 검사 완료  / #changelist 유효성 검사 완료
+505509	2026/04/10	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버유 1단지 점프로 벽 넘어가는 현상 수정  / #changelist 유효성 검사 완료  / #changelist 유효성 검사 완료
+505345	2026/04/09	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 소형 콘텐츠 배치를 위한 가이드 액터 추가  / #changelist 유효성 검사 완료  / #changelist 유효성 검사 완료
+496083	2026/03/30	Design_Seokwan_work	[손석완][레벨] 시타델 내부 데이터레이어 및 가젯 수정 - 브워킵 다녀온 후에 나와야 할 프랍들이 그 이전부터 나오는 현상 수정 -> 시타델 정상화된 상태를 다음의 퀘스트태스크가 완료된 시점으로 변경 213106330 일부 수정되지 �
+495867	2026/03/30	Design_Seokwan_work	[손석완][레벨] 시타델 내부 데이터레이어 및 가젯 수정 - 브워킵 다녀온 후에 나와야 할 프랍들이 그 이전부터 나오는 현상 수정 -> 시타델 정상화된 상태를 다음의 퀘스트태스크가 완료된 시점으로 변경 213106330  (추가 작업-누�
+495217	2026/03/27	Design_Seokwan_work	[손석완][레벨] 시타델 내부 데이터레이어 및 가젯 수정 - 브워킵 다녀온 후에 나와야 할 프랍들이 그 이전부터 나오는 현상 수정 -> 시타델 정상화된 상태를 다음의 퀘스트태스크가 완료된 시점으로 변경 213106330  (추가 작업)
+494921	2026/03/27	Design_Seokwan_work	[손석완][레벨] 시타델 내부 데이터레이어 및 가젯 수정 - 브워킵 다녀온 후에 나와야 할 프랍들이 그 이전부터 나오는 현상 수정 -> 시타델 정상화된 상태를 다음의 퀘스트태스크가 완료된 시점으로 변경 213106330  / #changelist 유효
+494868	2026/03/27	Design_Seokwan_work	[손석완][레벨] 시타델 내부 데이터레이어 수정 - 브워킵 다녀온 후에 나와야 할 프랍들이 그 이전부터 나오는 현상 수정  / #changelist 유효성 검사 완료
+488182	2026/03/13	Design_Seokwan_work	[손석완][레벨] 내비모디파이어 볼륨 수정 - 최북단 투명벽 현상 수정  / #changelist 유효성 검사 완료
+486275	2026/03/10	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 도서관 지하층에 거대 절벽 나오는 현상 수정 - 데이터레이어에 포함시킴  / #changelist 유효성 검사 완료
+482134	2026/03/06	Design_Seokwan_work	[손석완][레벨] 올드타운 소형 콘텐츠 배치 가이드 액터 수정  / #changelist 유효성 검사 완료
+482032	2026/03/06	Design_Seokwan_work	[손석완][레벨] 시타델 소형 콘텐츠 배치 가이드 액터 등록  / #changelist 유효성 검사 완료
+481922	2026/03/06	Design_Seokwan_work	[손석완][레벨] 올드타운 소형 콘텐츠 배치 가이드 액터 추가  / #changelist 유효성 검사 완료
+477061	2026/02/23	Design_Seokwan_work	[손석완][레벨] 경쟁형 PvE 목업 수정  / #changelist 유효성 검사 완료
+471407	2026/02/06	Design_Seokwan_work	[손석완][레벨] 경쟁형 PvE 목업 작업  / #changelist 유효성 검사 완료
+470080	2026/02/03	Design_Seokwan_work	[손석완][레벨] 경쟁형 PvE 목업 작업  / #changelist 유효성 검사 완료
+469032	2026/02/03	Design_Seokwan_work	[손석완][레벨] 경쟁형 PvE 목업 작업  / #changelist 유효성 검사 완료
+467302	2026/02/02	Design_Seokwan_work	[손석완][레벨] 경쟁형 PvE 목업 작업  / #changelist 유효성 검사 완료
+467239	2026/02/02	Design_Seokwan_work	[손석완][레벨] 흉포한 동물에 깔린 파괴형 가젯, 그리핀 던전에 깔린 파괴형 가젯의 서버 Radius를 각각 300 > 50, 100으로 변경
+466804	2026/01/30	Design_Seokwan_work	[손석완][레벨] 경쟁형 PvE 목업 작업  / #changelist 유효성 검사 완료
+466521	2026/01/29	Design_Seokwan_work	[손석완][레벨] 경쟁형 PvE 하렌홀 목업  / #changelist 유효성 검사 완료
+465925	2026/01/28	Design_Seokwan_work	[손석완][레벨] 최북단 지역 투명벽 현상 제거  / #changelist 유효성 검사 완료
+465505	2026/01/27	Design_Seokwan_work	[손석완][레벨] 하렌홀 PvEvP 맵 목업 작업 중  / #changelist 유효성 검사 완료
+464137	2026/01/22	Design_Seokwan_work	[손석완][레벨] 경쟁형 PvP 더미 몹 배치
+464070	2026/01/22	Design_Seokwan_work	[손석완][레벨] 경쟁형 PvE 목업 작업
+463843	2026/01/22	Design_Seokwan_work	[손석완][레벨] 걸쇠 달린 문bp의 insideedge bp를 분리하여 문 여는 시점에 카메라 너무 붙지 않게 수정  / #changelist 유효성 검사 완료
+463826	2026/01/22	Design_Seokwan_work	[손석완][레벨] 최북단 전투 지역에 내비메시 끊겨서 몹이 접근 못하는 현상 수정, 데코용 가젯 비활성화 / #changelist 유효성 검사 완료
+463142	2026/01/20	Design_Seokwan_work	[손석완][레벨] 라스트허스에 올라가선 안 되는 지붕에 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+462425	2026/01/16	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 내 End 상태에 대한 가젯들의 데이터레이어 설정. 시타델 내부 트리거 볼륨에 의해서 On/Off 처리, 지하에서 봤을 때 삐져나오는 가젯들은 프랍으로 교체
+462296	2026/01/16	Design_Seokwan_work	[손석완][레벨] 정예은신처에 보스존 길막 용 문 가젯 추가  / #changelist 유효성 검사 완료
+462197	2026/01/16	Design_Seokwan_work	[손석완][레벨] 브워킵 정예은신처 성문 가젯 추가
+461783	2026/01/16	Design_Seokwan_work	[손석완][레벨] 브워킵 보스존 장막 사이즈 조절 - 가변 내비메쉬 생기게  / #changelist 유효성 검사 완료
+461676	2026/01/15	Design_Seokwan_work	[손석완][레벨] 브워킵 세력은신처 장막 사이즈 조절 - 밑에 노란내비 생기게 수정  / #changelist 유효성 검사 완료
+461611	2026/01/15	Design_Seokwan_work	[손석완][레벨] Undo //streamsMain/Main/Trunk/... changelist 461604
+461604	2026/01/15	Design_Seokwan_work	[손석완][레벨] 브워킵 세력은신처 가젯이 노란 내비메시 생성하게 사이즈 조절  / #changelist 유효성 검사 완료
+461433	2026/01/15	Design_Seokwan_work	[손석완][레벨] 스톰스엔드 버려진 유적지 수정 - 지하1층 물 깊이 얕게 하고, 복귀로 추가. 잘 안 보이는 곳에 화로 추가. 낑기거나 빠지는 곳 수정.  / #changelist 유효성 검사 완료
+461216	2026/01/14	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 가는 길에 내비메시 끊겨져 있는 부분 수정  / #changelist 유효성 검사 완료
+461091	2026/01/14	Design_Seokwan_work	[손석완][레벨] 전투공간에서 내비메쉬 끊어진 곳 수정  / #changelist 유효성 검사 완료
+461024	2026/01/14	Design_Seokwan_work	[손석완][레벨]크로우즈네스트 버려진유적 01 3회 연속 점프 구간 수정 -> 2회 점프로  / #changelist 유효성 검사 완료
+461010	2026/01/14	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진유적지 02 - 외곽 성벽에 추락 시 회복루트 추가  / #changelist 유효성 검사 완료
+460960	2026/01/14	Design_Seokwan_work	[손석완][레벨] 걸쇠가 있는 문의 걸쇠 있는 쪽 인터랙션 스피어 축소 - 걸쇠 딸 때의 어색함 줄이기 위함. / #changelist 유효성 검사 완료
+460709	2026/01/13	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진 유적지 도개교 사선 정밀하게 막음.  / #changelist 유효성 검사 완료
+460633	2026/01/13	Design_Seokwan_work	[손석완][레벨] 크네 버유 바닷가 쪽 환경박스 추가 / #changelist 유효성 검사 완료
+460391	2026/01/12	Design_Seokwan_work	[손석완][레벨] 스톰랜드 버려진 유적지 실내 어두운 곳 환경볼륨 추가  / #changelist 유효성 검사 완료
+459565	2026/01/12	Design_Seokwan_work	[손석완][레벨] 스톰랜드 조도 낮은 실내 환경 박스 추가 - 버려진 유적지, 서브퀘용 동굴  / #changelist 유효성 검사 완료
+457656	2026/01/07	Design_Seokwan_work	[손석완][레벨] 시타델 레벨 가젯 데이터 최신화
+457111	2026/01/05	Design_Seokwan_work	[손석완][레벨] 브워킵 절벽에 나무 폴리지 파묻힌 것 미세 수정  / #changelist 유효성 검사 완료
+456571	2025/12/31	Design_Seokwan_work	[손석완][레벨] 브워킵 공중에 뜬 프랍 수정 / #changelist 유효성 검사 완료
+308715	2025/01/03	Design_Seokwan_work	[손석완][레벨] 최북단 말도적단 앞 지하실 입구 수정  / - 풀제거  / - 고업 BP 위치 수정  / #changelist 유효성 검사 완료
+308395	2025/01/03	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 까마귀 전서구 위치 수정  / - 가이드 액터에 설명 보강  / - 위치 보강  / #changelist 유효성 검사 완료
+307196	2025/01/02	Design_Seokwan_work	[손석완][레벨] 크네 까마귀 전서구 콘텐츠 위치 지정  / - 신규 위치 지정  / - 위치에 레벨 기믹 콘텐츠 보강  / #changelist 유효성 검사 완료
+306941	2025/01/02	Design_Seokwan_work	[손석완][레벨] 선다운퍼치 마을 게시판 제거 / - 현상수배 게시판 프랍 삭제 / - 게시판 자리에 볼팅 펜스 연장 / https://jira.nmn.io/browse/NNT-10529 / #changelist 유효성 검사 완료
+306663	2024/12/31	Design_Seokwan_work	[손석완][레벨] 까마귀 전서구 콘텐츠 위치 지정  / - 레벨가이드 액터 추가  / - 레벨 기믹 추가  / - 콘텐츠를 만들기 위한 일부 배경 수정 및 추가  / - 불필요 가이드 액터 삭제  / #changelist 유효성 검사 완료
+306340	2024/12/30	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 세력은신처 가이드 액터 수정  / - 포로 표시용 마네킹 추가  /  - 불필요 가이드액터 삭제  / #changelist 유효성 검사 완료
+305823	2024/12/27	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 세력은신처 목업 수정  / - 마네킹 배치  / - 불필요 목업 액터 삭제  / #changelist 유효성 검사 완료
+305625	2024/12/26	Design_Seokwan_work	[손석완][레벨] 점령된 구역 Subarea 볼륨 좌표 수정 / - 로즈워터 외곽 몬스터들 추적 범위 디테일 세팅 / https://jira.nmn.io/browse/NNT-11762
+305618	2024/12/26	Design_Seokwan_work	[손석완][레벨] NPC 스폰 데이터 재 추출 / - 이전 리비전에서 모든 데이터가 지워진 상태로 업로드된 것 복원
+305602	2024/12/26	Design_Seokwan_work	[손석완][레벨] 점령된 구역 NPCSpawn 데이터 수정 / - 로즈워터 외곽 몬스터들 추적 범위 디테일 세팅 / https://jira.nmn.io/browse/NNT-11762
+305579	2024/12/26	Design_Seokwan_work	[손석완][레벨] 로즈워터 체이스 볼륨 수정 / - 하이가든 점령된 구역의 추적 볼륨을 디테일하게 수정 / https://jira.nmn.io/browse/NNT-11762
+305545	2024/12/26	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진 유적지 끼이는 곳 수정  /  - 목각 하나 덧대서 떨어지는 상황 원천 봉쇄  / https://jira.nmn.io/browse/PROJECTT-25503  / #changelist 유효성 검사 완료
+304932	2024/12/20	Design_Seokwan_work	[손석완][레벨] 혼우드성 남쪽 버려진 유적지 끌차 구역 수정  / - 끌차 레일 세부 조정  / - 끌차 레일 부근 바닥 타일 위치 세부 조정  / - 끌차 구역 고업 박스 위치 세부 조정  / https://jira.nmn.io/browse/NNT-11179  / #changelist 유효성 검사
+303805	2024/12/18	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진 유적 수정  / - 눈더미 프랍이 너무 높아져서 벽화 조각에 인터랙션이 가능한 문제 수정  / #changelist 유효성 검사 완료
+303448	2024/12/17	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 세력은신처 가이드 액터 정비  / - 불필요 가이드 액터 삭제  / - 가이드 액터 위치 이동  / - 화살표 가이드 추가  / #changelist 유효성 검사 완료
+302906	2024/12/16	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 웨이포인트 퀘스트 조건 추가  / - 시스템 변경에 따른 길찾기 기능 해금 조건 수정  / https://jira.nmn.io/browse/PROJECTT-24319  / #changelist 유효성 검사 완료
+302122	2024/12/12	Design_Seokwan_work	[손석완][레벨] 시타델 하수도 수정  / - 하수로 RiverTool 높이값 너무 내려간 것 원복  / - 문 열리는 지점에 흙 쌓인거 미세 조정  / https://jira.nmn.io/browse/PROJECTT-24974  / #changelist 유효성 검사 완료
+302119	2024/12/12	Design_Seokwan_work	[손석완][레벨] 올드타운 양조장 수정  / - 점프 구간에서 불합리함 해소하기 위한 전반적 구조 수정  / https://jira.nmn.io/browse/PROJECTT-24629  / #changelist 유효성 검사 완료
+302054	2024/12/12	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 가젯 수정 / - 보물창고 막고 있는 파괴형 가젯을 돌벽으로 변경 / #changelist 유효성 검사 완료
+302040	2024/12/12	Design_Seokwan_work	[손석완][레벨] 세력은신처 고업 액터 수정  / - 컴포넌트 중 우드 판넬 하나 삐져나온 것들 삭제  / #changelist 유효성 검사 완료
+302037	2024/12/12	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 각종 볼륨 조절 / - 서브에리어 볼륨 조정하여 미니맵 변경 시점 싱크 정밀화 / - 데이터레이어 볼륨 조정하여 도서관으로 입장하기 전 외부 프랍 꺼지는 현상 수정 / - 도서관 문 BP 2개 fix 옵�
+301627	2024/12/11	Design_Seokwan_work	[손석완][레벨] 콜리전 빠진 책장 프랍 수정  / - 책장 프랍 콜리전 상태 Default로 변경  / - 해당 책장 위치에 블로킹 볼륨 추가  / https://jira.nmn.io/browse/PROJECTT-24631  / #changelist 유효성 검사 완료
+301623	2024/12/11	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지 학자의 성채 버그 수정  / - 등짐 밟고 올라가야 하는 부분의 고업 BP 스케일 조절  / https://jira.nmn.io/browse/PROJECTT-24630  / #changelist 유효성 검사 완료
+301566	2024/12/11	Design_Seokwan_work	[손석완][레벨] 허니콧 마을 랜드스케이프 미세 조정  / - 책걸상이 공중에 살짝 떠있는 문제 해결하기 위해 랜드스케이프를 조정하였음.  / https://jira.nmn.io/browse/PROJECTT-24648  / #changelist 유효성 검사 완료
+301540	2024/12/11	Design_Seokwan_work	[손석완][레벨] 최북단 버려진 유적지 가젯 위치 수정 /  - 1.0 가젯 위치 수정 /  - 2.0 도개교 트리거 사격 사로 수정 / #changelist 유효성 검사 완료
+301242	2024/12/10	Design_Seokwan_work	[손석완][레벨] 부서지는 발판 눈 덮인 머티리얼 적용 / - 부서지는 발판 눈 덮인 머티리얼 적용
+300700	2024/12/06	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지에 끼이는 위치 수정  / - 사다리와 나무 플랫폼 위치 이동  / https://jira.nmn.io/browse/PROJECTT-24649 / #changelist 유효성 검사 완료
+300683	2024/12/06	Design_Seokwan_work	[손석완][레벨] 혼우드성 남쪽 버려진 유적지 수정  / - 바깥쪽으로 나갈 수 있는 지점들 차단  / https://jira.nmn.io/browse/PROJECTT-24457  / #changelist 유효성 검사 완료
+300459	2024/12/05	Design_Seokwan_work	[손석완][레벨] 토르헨스퀘어 버려진 유적지 수정  / - 색상이 다른 프랍 삭제  / https://jira.nmn.io/browse/PROJECTT-24627  / #changelist 유효성 검사 완료
+300430	2024/12/05	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진 유적지 수정  / - 2단 사다리 아래서 쐈을 때 맞지 않게끔 지형 조정  / https://jira.nmn.io/browse/PROJECTT-24647?filter=-1  / #changelist 유효성 검사 완료
+300096	2024/12/03	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진 유적지 수정  / - 옆으로 빠져나갈 수 있는 길 차단  / - 2단 사다리 시작 지점을 평평하게 변경  / - 적별프랍 단면 수정  / #changelist 유효성 검사 완료
+300038	2024/12/03	Design_Seokwan_work	[손석완][레벨] 웜워크 쪽 불필요한 포인트 라이트 액터 삭제  / - 불필요한 포인트 라이트 액터 삭제  / #changelist 유효성 검사 완료
+300035	2024/12/03	Design_Seokwan_work	[손석완][레벨] 웜워크 입구쪽 편지통 콘텐츠 지점 수정  / - 눈덮인 크레인 BP에 매달린 박스 BP도 눈 덮인 걸로 교체  / - 이동 과정에서 끼이는 현상을 막기 위하여 이동 동선 일부 수정  / #changelist 유효성 검사 완료
+299904	2024/12/02	Design_Seokwan_work	[손석완][레벨] 돌담 콜리전 변경  / - 레난스레스트에서 돌담이 방벽으로 쓰이는 경우에는 콜리전 BlockAll로 설정  / #changelist 유효성 검사 완료
+299892	2024/12/02	Design_Seokwan_work	[손석완][레벨] 라스트허스 영접실 문 제거  / - BP문 제거 후 일반 스태틱 문으로 변경.  / - 문 열다 굳는 현상 해결을 위함  / #changelist 유효성 검사 완료
+295088	2024/11/26	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 액터 삭제 / - 꼭 필요한 목업 제외하고는 모두 삭제
+293108	2024/11/22	Design_Seokwan_work	[손석완][레벨] 고업 액션 변경에 따른 구조 변경  / - 올드타운 버유 2단지  / - 올드타운 양조장 지하실  / #changelist 유효성 검사 완료
+293027	2024/11/22	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 AreaBox 추가  / - Area Volume 추가  / #changelist 유효성 검사 완료
+292998	2024/11/22	Design_Seokwan_work	[손석완][레벨 끌차 VisitPlacePos 설정  / - 최북단, 북부, 올드타운(세은)  / #changelist 유효성 검사 완료
+292974	2024/11/22	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 내비메시 생성용 플레인 추가  / - 크라켄을 바다 위에서 스폰시키기 위한 장치  / #changelist 유효성 검사 완료
+292481	2024/11/21	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 크레인 변경  / - 크레인 리소스 눈 덮인 걸로 교체  / #changelist 유효성 검사 완료
+292426	2024/11/21	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 블로킹 볼륨 수정  / - 입구 아래쪽 절벽에 그리핀 박히는 현상 막기 위함.  / - ㅂ블로킹 볼륨을 잔도 바로 아래까지 끌어올림.  / #changelist 유효성 검사 완료
+291962	2024/11/20	Design_Seokwan_work	[손석완][레벨] 단면 보이는 프랍 위치 수정  / - 레난스레스트 앞 오두막 짚더미 수정  / - 최북단과 북부 경계선에 절벽 프랍 수정  / #changelist 유효성 검사 완료
+291569	2024/11/19	Design_Seokwan_work	[손석완][레벨] 부서지는 발판 테스트 환경 제작  / - 부서지는 발판 BP 추가 배치  / #changelist 유효성 검사 완료
+291440	2024/11/19	Design_Seokwan_work	[손석완][레벨] 레난스레스트 프랍 조정  / - 프랍 단면 보이는 경우 수정  / #changelist 유효성 검사 완료
+291433	2024/11/19	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 버그 수정  / - 프랍 단면 드러난 곳 수정  / #changelist 유효성 검사 완료
+291203	2024/11/18	Design_Seokwan_work	[손석완][레벨] 최북단, 올드타운 문 bp 수정  / - 레벨기믹 문 열림 각도 수정  / #changelist 유효성 검사 완료
+290940	2024/11/15	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진 유적지 3종 폴리싱 / - 배경 어색한 부분 제거 / - 아웃라인 보강 / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1 / #changelist 유효성 검사 완료
+288996	2024/11/14	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진 유적지 1~3단지 폴리싱 / - 포인트 라이트 조절 / - BP로 배치되어있던 액터 가젯으로 변경 / - 레벨기믹 일부 추가 / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1 / #changelist 유효성 검사 완료
+288421	2024/11/13	Design_Seokwan_work	[손석완][레벨] 길찾기 웨이포인트 추가  / - 과거 캐슬블랙 앞 킹스로드 부근에 퀘스트 조건에 의한 길찾기 비활성화 처리를 해둠.  / - 위의 이유로 길찾기가 정상적으로 안되는 문제 해결을 위해 웨이포인트링크를 보강함.  / htt
+288141	2024/11/12	Design_Seokwan_work	[손석완][레벨] 부서지는 발판 가젯 잔존 시간 수정  / - Despawn > DelayTime > 0sec -> 3sec  / #changelist 유효성 검사 완료
+288134	2024/11/12	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 버려진 유적지 3단지 수정 / - 최대한 디렉셔널 라이트 실내로 들어올 수 있게 건물 구조 수정 / - 포인트라이트 색상 조정 / - 부둣가 조성 / - 소형 랜드마크 추가 / - 기믹 요소 가젯 스포너로 교체
+288076	2024/11/12	Design_Seokwan_work	[손석완][레벨] 하이가든 프랍 단면 보이는 곳 조정  / - 프랍 1개 z축 내림  / #changelist 유효성 검사 완료
+287218	2024/11/08	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진유적지 3단지 수정  / - 최대한 외부 광선 많이 들어올 수 있게 구조 수정 등  / #changelist 유효성 검사 완료
+287191	2024/11/08	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진 유 적지 기믹 수정  / - 게이트 카메라 수정  / - 파괴형 가젯 위치 수정  / - 부서지는 발판 가젯의 높이 수정  / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1  / #changelist 유효성 검사 완료
+287190	2024/11/08	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 개선 - 최북단  / -최북단 부서지는 발판 신규 리소스로 교체  / - 신규 리소스 적용에 따른 주변부 수정  / https://jira.nmn.io/browse/PROJECTT-22422?filter=-1 / #changelist 유효성 검사 완료
+287189	2024/11/08	Design_Seokwan_work	[손석완][레벨] 그리핀즈 루스트 수정 요망 사항 목업 추가 / - 민간지역에 파쿠루 콘텐츠 추가 / - 성문 교체 필요지점 표시 / - 감옥 배치 지점 표시 / https://jira.nmn.io/browse/PROJECTT-11366?filter=-1 / #changelist 유효성 검사 완료
+286766	2024/11/07	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 웨이포인트 수정  / - 웨이포인트에 퀘스트 조건 추가  / #changelist 유효성 검사 완료
+286663	2024/11/07	Design_Seokwan_work	[손석완][레벨] 시야 테스트 맵에 물리로 부서지는 발판 배치 / - 물리로 부서지는 발판 테스트 환경 조성
+286596	2024/11/07	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진유적용 가젯 수정 / - 노트 추가 / - 게이트 스위치 재사용 가능하게 변경 / - 중복 아이디 재발급 / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1
+286232	2024/11/06	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 버려진 유적지 가젯 추가 / - 2단지, 3단지에 스위치와 게이트 추가 / - 스위치와 게이트에 상응하는 GadgetControlAction 추가 / - 불필요 목업 삭제 / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1
+286170	2024/11/06	Design_Seokwan_work	[손석완][레벨] FX장막 가젯들 콜리전 수정  / - BlockiAll -> InvisibleWall  / #changelist 유효성 검사 완료
+286164	2024/11/06	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 버려진 유적지 2단지 가젯 배치 / - 원거리 소모품 보충용 가젯 추가 / - 파괴형 가젯 추가 / - 게이트와 스위치 추가 / - 가젯  배치에 따른 일부 프랍 조정 / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1 /
+286123	2024/11/06	Design_Seokwan_work	[손석완][레벨] 가젯 추가 / - 오브젝트 충돌에 의해서만 부서지는 가젯 추가 / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1 / #changelist 유효성 검사 완료
+286050	2024/11/06	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 버려진 유적지 1단지 가젯 배치 / - 원거리 소모품 보충용 / - 파괴형 가젯 / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1 / #changelist 유효성 검사 완료
+285765	2024/11/05	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진 유적지용 가젯 추가 / - 게이트 추가 / - 스위치 가젯 ID 변경 / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1
+285761	2024/11/05	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진 유적지용 가젯 추가 / - 스위치 가젯 추가 / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1
+285754	2024/11/05	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진유적지 3단지 수정  / - 3번 조각 위치 변경  / - 보상상자 위치 변경  / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1  / #changelist 유효성 검사 완료
+285737	2024/11/05	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 크네 3단지 수정  / - 이단 사다리 1개 초기 상태 수정  / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1  / #changelist 유효성 검사 완료
+285732	2024/11/05	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 버려진 유적지 작업  / - 3단지 초안 작업 완료  / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1  / #changelist 유효성 검사 완료
+283687	2024/11/04	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 점령된 구역 3단지 수정  / - 초안 제작 완료  / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1  / #changelist 유효성 검사 완료
+283635	2024/11/04	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진 유적지 3호점  / - 레벨 기믹 리전 넘버 추가  / - 아웃라이너 정리  / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1  / #changelist 유효성 검사 완료
+283595	2024/11/04	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 크네 3단지  / - 버려진 유직지 초안 작업 중  / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1  / #changelist 유효성 검사 완료
+282893	2024/11/01	Design_Seokwan_work	[손석완][레벨] 파괴형 가젯 신규 리소스로 교체 / - 최북단에 속한 파괴형 가젯들 신 규 리소스로 교체함 / - 올드타운에 속한 파괴형 가젯들 신 규 리소스로 교체함 / - 하이가든에 속한 파괴형 가젯들 신 규 리소스로 교체함 / #ch
+282870	2024/11/01	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 개선  / - 학자의 성채 pc 끌채에 끼이는 구역 수정   / https://jira.nmn.io/browse/PROJECTT-22422?filter=-1  / #changelist 유효성 검사 완료
+282811	2024/11/01	Design_Seokwan_work	[손석완][레벨] 혼우드성 남쪽 버려진 유적지 의도외 루트 제거  / - 2번 조각 나무다리로 부터 이동 막음 - 나무 다리 위치 미세 조정  / - 1번 조각 하늘에서 떨어져서 먹는 경로 막음 - 기둥 높임  / - 4번조각 하늘에서 떨어져서 먹
+282787	2024/11/01	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 시야 컬리전 수정  / - 시야 컬리전에 영향을 끼칠만한 바깥쪽 데이터레이어 프랍의 콜리전 제거  / - 실내 블로킹 볼륨의 속성 변경 invinsible wall -> block all  / - 병품 콜리전 잘못들어간 것들 수정  / ht
+282782	2024/11/01	Design_Seokwan_work	[손석완][레벨] 흉포한동물 곰 지역 장막 크기 조절  / - 주변 지형으로 플레이어가 올라갈 수 있는 문제가 반복되어 전투 공간 줄임 -> 50m  / https://jira.nmn.io/browse/NNT-9042?filter=-1  / #changelist 유효성 검사 완료
+282757	2024/11/01	Design_Seokwan_work	[손석완][레벨] 최북단 편지통 콘텐츠 위치 사다리 수정  / - 사다리 착지 지점의 공간이 너무 좁은 문제 해결.  / - 전체적인 사다리 좌표 재배치  / https://jira.nmn.io/browse/NNT-5689?filter=-1  / #changelist 유효성 검사 완료
+282080	2024/10/30	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진 유적지 제작  / - 3단지 초안 목업 제작  / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1  / #changelist 유효성 검사 완료
+282052	2024/10/30	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 게이트 통과 못하는 현상 해결 / - 그리핀 던전 게이트 SKM 컬리전을 No Collision으로 변경
+281555	2024/10/29	Design_Seokwan_work	[손석완][레벨] 파괴형 가젯 신규 리소스 테스트용 데이터 / - 파괴형 가젯들을 대체할 신규 리소스가 제작됨에 따른 데이터 작업 / - 실제 정상적으로 파괴되는지 확인하기 위한 더미 데이터를 112월드에 추가 / #changelist 유효성 �
+281267	2024/10/28	Design_Seokwan_work	[손석완][레벨] 스위치, 게이트 가젯 테스트 환경 제작 / - 테스트맵 101월드에 환경 조성
+281137	2024/10/28	Design_Seokwan_work	[손석완][레벨] 파괴형 가젯 테스트 데이터 추가  / - 파괴형 석벽 3종 데이터 추가  / - 파괴형 배리케이트, 나무 판자 데이터 추가  / - 오버랩 파괴형 나무 발판 추가  / #changelist 유효성 검사 완료
+280570	2024/10/25	Design_Seokwan_work	[손석완][레벨] 최북단 편지통 컨텐츠 고업박스 이동  / - 고업박스를 측면방향으로 이동시켜 캐릭터 컬리전과 곂침을 최소화함.  / https://jira.nmn.io/browse/NNT-8433?filter=-1  / #changelist 유효성 검사 완료
+279967	2024/10/24	Design_Seokwan_work	[손석완][레벨] 올드타운 흉동 블로킹 볼륨 보강  / - 전투 중 내비 끊어진 곳으로 올라가는 현상 막기 위해 외곽 절벽에 블로킹 볼륨 보강  / https://jira.nmn.io/browse/NNT-9020?filter=-1  / #changelist 유효성 검사 완료
+279942	2024/10/24	Design_Seokwan_work	[손석완][레벨] 혼우드성 남쪽 버유 수정  / - 좁은틈 이동 경로에 속도 조절  / - 땅 메시 울퉁불퉁한 것 조절  / https://jira.nmn.io/browse/PROJECTT-22422?filter=-1  / #changelist 유효성 검사 완료
+279700	2024/10/23	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 버려진 유적 작업  /  - 버려진 유적지 2단지 폴리싱  / https://jira.nmn.io/browse/PROJECTT-22429?filter=-1  / #changelist 유효성 검사 완료
+279169	2024/10/22	Design_Seokwan_work	[손석완][레벨] 문 BP 각도 별 테스트 액터 추가  / - 애니팀에서 제작해준 각도 별 몽타주 적용  / https://jira.nmn.io/browse/PROJECTT-22980  / #changelist 유효성 검사 완료
+278617	2024/10/21	Design_Seokwan_work	[손석완][레벨] 최북단 브워킵 장막 스케일 조정 / #changelist 유효성 검사 완료
+278579	2024/10/21	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 서버컬리전 수정  / #changelist 유효성 검사 완료
+278544	2024/10/21	Design_Seokwan_work	[손석완][레벨] 하이가든에 현상수배 게시판 추가  / #changelist 유효성 검사 완료
+278468	2024/10/18	Design_Seokwan_work	[손석완][레벨] 크라켄 월드 추가
+278462	2024/10/18	Design_Seokwan_work	[손석완][레벨] 시타델 1층 부활용 에리어 볼륨 수정 / #changelist 유효성 검사 완료
+278451	2024/10/18	Design_Seokwan_work	[손석완][레벨] 크네 버유 2단지  / #changelist 유효성 검사 완료
+278444	2024/10/18	Design_Seokwan_work	[손석완][레벨] 크네 버유 2단지 초안 완료  / #changelist 유효성 검사 완료
+278357	2024/10/18	Design_Seokwan_work	[손석완][레벨] 크네 버유 2단지 작업 중  / #changelist 유효성 검사 완료
+278175	2024/10/18	Design_Seokwan_work	[손석완][레벨] 장막 BP 원본 수정 / #changelist 유효성 검사 완료
+277684	2024/10/17	Design_Seokwan_work	[손석완][레벨] 크네 버유 2단지 작업중  / #changelist 유효성 검사 완료
+277240	2024/10/16	Design_Seokwan_work	[손석완][레벨] 크네 버유 1단지 수정, 2단지 제작 중  / #changelist 유효성 검사 완료
+276767	2024/10/15	Design_Seokwan_work	[손석완][레벨] 크네 버유 2단지 작업중  / #changelist 유효성 검사 완료
+276102	2024/10/11	Design_Seokwan_work	[손석완][레벨] 크네 버유 1단지 / #changelist 유효성 검사 완료
+274622	2024/10/07	Design_Seokwan_work	[손석완][레벨] 데이터레이어 볼륨 수정 - 시타델에서 밖으로 나갈 떄 어색한 문제 해결  / #changelist 유효성 검사 완료
+274609	2024/10/07	Design_Seokwan_work	[손석완][레벨] 최북단 편지통 콘텐츠 관련 레벨 기믹 크레인 줄 끊어진 것 수정을 위해 재배치  / #changelist 유효성 검사 완료
+273483	2024/10/02	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버유 에리어 볼륨 수정 및 도개교 내리는 지점에 시각적 요소 보강  / #changelist 유효성 검사 완료
+273478	2024/10/02	Design_Seokwan_work	[손석완][레벨] 불필요 파괴형 가젯 삭제 / #changelist 유효성 검사 완료
+272491	2024/09/30	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 전수 부족한 부분 수정  / #changelist 유효성 검사 완료
+272391	2024/09/30	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션9 사망 볼륨 확대 / #changelist 유효성 검사 완료
+272364	2024/09/30	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 엘크 지역 올라가지는 지점 차단  / #changelist 유효성 검사 완료
+272098	2024/09/27	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 몰스타운 버유 수정 / #changelist 유효성 검사 완료
+272054	2024/09/27	Design_Seokwan_work	[손석완][레벨] 학자의 성채 버그 수정 / #changelist 유효성 검사 완료
+272004	2024/09/27	Design_Seokwan_work	[손석완][레벨] 버유 갇히는 곳 수정  / #changelist 유효성 검사 완료
+271964	2024/09/27	Design_Seokwan_work	[손석완][레벨] 하이가든 위어우드의 기억 장막 관련 수정  / #changelist 유효성 검사 완료
+271927	2024/09/27	Design_Seokwan_work	[손석완][레벨] 최북단 인카운터 지역에 고업박스 삭제 및 가젯 위치 조정
+271536	2024/09/26	Design_Seokwan_work	[손석완][레벨] 최북단 흉동 가는 길목에 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+271522	2024/09/26	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 전서구 위치에 고업 액터 수정  / #changelist 유효성 검사 완료
+271520	2024/09/26	Design_Seokwan_work	[손석완][레벨] 허브빌리지에서 3.0지역으로 넘어가는 길목 블로킹 세밀화  / #changelist 유효성 검사 완료
+271514	2024/09/26	Design_Seokwan_work	[손석완][레벨] 하이가든 미로 전투구역에 내비 이어지게 수정  / #changelist 유효성 검사 완료
+271481	2024/09/26	Design_Seokwan_work	[손석완][레벨] 올타 세은 수도원 1층 몹들 위치 수정 - 보스존에서 애드나지 않게
+271443	2024/09/26	Design_Seokwan_work	[손석완][레벨] 흉동 곰 전투에 방해되는 폴리지 삭제  / #changelist 유효성 검사 완료
+271431	2024/09/26	Design_Seokwan_work	[손석완][레벨] 흉포한동물 곰 구역 FX 장막 수정
+271037	2024/09/25	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨 가젯 재 추출 - 미세 조정된 채집물 좌표 적용 / #changelist 유효성 검사 완료
+271019	2024/09/25	Design_Seokwan_work	[손석완][레벨] 하이가든 길찾기 노드 수정  / #changelist 유효성 검사 완료
+270986	2024/09/25	Design_Seokwan_work	[손석완][레벨] 올타 세은 길찾기 노드 추가  / #changelist 유효성 검사 완료
+270944	2024/09/25	Design_Seokwan_work	[손석완][레벨] 점령된 구역 레벨 버그 수정 - 레인보우제티  / #changelist 유효성 검사 완료
+270933	2024/09/25	Design_Seokwan_work	[손석완][레벨] 올타 데이트용 나무 스태틱 메시 추가]  / #changelist 유효성 검사 완료
+270904	2024/09/25	Design_Seokwan_work	[손석완][레벨] 점령된 구역 올라가서는 안되는 지점 수정 - 허브힐  / #changelist 유효성 검사 완료
+270882	2024/09/25	Design_Seokwan_work	[손석완][레벨] 올드타운 나무 스태틱 메시로 변경, BP는 인비저블 머티리얼로 교체  / #changelist 유효성 검사 완료
+270578	2024/09/24	Design_Seokwan_work	[손석완][레벨] 엘크 전투구역 수정  / #changelist 유효성 검사 완료
+270523	2024/09/24	Design_Seokwan_work	[손석완][레벨] 길찾기 버그 수정 - 라스트허스  / #changelist 유효성 검사 완료
+270417	2024/09/24	Design_Seokwan_work	[손석완][레벨] 하이가든 버유 길찾기 노드 배치, BP_WaypointLink 경로 수정  / #changelist 유효성 검사 완료
+270400	2024/09/24	Design_Seokwan_work	[손석완][레벨] 버유 크레인 줄 끊어진 거 수정  / #changelist 유효성 검사 완료
+270397	2024/09/24	Design_Seokwan_work	[손석완][레벨] 불필요 파괴형 가젯 삭제
+270142	2024/09/23	Design_Seokwan_work	[손석완][레벨] 하이가든 테일러숍, 외상인집 앞 전투공간에서 밟고 올라갈 수 있는 작은 프랍들 제거 혹은 위치 이동  / #changelist 유효성 검사 완료
+270135	2024/09/23	Design_Seokwan_work	[손석완][레벨] 하이가든 미로 내 전투공간에서 내비 끊어지지 않게 길 살짝 넓힘  / #changelist 유효성 검사 완료
+270128	2024/09/23	Design_Seokwan_work	[손석완][레벨] 모스엣지 데크에 내비 끊어진 곳 수정  / #changelist 유효성 검사 완료
+270093	2024/09/23	Design_Seokwan_work	[손석완][레벨] 하이가든 문짝 한방향으로 열리게 수정  / #changelist 유효성 검사 완료
+270091	2024/09/23	Design_Seokwan_work	[손석완][레벨] 너무 좁은 공간이라 내비가 생성되지 않는 곳의 은신 부시 제거  / #changelist 유효성 검사 완료
+270076	2024/09/23	Design_Seokwan_work	[손석완][레벨] 노파의 저택 앞 전투에 걸리적거리는 탁자와 벤치 삭제  / #changelist 유효성 검사 완료
+270015	2024/09/23	Design_Seokwan_work	[손석완][레벨] 하이가든 상점가 문짝 말타고 통과 가능하게 수정  / #changelist 유효성 검사 완료
+270011	2024/09/23	Design_Seokwan_work	[손석완][레벨] 하이가든 세은, 위기의성소 웨이포인트 추가  / #changelist 유효성 검사 완료
+264910	2024/09/12	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 프리패스 지점 수정  / #changelist 유효성 검사 완료
+264872	2024/09/12	Design_Seokwan_work	[손석완][레벨] 최북단 흉동 가젯 스캔 노스캔으로 수정 / #changelist 유효성 검사 완료
+264838	2024/09/12	Design_Seokwan_work	[손석완][레벨] 최북단 흉동 가젯 위치 스캔 수정  / #changelist 유효성 검사 완료
+264703	2024/09/12	Design_Seokwan_work	[손석완][레벨] 최북단 프로스트필드 뒤편 사다리 기믹 재배치, 원거리 보충상자 배치  / #changelist 유효성 검사 완료
+264585	2024/09/12	Design_Seokwan_work	[손석완][레벨] 프로스트필드에서 흉동 가는 길목 2단사다리에서 평범사다리로 변경  / #changelist 유효성 검사 완료
+264563	2024/09/12	Design_Seokwan_work	[손석완][레벨] 최북단 불필요 파괴형 가젯 삭제 및 파괴형 가젯 리핏타입을 노리핏으로 변경 - 스포너  / #changelist 유효성 검사 완료
+264560	2024/09/12	Design_Seokwan_work	[손석완][레벨] 최북단 불필요 파괴형 가젯 삭제 및 파괴형 가젯 리핏타입을 노리핏으로 변경 - 테이블
+264426	2024/09/11	Design_Seokwan_work	[손석완][레벨] 하이가든 길찾기 버그 수정  / #changelist 유효성 검사 완료
+264370	2024/09/11	Design_Seokwan_work	[손석완][레벨] 올타 세은 벽면 그룹화  / #changelist 유효성 검사 완료
+264368	2024/09/11	Design_Seokwan_work	[손석완][레벨] 올타 세은 점프구간 아래에 폐허 프랍들 정리 - 내비 잘 이어지게  / #changelist 유효성 검사 완료
+264363	2024/09/11	Design_Seokwan_work	[손석완][레벨] 하이가든 연두막 끼이는 곳 수정  / #changelist 유효성 검사 완료
+264355	2024/09/11	Design_Seokwan_work	[손석완][레벨] 하이가든 연두막 상자 위치 이동 및 슬로프 볼륨 추가  / #changelist 유효성 검사 완료
+264303	2024/09/11	Design_Seokwan_work	[손석완][레벨] 허브힐 볼팅펜스 1개 길이 수정  / #changelist 유효성 검사 완료
+264285	2024/09/11	Design_Seokwan_work	[손석완][레벨] 올타 버유 목각 수정  / #changelist 유효성 검사 완료
+264272	2024/09/11	Design_Seokwan_work	[손석완][레벨] 레인보우제티 낙방볼 추가  / #changelist 유효성 검사 완료
+264172	2024/09/11	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 2층 책걸상 가젯화  / #changelist 유효성 검사 완료
+264171	2024/09/11	Design_Seokwan_work	[손석완][레벨] 시타델 2층 책걸상 가젯화
+264127	2024/09/11	Design_Seokwan_work	[손석완][레벨] 세력은신처 끼이는 곳 수정, 올타 셉트문 양쪽 출입 원활하게 수정  / #changelist 유효성 검사 완료
+263766	2024/09/10	Design_Seokwan_work	[손석완][레벨] 윈터펠 버유 폴리싱 - 2단 사다리 변경  / #changelist 유효성 검사 완료
+263757	2024/09/10	Design_Seokwan_work	[손석완][레벨] 윈터펠 남부 버유 폴리싱  / #changelist 유효성 검사 완료
+263737	2024/09/10	Design_Seokwan_work	[손석완][레벨] 올타 버유 폴리싱  / #changelist 유효성 검사 완료
+263710	2024/09/10	Design_Seokwan_work	[손석완][레벨] 올타 버유 폴리싱  / #changelist 유효성 검사 완료
+263586	2024/09/10	Design_Seokwan_work	[손석완][레벨] FX 장막 연한 버전 추가 / #changelist 유효성 검사 완료
+263541	2024/09/10	Design_Seokwan_work	[손석완][레벨] 웜워크 입구 사다리 재배치  / #changelist 유효성 검사 완료
+263538	2024/09/10	Design_Seokwan_work	[손석완][레벨] 올타 버유 녹색항구 폴리싱  / #changelist 유효성 검사 완료
+263505	2024/09/10	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 장막 가젯 틀어진 것 수정 / #changelist 유효성 검사 완료
+263374	2024/09/09	Design_Seokwan_work	[손석완][레벨] 하이가든 문짝들 말 통과 가능하게 넓힘  / #changelist 유효성 검사 완료
+263373	2024/09/09	Design_Seokwan_work	[손석완][레벨] 허니콧 끼이는 곳 미세 수정  / #changelist 유효성 검사 완료
+263372	2024/09/09	Design_Seokwan_work	[손석완][레벨] 올타 버유 공중부양 위치 막기  / #changelist 유효성 검사 완료
+263363	2024/09/09	Design_Seokwan_work	[손석완][레벨] 몰스타운 다리 밑에도 미들워터 처리 되게 랜드스케이프 조절  / #changelist 유효성 검사 완료
+263362	2024/09/09	Design_Seokwan_work	[손석완][레벨] 몰스타운 근처 냇가 지대 살짝 낮춤 - 미들워터 처리 되게  / #changelist 유효성 검사 완료
+263357	2024/09/09	Design_Seokwan_work	[손석완][레벨] 시타델 하수도 첨벙거리는 지역 사다리 근처 지대 높임.  / #changelist 유효성 검사 완료
+263354	2024/09/09	Design_Seokwan_work	[손석완][레벨] 시체 각도 안 씹히게 수정  / #changelist 유효성 검사 완료
+263350	2024/09/09	Design_Seokwan_work	[손석완][레벨] 레벨기믹 csv 최신화
+263336	2024/09/09	Design_Seokwan_work	[손석완][레벨] 드포 세은 도개교 재배치  / #changelist 유효성 검사 완료
+263328	2024/09/09	Design_Seokwan_work	[손석완][레벨] 미끄러지기볼륨 추가 - 좀더 낮은 각도서도 미끄러질 수 있게  / #changelist 유효성 검사 완료
+263292	2024/09/09	Design_Seokwan_work	[손석완][레벨] 올타 버유 레벨 가젯 아이디 정리 / #changelist 유효성 검사 완료
+263284	2024/09/09	Design_Seokwan_work	[손석완][레벨] 올타 세은 지형 버그 수정  / #changelist 유효성 검사 완료
+263157	2024/09/09	Design_Seokwan_work	[손석완][레벨] 올타 버유 나뭇가지 콜리전 빼기  / #changelist 유효성 검사 완료
+262981	2024/09/09	Design_Seokwan_work	[손석완][레벨] 올타 폭포밑 편지통 위치 수정
+262659	2024/09/06	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 하수로 점프구간 점프하기 편하게 수정  / #changelist 유효성 검사 완료
+262647	2024/09/06	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 폴리싱 - 횃불 추가 등  / #changelist 유효성 검사 완료
+262618	2024/09/06	Design_Seokwan_work	[손석완][레벨] 최북단, 북부, 올타 버유 카메라 수정, 석판 조각 위치 일부 수정, 횃불 배치 등 / #changelist 유효성 검사 완료
+262330	2024/09/05	Design_Seokwan_work	[손석완][레벨] 볼팅펜스에 콜리전 잘못 들어간 것 수정  / #changelist 유효성 검사 완료
+262278	2024/09/05	Design_Seokwan_work	[손석완][레벨] 올드타운, 시타델 장막 가젯 방향 수정, 파괴형 가젯 TotalControlCount =1 처리  / #changelist 유효성 검사 완료
+262267	2024/09/05	Design_Seokwan_work	[손석완][레벨] 최북단용 FX 장막 추가 및 재배치
+262192	2024/09/05	Design_Seokwan_work	[손석완][레벨] 흉동 곰 FX 장막 출현 조건 수정
+262183	2024/09/05	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 허브빌리지 부시 보강  / #changelist 유효성 검사 완료
+262011	2024/09/04	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 가이드 액터 수정  / #changelist 유효성 검사 완료
+261989	2024/09/04	Design_Seokwan_work	[손석완][레벨] 시타델 2층 블로킹 볼륨 조절  / #changelist 유효성 검사 완료
+261955	2024/09/04	Design_Seokwan_work	[손석완][레벨] 크네 위기의 성소 목업 수정  / #changelist 유효성 검사 완료
+261952	2024/09/04	Design_Seokwan_work	[손석완][레벨] 크네 위기의 성소 목업  / #changelist 유효성 검사 완료
+261424	2024/09/03	Design_Seokwan_work	[손석완][레벨] 레벨기믹 csv 최신화
+261413	2024/09/03	Design_Seokwan_work	[손석완][레벨] 레난스레스트 앞 볼팅펜스 중 땅속에 파묻힌 스플라인 포인트 올림  / #changelist 유효성 검사 완료
+261370	2024/09/03	Design_Seokwan_work	[손석완][레벨] 전투 공간이기 때문에 올타 필드 셉트 문 fixed로 설정  / #changelist 유효성 검사 완료
+261365	2024/09/03	Design_Seokwan_work	[손석완][레벨] 고업액터 컬리전에 묻혀있던 것 수정  / #changelist 유효성 검사 완료
+261360	2024/09/03	Design_Seokwan_work	[손석완][레벨] 허브빌리지 배리어 데이터레이어 삭제  / #changelist 유효성 검사 완료
+261205	2024/09/03	Design_Seokwan_work	[손석완][레벨] 말도적단의 동굴 펜스에 블로킹 볼륨 보강  / #changelist 유효성 검사 완료
+261185	2024/09/03	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 연두막 편지통 가젯 위치 이동  / #changelist 유효성 검사 완료
+261000	2024/09/02	Design_Seokwan_work	[손석완][레벨] FX 장막 수정 - 디졸브 기능 체크 및 디졸브 시간 조절  / #changelist 유효성 검사 완료
+260982	2024/09/02	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 연기나는 오두막 바위와 텐트 사이에 내비 생기게 처리 / #changelist 유효성 검사 완료
+260974	2024/09/02	Design_Seokwan_work	[손석완][레벨] FX 장막 수정 - StaticMesh 네이밍 스왑  / #changelist 유효성 검사 완료
+260898	2024/09/02	Design_Seokwan_work	[손석완][레벨] 링 형태 장막 신규 BP 추가
+260265	2024/08/29	Design_Seokwan_work	[손석완][레벨] 올타 버유 문제지점 수정  / #changelist 유효성 검사 완료
+260252	2024/08/29	Design_Seokwan_work	[손석완][레벨] 버유 6단지 블로킹볼륨 수정 및 문 FIX 처리  / #changelist 유효성 검사 완료
+260185	2024/08/29	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 월드맵 노출볼륨 수정  / #changelist 유효성 검사 완료
+260081	2024/08/29	Design_Seokwan_work	[손석완][레벨] FX커튼 MI 디졸브 옵션 체크 및 가젯 BP에서 디졸브 값 수정  / #changelist 유효성 검사 완료
+260057	2024/08/29	Design_Seokwan_work	[손석완][레벨] 장막 가젯 디졸브 되는 신규 버전 추가
+259857	2024/08/28	Design_Seokwan_work	[손석완][레벨] 올타 버유 펜스 높이 조절  / #changelist 유효성 검사 완료
+259698	2024/08/28	Design_Seokwan_work	[손석완][레벨] 크네 점구 항구 목업 일부 수정  / #changelist 유효성 검사 완료
+259695	2024/08/28	Design_Seokwan_work	[손석완][레벨] 올타 세은 사다리 위치 살짝 이동  / #changelist 유효성 검사 완료
+259654	2024/08/28	Design_Seokwan_work	[손석완][레벨] 크네 점구 목업 수정 / #changelist 유효성 검사 완료
+259454	2024/08/27	Design_Seokwan_work	[손석완][레벨] 불필요 목업 삭제  / #changelist 유효성 검사 완료
+259283	2024/08/27	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 미니맵 볼륨 수정 / #changelist 유효성 검사 완료
+259109	2024/08/26	Design_Seokwan_work	[손석완][레벨] 올타 세은 미니맵 에리어 볼륨 좌표 수정, 버그 수정  / #changelist 유효성 검사 완료
+259107	2024/08/26	Design_Seokwan_work	[손석완][레벨] 올타 세은 미니맵 에리어 볼륨 좌표 수정
+258957	2024/08/26	Design_Seokwan_work	[손석완][레벨] 크네 점구 목업 수정  / #changelist 유효성 검사 완료
+258727	2024/08/23	Design_Seokwan_work	[손석완][레벨] FX 커튼 인터랙션 스피어 콜리전 속성 변경  / #changelist 유효성 검사 완료
+258692	2024/08/23	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 점령된 구역 목업 액터 임시 데이터레이어에 편입시킴  / #changelist 유효성 검사 완료
+258665	2024/08/23	Design_Seokwan_work	[손석완][레벨] 올타 세은 미니맵 볼륨 수정
+258614	2024/08/23	Design_Seokwan_work	[손석완][레벨] 올타 세은 미니맵 볼륨 수정  / #changelist 유효성 검사 완료
+258548	2024/08/23	Design_Seokwan_work	[손석완][레벨] 올타 세은 미니맵 볼륨 수정  / #changelist 유효성 검사 완료
+258535	2024/08/23	Design_Seokwan_work	[손석완][레벨] 서브에리어 수정 - 올타 세은 미니맵 볼륨 수정  / #changelist 유효성 검사 완료
+258394	2024/08/22	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 점령된 구역 수정  / #changelist 유효성 검사 완료
+258336	2024/08/22	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 점령된 구역   / #changelist 유효성 검사 완료
+258335	2024/08/22	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 에리어 추가 / #changelist 유효성 검사 완료
+258251	2024/08/22	Design_Seokwan_work	[손석완][레벨] FX 장막 흉포한 동물 곰, 하얀 엘크의 전투상태에 링크
+257834	2024/08/21	Design_Seokwan_work	[손석완][레벨] 올타 세은 서브에리어 비활성화 풀기
+257395	2024/08/20	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 열쇠 문을 점프로 넘어가게 수정, 기존 문은 파괴형 가젯으로 대체  / #changelist 유효성 검사 완료
+257388	2024/08/20	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 점령된 구역 랜드스케이프 조정  / #changelist 유효성 검사 완료
+257351	2024/08/20	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 열쇠문 가젯 삭제
+257273	2024/08/20	Design_Seokwan_work	[손석완] 올드타운 시티홀 문 열 때 깜빡이는 문제 최소화  / #changelist 유효성 검사 완료
+256818	2024/08/19	Design_Seokwan_work	[손석완][레벨] 올드타운 양조장 - 벽면 사다리 데코 지우고 술통 셸브 추가 / #changelist 유효성 검사 완료
+256664	2024/08/16	Design_Seokwan_work	[손석완][레벨] 웜워크 입구 나무 판자 조각에 콜리전이 없어서 어색해보이는 문제 수정  / #changelist 유효성 검사 완료
+256658	2024/08/16	Design_Seokwan_work	[손석완][레벨] 레벨기믹 csv 최신화
+256656	2024/08/16	Design_Seokwan_work	[손석완][레벨] 버유 학자의 성채 계단 밑으로 빠지는 현상 수정  / #changelist 유효성 검사 완료
+256651	2024/08/16	Design_Seokwan_work	[손석완][레벨] 허브힐 내비 안 생기는 지점 수정  / #changelist 유효성 검사 완료
+256648	2024/08/16	Design_Seokwan_work	[손석완][레벨] 양조장 지하 끌차 레일 정밀화  / #changelist 유효성 검사 완료
+256573	2024/08/16	Design_Seokwan_work	[손석완][레벨] 올타 버유 크레인 리소스 변경  / #changelist 유효성 검사 완료
+256560	2024/08/16	Design_Seokwan_work	[손석완][레벨] 하이가든 위어우드의기억 직경 40m 부근 불필요 콜리전 정리  / #changelist 유효성 검사 완료
+252871	2024/08/14	Design_Seokwan_work	[손석완][레벨] 허브힐 내비 안생기는 곳 생길 수 있게 액터 위치 조정  / #changelist 유효성 검사 완료
+252866	2024/08/14	Design_Seokwan_work	[손석완][레벨] 레난스레스트 초입에서 미끄러지는 현상 수정  / #changelist 유효성 검사 완료
+252855	2024/08/14	Design_Seokwan_work	[손석완][레벨] 시야맵에 파괴형 가젯 테스트 용품 추가
+252840	2024/08/14	Design_Seokwan_work	[손석완][레벨] 버유 1단지 올라가면 안되는 곳 막기  / #changelist 유효성 검사 완료
+252809	2024/08/14	Design_Seokwan_work	[손석완][레벨] 시타델 제한구역 가젯 스포너 좌표 변경  / #changelist 유효성 검사 완료
+252807	2024/08/14	Design_Seokwan_work	[손석완][레벨] 시타델 제한구역 문 가젯 좌표 수정
+252531	2024/08/14	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 비밀 공간 가젯 문 수정  / #changelist 유효성 검사 완료
+252254	2024/08/14	Design_Seokwan_work	[손석완][레벨] 신규 문 가젯, 레벨기믹 BP 추가 및 시타델 도서관 가젯 데이터 수정
+252146	2024/08/13	Design_Seokwan_work	[손석완][레벨] 크레인 아이디 재발급  / #changelist 유효성 검사 완료
+252145	2024/08/13	Design_Seokwan_work	[손석완][레벨] 버려진 유적 버그 수정, 크레인 교체   / #changelist 유효성 검사 완료
+251902	2024/08/13	Design_Seokwan_work	[손석완][레벨] 최북단 1.0, 2.0에 흉포한 동물 FX 장벽 추가 / #changelist 유효성 검사 완료
+251584	2024/08/13	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 근처 지역 외곽 처리  / #changelist 유효성 검사 완료
+251408	2024/08/12	Design_Seokwan_work	[손석완][레벨] 양조장 부서지는 창문 수정  / #changelist 유효성 검사 완료
+251374	2024/08/12	Design_Seokwan_work	[손석완][레벨] 시타델 가젯 on/off 조건 변경 등
+251334	2024/08/12	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 문 추가  / #changelist 유효성 검사 완료
+251247	2024/08/12	Design_Seokwan_work	[손석완][레벨] 크네 세은 가이드 액터 수정  / #changelist 유효성 검사 완료
+250813	2024/08/09	Design_Seokwan_work	[손석완][레벨] 시타델 레벨기믹 csv 최신화
+250802	2024/08/09	Design_Seokwan_work	[손석완][레벨] 불필요 불온서적 가이드 액터 삭제  / #changelist 유효성 검사 완료
+250795	2024/08/09	Design_Seokwan_work	[손석완][레벨] 시타델 장막 비활성화 처리
+250749	2024/08/09	Design_Seokwan_work	[손석완][레벨] 시타델 부활용 에리어 추가  / #changelist 유효성 검사 완료
+250716	2024/08/09	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 희귀 채집물 가이드 액터 삭제 / #changelist 유효성 검사 완료
+250573	2024/08/08	Design_Seokwan_work	[손석완][레벨] 시타델 가젯 업데이트
+250533	2024/08/08	Design_Seokwan_work	[손석완][레벨] 레벨기믹 CSV 최신화
+250528	2024/08/08	Design_Seokwan_work	[손석완][레벨] 문 기믹 아이디 재발급  / #changelist 유효성 검사 완료
+250522	2024/08/08	Design_Seokwan_work	[손석완][레벨] 지하수로 불필요 문프랍 삭제  / #changelist 유효성 검사 완료
+250498	2024/08/08	Design_Seokwan_work	[손석완][레벨] 시타델 추적로에 레벨기믹 문 추가 , 기존 가젯 문의 스포너는 삭제  / #changelist 유효성 검사 완료
+250496	2024/08/08	Design_Seokwan_work	[손석완][레벨] 시타델 추적로에 레벨기믹 문 추가 , 기존 가젯 문의 스포너는 삭제  / #changelist 유효성 검사 완료
+250364	2024/08/08	Design_Seokwan_work	[손석완][레벨] 시타델에 장막 추가, 고입 BP 교체  / #changelist 유효성 검사 완료
+250346	2024/08/08	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 영접실 데이터레이어 볼륨 추가 및 설정  / #changelist 유효성 검사 완료
+250128	2024/08/07	Design_Seokwan_work	[손석완][레벨] 올타 흉동 레벨 정리  / #changelist 유효성 검사 완료
+250075	2024/08/07	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 홀 가젯들 서버 컬리전 안 생기게 콜리전 속성을 CPV로 변경  / #changelist 유효성 검사 완료
+250071	2024/08/07	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 보스존 정리  / #changelist 유효성 검사 완료
+250062	2024/08/07	Design_Seokwan_work	[손석완][레벨] 올드타운 세력 은신처 FX 장막 추가 / #changelist 유효성 검사 완료
+249971	2024/08/07	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 가젯 스포너 아이디 재발급  / #changelist 유효성 검사 완료
+249968	2024/08/07	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 내 가젯들 아이디 재발급 및 복구 상태 추가
+249899	2024/08/07	Design_Seokwan_work	[손석완][레벨] Area 귀속 몬스터의 장막 출력 기능 테스트
+249817	2024/08/06	Design_Seokwan_work	[손석완][레벨] 노파의 집 헛간 들어가는 경로 수정 및 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+249785	2024/08/06	Design_Seokwan_work	[손석완][레벨] 세은 올타 기믹 컴플리트 위치 지정 및 도서관 문 FIX 처리  / #changelist 유효성 검사 완료
+249784	2024/08/06	Design_Seokwan_work	[손석완][레벨] 은신 부시 올타 세은에 보강  / #changelist 유효성 검사 완료
+249779	2024/08/06	Design_Seokwan_work	[손석완][레벨] 데이터 레이어 - 시타델 도서관 최종 버전 ON/OFF 조건 수정
+249770	2024/08/06	Design_Seokwan_work	[손석완][레벨] 보스몹 잡고 나면 정상화되는 데이터레이어 추가 및 액터 복붙  / #changelist 유효성 검사 완료
+249596	2024/08/06	Design_Seokwan_work	[손석완][레벨] 터레인 무브 액터 삭제 및 고업 BP로  대체  / #changelist 유효성 검사 완료
+249556	2024/08/06	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 블로킹 볼륨 수정  / #changelist 유효성 검사 완료
+249541	2024/08/06	Design_Seokwan_work	[손석완][레벨] 시타델 가젯 비지블 on/off 수정 / #changelist 유효성 검사 완료
+249518	2024/08/06	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 부서진 후 가젯들 초기 비지블 끄기 / #changelist 유효성 검사 완료
+249487	2024/08/06	Design_Seokwan_work	[손석완][레벨] 올타 세은 파괴형 널판지 삭제
+249364	2024/08/05	Design_Seokwan_work	[손석완][레벨] 시타델 제한구역 문짝 동적으로 추가  / #changelist 유효성 검사 완료
+249352	2024/08/05	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 문 가젯 추가 / #changelist 유효성 검사 완료
+249260	2024/08/05	Design_Seokwan_work	[손석완][레벨] 올타 세은 내비모디파이어 볼륨 추가  / #changelist 유효성 검사 완료
+249253	2024/08/05	Design_Seokwan_work	[손석완][레벨] 시야맵에 서버 컬리전 생성 여부 확인  / #changelist 유효성 검사 완료
+249252	2024/08/05	Design_Seokwan_work	[손석완][레벨] 올타 세은 2단 사다리 고장난 것 수리  / #changelist 유효성 검사 완료
+249209	2024/08/05	Design_Seokwan_work	[손석완][레벨] 시타델 레벨가젯 아이디 정리 / #changelist 유효성 검사 완료
+249182	2024/08/05	Design_Seokwan_work	[손석완][레벨] 시타델 가젯 아이디 정리
+249129	2024/08/05	Design_Seokwan_work	[손석완][레벨] 도서관 비밀공간 출입구 블로킹 볼륨 조정 - 내비 생기게  / #changelist 유효성 검사 완료
+248027	2024/07/31	Design_Seokwan_work	[손석완][레벨] 북부 버유 2단지 크레인 교체, 문 삭제  / #changelist 유효성 검사 완료
+247971	2024/07/31	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 가젯 최신화
+247950	2024/07/31	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 보물창고 열쇠 떨어뜨리는 리더 관련 수정
+247940	2024/07/31	Design_Seokwan_work	[손석완][레벨] 하이가든 게이트 문 프랍 데이터레이어에 포함 시킴  / #changelist 유효성 검사 완료
+247681	2024/07/30	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨 정리  / #changelist 유효성 검사 완료
+247680	2024/07/30	Design_Seokwan_work	[손석완][레벨] 시타델 레벨 정리  / #changelist 유효성 검사 완료
+247679	2024/07/30	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 가젯 스포너 수정  / #changelist 유효성 검사 완료
+247473	2024/07/30	Design_Seokwan_work	[손석완][레벨] 시타델 홀 부서진 부전 가젯 추가 / #changelist 유효성 검사 완료
+247453	2024/07/30	Design_Seokwan_work	[손석완][레벨] 시타델 가젯 추가 / #changelist 유효성 검사 완료
+247431	2024/07/30	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 내 데이터레이어 관련 csv 최신화
+247428	2024/07/30	Design_Seokwan_work	[손석완][레벨] 시타델 내 가젯 ID 재배급  / #changelist 유효성 검사 완료
+247403	2024/07/30	Design_Seokwan_work	[손석완][레벨] Undo single //streamsMain/Main/Trunk/Client/Source/ProjectT/Network/Packet/PktTypeConv.cpp revision 1511
+247398	2024/07/30	Design_Seokwan_work	[손석완][레벨] 도서관 데이터레이어 정리  / #changelist 유효성 검사 완료
+247358	2024/07/30	Design_Seokwan_work	[손석완][레벨] 장막 테스트 값 csv 추출
+247357	2024/07/30	Design_Seokwan_work	[손석완][레벨] 테스트 지역 영역 표시  / #changelist 유효성 검사 완료
+247354	2024/07/30	Design_Seokwan_work	[손석완][레벨] 경사로 추가  / #changelist 유효성 검사 완료
+247351	2024/07/30	Design_Seokwan_work	[손석완][레벨] FX 장막 관련 테스트 값 추가  / #changelist 유효성 검사 완료
+247130	2024/07/29	Design_Seokwan_work	[손석완][레벨] 로즈워터 입구 부분 몬스터 수정
+247106	2024/07/29	Design_Seokwan_work	[손석완][레벨] 올드타운 불필요 해안 절벽 동선 제거  / #changelist 유효성 검사 완료
+247095	2024/07/29	Design_Seokwan_work	[손석완][레벨] 로즈워터 몹 추적 거리 축소 및 사주경계 설정
+247005	2024/07/29	Design_Seokwan_work	[손석완][레벨] 로즈워터 추적 볼륨 수정  / #changelist 유효성 검사 완료
+246963	2024/07/29	Design_Seokwan_work	[손석완][레벨] 로즈워터 점령된 구역 배치 및 수치 변경 / #changelist 유효성 검사 완료
+246948	2024/07/29	Design_Seokwan_work	[손석완][레벨] 불필요 프랍 삭제  / #changelist 유효성 검사 완료
+246708	2024/07/26	Design_Seokwan_work	[손석완][레벨] 암살 시 어그로 전파 테스트, 로즈워터 점령된 구역 배치 일부 수정  / #changelist 유효성 검사 완료
+246649	2024/07/26	Design_Seokwan_work	[손석완][레벨] 하이가든 올드타운 문 bp 정리, 하이가든 정원 게이트 데이터레이어 정리  / #changelist 유효성 검사 완료
+246648	2024/07/26	Design_Seokwan_work	[손석완][레벨] 데이터레이어 리모트 기능 정리 / #changelist 유효성 검사 완료
+246616	2024/07/26	Design_Seokwan_work	[손석완][레벨] 레벨기믹 csv 최신화
+246475	2024/07/25	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨 정리  / #changelist 유효성 검사 완료
+246351	2024/07/25	Design_Seokwan_work	[손석완][레벨] 시타델 전투지역 가젯 on/off 설정  / #changelist 유효성 검사 완료
+246317	2024/07/25	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 기존 프랍 가젯으로 대체 후 삭제  / #changelist 유효성 검사 완료
+246316	2024/07/25	Design_Seokwan_work	[손석완][레벨] 시타델 프랍 -> 가젯으로 교체 작업 / #changelist 유효성 검사 완료
+246315	2024/07/25	Design_Seokwan_work	[손석완][레벨] 하이가든 외국인 상인의 집 리모트 설정  / #changelist 유효성 검사 완료
+246272	2024/07/25	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 홀 관련 가젯 추가  / #changelist 유효성 검사 완료
+246271	2024/07/25	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 홀 데이터레이어 정리 - 가젯으로 대체하기 위함  / #changelist 유효성 검사 완료
+246201	2024/07/25	Design_Seokwan_work	[손석완][레벨] 레벨기믹 csv 최신화
+246166	2024/07/24	Design_Seokwan_work	[손석완][레벨] 하이가든 오두막 앞에 임시 큐브 추가  / #changelist 유효성 검사 완료
+246165	2024/07/24	Design_Seokwan_work	[손석완][레벨] 올타 세은 지하 도서관에 이단 사다리 추가  / #changelist 유효성 검사 완료
+246161	2024/07/24	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨기믹 정리  / #changelist 유효성 검사 완료
+246155	2024/07/24	Design_Seokwan_work	[손석완][레벨] 하이가든 버유 1단지 레벨기믹 컴플리트 스테이트 설정  / #changelist 유효성 검사 완료
+246151	2024/07/24	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨 정리  / #changelist 유효성 검사 완료
+246090	2024/07/24	Design_Seokwan_work	[손석완][레벨] 하이가든 맨더 교각 레벨라인 설정  / #changelist 유효성 검사 완료
+246048	2024/07/24	Design_Seokwan_work	[손석완][레벨] SubArea 테이블 수정 - 하이가든 레벨라인 추가  / #changelist 유효성 검사 완료
+246016	2024/07/24	Design_Seokwan_work	[손석완][레벨] 레벨기믹 csv 업데이트
+246013	2024/07/24	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨라인에 맞는 월드스팟 추가
+245931	2024/07/24	Design_Seokwan_work	[손석완][레벨] 노파의 집에 터레인 무브 액터 추가  / #changelist 유효성 검사 완료
+245915	2024/07/24	Design_Seokwan_work	[손석완][레벨] 올타 세은 아시바 보강, 사다리 길이 조정  / #changelist 유효성 검사 완료
+245905	2024/07/24	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 숏컷에 아시바 보강  / #changelist 유효성 검사 완료
+245828	2024/07/24	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 위어우드의 기억 위치 수정  / #changelist 유효성 검사 완료
+245753	2024/07/24	Design_Seokwan_work	[손석완][레벨] FX 장막 - Wall 타입에 콜리전 추가  / #changelist 유효성 검사 완료
+245678	2024/07/23	Design_Seokwan_work	[손석완][레벨] 하이가든 필드 데이터레이어 수정 - 액티브 설정  / #changelist 유효성 검사 완료
+245677	2024/07/23	Design_Seokwan_work	[손석완][레벨] 하이가든 성 내 레벨 정리  / #changelist 유효성 검사 완료
+245645	2024/07/23	Design_Seokwan_work	[손석완][레벨] 올타 세은 희귀 채집물 가배치  / #changelist 유효성 검사 완료
+245570	2024/07/23	Design_Seokwan_work	[손석완][레벨] 하이가든 버려진유적 정리  / #changelist 유효성 검사 완료
+245552	2024/07/23	Design_Seokwan_work	[손석완][레벨] 하이가든 버려진 유적 이슈 수정  / #changelist 유효성 검사 완료
+245490	2024/07/23	Design_Seokwan_work	[손석완][레벨] 허브빌리지, 로즈워터 추적 에리어 수정  / #changelist 유효성 검사 완료
+245450	2024/07/23	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션09 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+245405	2024/07/23	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 허브빌리지 몬스터들 귀속 에리어 설정  / #changelist 유효성 검사 완료
+245299	2024/07/22	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 점령된 구역 몬스터 재배치 / #changelist 유효성 검사 완료
+245253	2024/07/22	Design_Seokwan_work	[손석완][레벨] 최북단2.0 허브 빌리지 몬스터 배치 수정  / #changelist 유효성 검사 완료
+245129	2024/07/22	Design_Seokwan_work	[손석완][레벨] 하이가든 로즈워터 npc 배치 수정  / #changelist 유효성 검사 완료
+244985	2024/07/19	Design_Seokwan_work	[손석완][레벨] 불필요 레벨 가이드 삭제  / #changelist 유효성 검사 완료
+244983	2024/07/19	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 수정  / #changelist 유효성 검사 완료
+244974	2024/07/19	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨 정리 - 불필요 가이드 액터 삭제 등  / #changelist 유효성 검사 완료
+244973	2024/07/19	Design_Seokwan_work	[손석완][레벨] 시야맵 어그로 전파 테스트 케이스 추가, 하이가든 로즈워터 배치 수정  / #changelist 유효성 검사 완료
+244680	2024/07/19	Design_Seokwan_work	[손석완][레벨] 하이가든 웨이포인트 정리 / #changelist 유효성 검사 완료
+244675	2024/07/19	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 페이즈2 수정  / #changelist 유효성 검사 완료
+244531	2024/07/18	Design_Seokwan_work	[손석완][레벨] 크라켄 더미 방향 수정  / #changelist 유효성 검사 완료
+244352	2024/07/18	Design_Seokwan_work	[손석완][레벨] 파괴형 나무판자 컬리전 속성 변경  / #changelist 유효성 검사 완료
+244323	2024/07/17	Design_Seokwan_work	[손석완][레벨] FX 장막 테스트용 BP 및 데이터 추가  / #changelist 유효성 검사 완료
+244306	2024/07/17	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨 정리 - 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+244305	2024/07/17	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨 정리 - 가이드 액터 조정  / #changelist 유효성 검사 완료
+244287	2024/07/17	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨 정리 - 볼팅펜스 콜리전 재설정  / #changelist 유효성 검사 완료
+244103	2024/07/17	Design_Seokwan_work	[손석완][레벨] 크라켄 목업 정리  / #changelist 유효성 검사 완료
+243766	2024/07/16	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 수정 - 난파선에서 부유물로 변경  / #changelist 유효성 검사 완료
+243645	2024/07/15	Design_Seokwan_work	[손석완][레벨] 레벨 기믹 Region Label 없는 것들 추가  / #changelist 유효성 검사 완료
+243408	2024/07/15	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 수정 - 3-2페이즈 공간 높이 조금 올림  / #changelist 유효성 검사 완료
+242753	2024/07/11	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 수정  / #changelist 유효성 검사 완료
+242687	2024/07/10	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 바위 수정  / #changelist 유효성 검사 완료
+242630	2024/07/10	Design_Seokwan_work	[손석완][레벨] 올드타운 양조장 지하에 삭제되어야 하는 부분 표시  / #changelist 유효성 검사 완료
+242407	2024/07/10	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 수정 해협으로 조성  / #changelist 유효성 검사 완료
+242401	2024/07/10	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 수정 - 해협으로 변경  / #changelist 유효성 검사 완료
+242186	2024/07/09	Design_Seokwan_work	[손석완][레벨] 크라켄 목업 수정  / #changelist 유효성 검사 완료
+242104	2024/07/09	Design_Seokwan_work	[손석완][레벨] 크라켄 목업 작업 / #changelist 유효성 검사 완료
+241698	2024/07/05	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 스위치 가젯 스캔 되게 수정 등  / #changelist 유효성 검사 완료
+241691	2024/07/05	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 스위치 스캔 되게 수정  / #changelist 유효성 검사 완료
+241679	2024/07/05	Design_Seokwan_work	[손석완][레벨] 올타 버유 2단지 벽 추가  / #changelist 유효성 검사 완료
+241670	2024/07/05	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 수정  / #changelist 유효성 검사 완료
+241468	2024/07/05	Design_Seokwan_work	[손석완][레벨] 불필요 레벨가이드 삭제  / #changelist 유효성 검사 완료
+241375	2024/07/04	Design_Seokwan_work	[손석완][레벨] 올드타운 세력 은신처 레벨 정리  / #changelist 유효성 검사 완료
+241371	2024/07/04	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 레벨 정리  / #changelist 유효성 검사 완료
+241365	2024/07/04	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 레벨 정리  / #changelist 유효성 검사 완료
+240773	2024/07/02	Design_Seokwan_work	[손석완][레벨] 올타 세은 레벨 가이드 수정, 문 id 재 분배  / #changelist 유효성 검사 완료
+240575	2024/07/02	Design_Seokwan_work	[손석완][레벨] 기믹액터 ID 중복된 것 변경  / #changelist 유효성 검사 완료
+240567	2024/07/02	Design_Seokwan_work	[손석완][레벨] 올타 세은 블로킹볼륨 추가 및 일부 수정  / #changelist 유효성 검사 완료
+240111	2024/06/27	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 올드타운 2단지 버그 수정 및 잡화 가젯 무기상자로 변경
+240110	2024/06/27	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 올드타운 2단지 버그 수정 및 잡화 가젯 무기상자로 변경  / #changelist 유효성 검사 완료
+240105	2024/06/27	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 가젯 스캔 타입 변경  / #changelist 유효성 검사 완료
+240085	2024/06/27	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 3단지 리소스 교체 및 폴리싱  / #changelist 유효성 검사 완료
+239867	2024/06/26	Design_Seokwan_work	[손석완][레벨] 크라켄 목업 수정 / #changelist 유효성 검사 완료
+239527	2024/06/25	Design_Seokwan_work	[손석완][레벨] 테스트용 가젯 업로드
+239514	2024/06/25	Design_Seokwan_work	[손석완][레벨] 블로커 테스트용 가젯 / #changelist 유효성 검사 완료
+239238	2024/06/24	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 길막하던 벽 데이터레이어에 종속  / #changelist 유효성 검사 완료
+239232	2024/06/24	Design_Seokwan_work	[손석완][레벨] 문 인스타트 위치가 밖으로 가게 돌려놓음  / #changelist 유효성 검사 완료
+238960	2024/06/20	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 수정  / #changelist 유효성 검사 완료
+238678	2024/06/18	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 수정  / #changelist 유효성 검사 완료
+238297	2024/06/17	Design_Seokwan_work	[손석완][레벨] 목업 전체 Rotate  / #changelist 유효성 검사 완료
+238221	2024/06/17	Design_Seokwan_work	[손석완][레벨] 크라켄 던전 목업 수정 및 가이드 액터 추가, 아웃라이너 정리  / #changelist 유효성 검사 완료
+236873	2024/06/14	Design_Seokwan_work	[손석완][레벨] 레난스 레스트 벽타는 문제 해결  / #changelist 유효성 검사 완료
+236821	2024/06/14	Design_Seokwan_work	[손석완][레벨] 회늑부 뒤편 로프 수정  / #changelist 유효성 검사 완료
+236021	2024/06/12	Design_Seokwan_work	[손석완][QA=>Trunk]  / @236003 [손석완][레벨] 장벽너머 미션07 밧줄 타다가 멈추는 현상 수정  / #changelist 유효성 검사 완료
+235863	2024/06/12	Design_Seokwan_work	[손석완][QA=>Trunk]  / @235858 [손석완][레벨] 올타 셉트 지하실 내려가는 길목 내비 생기게 수정  / #changelist 유효성 검사 완료
+235016	2024/06/10	Design_Seokwan_work	[손석완][QA=>Trunk] / @234942 [손석완][레벨] 퀼앤탱커드 문 추가 / #changelist 유효성 검사 완료
+235015	2024/06/10	Design_Seokwan_work	[손석완][QA=>Trunk] / @234943 [손석완][레벨] 올드타운 담벼락 이상하게 넘어지는 문제 수정 / #changelist 유효성 검사 완료
+235014	2024/06/10	Design_Seokwan_work	[손석완][QA=>Trunk] / @234944 [손석완][레벨] 올드타운 녹색항구 버려진 유적지 버그 수정 / #changelist 유효성 검사 완료
+235013	2024/06/10	Design_Seokwan_work	[손석완][QA=>Trunk] / @234945 [손석완][레벨] 올타 버유 3단지 점프대 콜리전 수정 / #changelist 유효성 검사 완료
+233929	2024/06/07	Design_Seokwan_work	[손석완][QA=>Trunk]  / @233896 [손석완][레벨] 북부 버유 1단지 넘어가지 못해야 하는 부분 차단  / #changelist 유효성 검사 완료
+233928	2024/06/07	Design_Seokwan_work	[손석완][QA=>Trunk]  / @233895 [손석완][레벨] 롱레이크 대교에서 자연스럽게 떨어지지 못하는 문제 해결  / #changelist 유효성 검사 완료
+233927	2024/06/07	Design_Seokwan_work	[손석완][레벨] 올타 버유 3단지 리소스 교체  / #changelist 유효성 검사 완료
+233926	2024/06/07	Design_Seokwan_work	[손석완][QA=>Trunk]  / @233894 [손석완][레벨] 북부 버유 2단지 가면 안 되는 곳 도달 못하게 수정  / #changelist 유효성 검사 완료
+233788	2024/06/07	Design_Seokwan_work	[손석완][레벨] 하이가든 버려진 유적지에 더미 액터들 게임에서 안보이게 수정  / #changelist 유효성 검사 완료
+233177	2024/06/05	Design_Seokwan_work	[손석완][레벨] 시타델 블로킹 볼륨 수정 - 계단 난간 높이 조정, CPV로  콜리전 속성 변경  / #changelist 유효성 검사 완료
+233081	2024/06/05	Design_Seokwan_work	[손석완][레벨] 검은 엘크 전투지역 부서지는 프랍 위치 수정 - 컷신 재생 중에 터지지 않게  / #changelist 유효성 검사 완료
+232705	2024/06/05	Design_Seokwan_work	[손석완][레벨] 올드타운 일부 볼팅 구역 조절 - 넘어가면 안되는 구역 차단 / #changelist 유효성 검사 완료
+232572	2024/06/05	Design_Seokwan_work	[손석완][레벨] 프롤로그 밧줄 타고 구역 지형 뚫리는 문제 블로킹 볼륨 보완  / #changelist 유효성 검사 완료
+231661	2024/06/04	Design_Seokwan_work	[손석완][레벨] 캐슬블랙 엘리베이터에 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+231624	2024/06/04	Design_Seokwan_work	[손석완][레벨] 최북단 야인 캠프 홈 파인 것 수정  / #changelist 유효성 검사 완료
+231258	2024/06/03	Design_Seokwan_work	[손석완][레벨] 캐슬블랙 근처 장벽 블로킹 볼륨 수정  / #changelist 유효성 검사 완료
+231257	2024/06/03	Design_Seokwan_work	[손석완][레벨] 말 도둑놈들 캠프 블로킹 수정  / #changelist 유효성 검사 완료
+231107	2024/06/03	Design_Seokwan_work	[손석완][레벨] 그리핀던전 스위치 카메라 레터박스 제거  / #changelist 유효성 검사 완료
+229504	2024/05/31	Design_Seokwan_work	[손석완][레벨] 회늑부 뒤쪽 밧줄타는 곳 자연스럽게 수정  / #changelist 유효성 검사 완료
+229476	2024/05/31	Design_Seokwan_work	[손석완][레벨] 윈터펠 영접실 문 BP 추가  / #changelist 유효성 검사 완료
+229164	2024/05/31	Design_Seokwan_work	[손석완][레벨] 나무 하나 위치 변경  / #changelist 유효성 검사 완료
+229109	2024/05/31	Design_Seokwan_work	[손석완][레벨] 캐슬블랙 시야 차단용 볼륨 추가, 블로킹 볼륨 아웃라이너 정리  / #changelist 유효성 검사 완료
+228987	2024/05/30	Design_Seokwan_work	[손석완][레벨] 최북단 외곽 블로킹 볼륨 수정  / #changelist 유효성 검사 완료
+228783	2024/05/30	Design_Seokwan_work	[손석완][레벨] 라스트허스 윗 부분 막기, 레벨 버그 수정  / #changelist 유효성 검사 완료
+228754	2024/05/30	Design_Seokwan_work	[손석완][레벨] 최북단 외곽 지역 블로킹 처리 등  / #changelist 유효성 검사 완료
+228617	2024/05/30	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 앞 빙판 프리패스 블록  / #changelist 유효성 검사 완료
+228482	2024/05/29	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 앞마당 점프 패스 못하게 수정  / #changelist 유효성 검사 완료
+228472	2024/05/29	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 버그 수정  / #changelist 유효성 검사 완료
+228466	2024/05/29	Design_Seokwan_work	[손석완][레벨] 최북단 버유 파괴형 가젯 아이디 재배분
+227921	2024/05/28	Design_Seokwan_work	[손석완][레벨] 공중에 난 풀 제거  / #changelist 유효성 검사 완료
+227876	2024/05/28	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 버그 수정  / #changelist 유효성 검사 완료
+227769	2024/05/28	Design_Seokwan_work	[손석완][레벨]  최북단 레벨 퀄리티 업  / #changelist 유효성 검사 완료
+227744	2024/05/28	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 보스 전투 프리패스 막기  / #changelist 유효성 검사 완료
+227738	2024/05/28	Design_Seokwan_work	[손석완][레벨] 문 BP에 컬리전 전투 카메라도 못 뚫게 수정  / #changelist 유효성 검사 완료
+227465	2024/05/27	Design_Seokwan_work	[ExcelAutomation] LevelGimmick exported.
+227446	2024/05/27	Design_Seokwan_work	[손석완][레벨] 올드타운 깃털마을 사다리 일부 제거  / #changelist 유효성 검사 완료
+227338	2024/05/27	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 버그 수정  / #changelist 유효성 검사 완료
+227081	2024/05/27	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 버그 수정  / #changelist 유효성 검사 완료
+226820	2024/05/24	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 정리, 2단사다리 트리거 가장 멀리에 있는 버전 추가 등  / #changelist 유효성 검사 완료
+226428	2024/05/23	Design_Seokwan_work	[손석완][레벨] 장벽너머 9번미션에 데스볼륨 추가 / #changelist 유효성 검사 완료
+226366	2024/05/23	Design_Seokwan_work	[손석완][레벨] 최북단 추락방지볼륨 추가  / #changelist 유효성 검사 완료
+226355	2024/05/23	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 지도 해금 볼륨 추가  / #changelist 유효성 검사 완료
+226283	2024/05/23	Design_Seokwan_work	[손석완][레벨] 최북단 블로킹 볼륨 수정  / #changelist 유효성 검사 완료
+226127	2024/05/22	Design_Seokwan_work	[손석완][레벨] 캐슬블랙 레벨 정리  / #changelist 유효성 검사 완료
+226111	2024/05/22	Design_Seokwan_work	[손석완][레벨] 몰스타운 볼팅 펜스 수정  / #changelist 유효성 검사 완료
+226084	2024/05/22	Design_Seokwan_work	[손석완][레벨] 프롤로그 블로킹 볼륨 수정  / #changelist 유효성 검사 완료
+226062	2024/05/22	Design_Seokwan_work	[손석완][레벨] 마지막 통나무 우회 내비 발생하도록 수정  / #changelist 유효성 검사 완료
+226017	2024/05/22	Design_Seokwan_work	[손석완][레벨] 수수꼐끼 보물 위치 가이드 추가  / #changelist 유효성 검사 완료
+225931	2024/05/22	Design_Seokwan_work	[손석완][레벨] 프롤로그 내비 끊어진 곳 수정, 콜리전 빠진 곳에 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+225837	2024/05/22	Design_Seokwan_work	[손석완][레벨] 올드타운 볼팅펜스 일부 잘못 들어간 것 수정, 양면의 높낮이가 크게 차이나는 부분은 TerrainMoveActor로 대체  / #changelist 유효성 검사 완료
+225767	2024/05/22	Design_Seokwan_work	[손석완][레벨] 올타 버유 1단지 못돌아오는 길 수정  / #changelist 유효성 검사 완료
+225436	2024/05/21	Design_Seokwan_work	[손석완][레벨] 리치지역 레벨가이드 수정 - 신규 콘텐츠 관련해서 아웃라이너 정리  / #changelist 유효성 검사 완료
+225416	2024/05/21	Design_Seokwan_work	[손석완][레벨] 하이가든 성 내 볼팅펜스 속성 수정  / #changelist 유효성 검사 완료
+225323	2024/05/21	Design_Seokwan_work	[손석완][레벨] 최북단 길찾기 노드 수정  / #changelist 유효성 검사 완료
+225317	2024/05/21	Design_Seokwan_work	[손석완][레벨] 리치지역 신규 콘텐츠 레벨 가이드 수정  / #changelist 유효성 검사 완료
+225063	2024/05/20	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적 2단지 수정  / #changelist 유효성 검사 완료
+224963	2024/05/20	Design_Seokwan_work	[손석완][레벨] 최북단 웨이포인트 끊어진 곳 수정  / #changelist 유효성 검사 완료
+224955	2024/05/20	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 웨이포인트 수정 / #changelist 유효성 검사 완료
+224954	2024/05/20	Design_Seokwan_work	[손석완][레벨] 웜워크 입구 미니맵 가이드 액터 안보이게 처리 / #changelist 유효성 검사 완료
+224839	2024/05/20	Design_Seokwan_work	[손석완][레벨] 장벽너머9번미션 랜드스케이프 머티리얼 _BTW로 수정, 피직스 머티리얼 Grass->Snow로 수정  / #changelist 유효성 검사 완료
+224764	2024/05/17	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 1단지 리소스 교체 및 버그 수정  / #changelist 유효성 검사 완료
+224624	2024/05/17	Design_Seokwan_work	[손석완][레벨] 리치 지역 신규 콘텐츠 위치 배정  / #changelist 유효성 검사 완료
+224616	2024/05/17	Design_Seokwan_work	[손석완][레벨] 최북단 콜리전 이상한 것들 수정  / #changelist 유효성 검사 완료
+224334	2024/05/17	Design_Seokwan_work	[손석완][레벨] 올타 버유 2단 사다리 안내려오는 문제 해결 / #changelist 유효성 검사 완료
+224287	2024/05/16	Design_Seokwan_work	[손석완][레벨] 하이가든, 올드타운 신규 편지통 위치 지정, 웜워크 실내 미니맵 재 추출, 불필요 레벨가이드 삭제  / #changelist 유효성 검사 완료
+223518	2024/05/10	Design_Seokwan_work	[손석완][레벨] 최북단 흉동 내비메시 이상 지역 수정  / #changelist 유효성 검사 완료
+223509	2024/05/10	Design_Seokwan_work	[손석완][래벨] 최북단 퀸즈크라운 근처 끼이는 곳 수정  / #changelist 유효성 검사 완료
+223469	2024/05/10	Design_Seokwan_work	[손석완][레벨] 최북단 흉동 지역 파괴형 가젯 눈덮힌 머티리얼로 교체  / #changelist 유효성 검사 완료
+223236	2024/05/09	Design_Seokwan_work	[손석완][레벨] 파괴형 프랍 오크통 컬리전 추가  / #changelist 유효성 검사 완료
+223207	2024/05/09	Design_Seokwan_work	[손석완][레벨] 롱레이크 프랍들 내비메시에 영향 주게 설정  / #changelist 유효성 검사 완료
+223176	2024/05/09	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 앞마당 눈더미 삭제 - 내비 관련 이슈  / #changelist 유효성 검사 완료
+223157	2024/05/09	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 데이터레이어, 문, 환경박스 등 수정  / #changelist 유효성 검사 완료
+223093	2024/05/09	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 버그 및 개선사항 수정  / #changelist 유효성 검사 완료
+222361	2024/05/08	Design_Seokwan_work	[손석완][레벨] 월드스팟테이블 csv 누락분 추가
+222349	2024/05/08	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 서브에리어 추가, 부활포인트 수정  / #changelist 유효성 검사 완료
+222212	2024/05/07	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 미니맵 구역 서브에리어 추가 / #changelist 유효성 검사 완료
+221028	2024/05/07	Design_Seokwan_work	[손석완][레벨] 미니맵 가이드 작업 중 - 올드타운 세은 / #changelist 유효성 검사 완료
+220959	2024/05/03	Design_Seokwan_work	[손석완][레벨] 최북단 지형 버그 개선, 어색한 지형 보강  / #changelist 유효성 검사 완료
+220778	2024/05/03	Design_Seokwan_work	[손석완][레벨] 레난스레스트 영접실 데이터 레이어 볼륨 수정 - 전환 깜빡임 최소화  / #changelist 유효성 검사 완료
+220423	2024/05/02	Design_Seokwan_work	[손석완][레벨] 프로스트 필드 이단 사다리 위치 조정  / #changelist 유효성 검사 완료
+220422	2024/05/02	Design_Seokwan_work	[손석완][레벨] 최북단 천 프랍에서 콜리전 제거  / #changelist 유효성 검사 완료
+220420	2024/05/02	Design_Seokwan_work	[손석완][레벨] 올드타운 지하하수도 물 높이 낮춤.  / #changelist 유효성 검사 완료
+220419	2024/05/02	Design_Seokwan_work	[손석완][레벨] 웜워크 입구 관련 버그 수정 - 입구에 경사로 조성, 원탑 프랍 제거  / #changelist 유효성 검사 완료
+220112	2024/04/30	Design_Seokwan_work	[손석완][레벨] 버려진 유적 6단지 가젯 위치 수정 일부 기믹 수정 / #changelist 유효성 검사 완료
+220110	2024/04/30	Design_Seokwan_work	[손석완][레벨] 북부 버유 6단지 가젯 위치 수정
+219939	2024/04/30	Design_Seokwan_work	[손석완][레벨] 레벨기믹 테이블 최신화
+219931	2024/04/30	Design_Seokwan_work	[손석완][레벨] 얼어붙은 호수 위 편지통 위치 수정  / #changelist 유효성 검사 완료
+219739	2024/04/30	Design_Seokwan_work	[손석완][레벨] 최북단 버유 프랍 머티리얼 교체  / #changelist 유효성 검사 완료
+219664	2024/04/29	Design_Seokwan_work	[손석완][레벨] 미니맵 가이드 액터 작업 - 올타 세은 입구용 동굴 / #changelist 유효성 검사 완료
+219663	2024/04/29	Design_Seokwan_work	[손석완][레벨] 최북단 버유 프랍셋 및 레벨 기믹 머티리얼 눈 덮힌 것으로 교체  / #changelist 유효성 검사 완료
+219613	2024/04/29	Design_Seokwan_work	[손석완][레벨] 불필요 가이드 액터 삭제, 가이드 액터 설명 수정  / #changelist 유효성 검사 완료
+219452	2024/04/29	Design_Seokwan_work	[손석완][레벨] 북부 버유 2단지 버그 수정  / #changelist 유효성 검사 완료
+219400	2024/04/29	Design_Seokwan_work	[손석완][레벨] 북부 버유 버그 수정 / #changelist 유효성 검사 완료
+219248	2024/04/26	Design_Seokwan_work	[손석완][레벨] 레벨 기믹 데이터 최신화
+219239	2024/04/26	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 가젯 속성 변경 관련 작업 취소 / Undo //streamsMain/Main/Trunk/... changelist 219199 / #changelist 유효성 검사 완료
+219208	2024/04/26	Design_Seokwan_work	[손석완][레벨] 최북단 버유용 가젯 좌표 수정
+219199	2024/04/26	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 잔도 가젯들 NavModifierType == None  / #changelist 유효성 검사 완료
+219177	2024/04/26	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버유 마지막 점프대 수정  / #changelist 유효성 검사 완료
+219175	2024/04/26	Design_Seokwan_work	[손석완][레벨] 최북단 버려진 유적지 수정  / #changelist 유효성 검사 완료
+219107	2024/04/26	Design_Seokwan_work	[손석완][레벨] 레벨 기믹 테이블 최신화
+219085	2024/04/26	Design_Seokwan_work	[손석완][레벨] 최북단, 북부 버려진 유적 수정  / #changelist 유효성 검사 완료
+218888	2024/04/25	Design_Seokwan_work	[손석완][레벨] 드포 버유 6단지 수정  / #changelist 유효성 검사 완료
+218885	2024/04/25	Design_Seokwan_work	[손석완][레벨] 드포 버유 6단지 수정  / #changelist 유효성 검사 완료
+218593	2024/04/24	Design_Seokwan_work	[손석완][레벨] 북부 버유 6단지 수정  / #changelist 유효성 검사 완료
+218503	2024/04/24	Design_Seokwan_work	[손석완][레벨] 북부 최북단 버유 가젯 위치 수정 등  / #changelist 유효성 검사 완료
+218415	2024/04/24	Design_Seokwan_work	[손석완][레벨] 북부 버유 2단지 수정 / #changelist 유효성 검사 완료
+218255	2024/04/23	Design_Seokwan_work	[손석완][레벨] 북부 버려진 유적지 2단지 수정  / #changelist 유효성 검사 완료
+218254	2024/04/23	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 1단지 수정  / #changelist 유효성 검사 완료
+218094	2024/04/23	Design_Seokwan_work	[손석완][레벨] 버려진 유적 1단지 리소스 교체  / #changelist 유효성 검사 완료
+217969	2024/04/22	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진 유적 리소스 교체 및 기믹 정리  / #changelist 유효성 검사 완료
+217850	2024/04/22	Design_Seokwan_work	[손석완][레벨] 최북단 1.0 버유 리소스 교체, 부서지는 발판 추가  / #changelist 유효성 검사 완료
+217831	2024/04/22	Design_Seokwan_work	[손석완][레벨] 무너지는 발판 가젯 데이터 추가
+217830	2024/04/22	Design_Seokwan_work	[손석완][레벨] 부서지는 발판 가젯 추가  / #changelist 유효성 검사 완료
+217712	2024/04/19	Design_Seokwan_work	[손석완][레벨] 미니맵 가이드 액터 안 보이게 처리, 사다리 추가, 최북단 2.0 동굴 높이 올림  / #changelist 유효성 검사 완료
+217707	2024/04/19	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 실내 서브에리어 박스 추가  / #changelist 유효성 검사 완료
+217694	2024/04/19	Design_Seokwan_work	[손석완][레벨] 웜워크 밧줄 -> 사다리로 교체 , 최북단 2.0 신규 리소스로 교체  / #changelist 유효성 검사 완료
+217690	2024/04/19	Design_Seokwan_work	[손석완][레벨] 지하실 가이드 액터 안보이게 처리  / #changelist 유효성 검사 완료
+217685	2024/04/19	Design_Seokwan_work	[손석완][레벨] 웜워크 게이트와 스위치 스캔 타입 변경 / #changelist 유효성 검사 완료
+217677	2024/04/19	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 가는 길 추락지점 메움  / #changelist 유효성 검사 완료
+217674	2024/04/19	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 추락지점 막음.  / #changelist 유효성 검사 완료
+217627	2024/04/19	Design_Seokwan_work	[손석완][레벨] 웜워크 입구 미니맵 추출, 서브에리어 추가  / #changelist 유효성 검사 완료
+217549	2024/04/19	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 웨이포인트 추가  / #changelist 유효성 검사 완료
+217513	2024/04/19	Design_Seokwan_work	[손석완][레벨] 최북단 지하실 에리어 볼륨 추가  / #changelist 유효성 검사 완료
+217512	2024/04/19	Design_Seokwan_work	[손석완][레벨] 최북단 지하실 서브에리어 추가
+217454	2024/04/18	Design_Seokwan_work	[손석완][레벨] 최북단 지하실 미니맵 작업  / #changelist 유효성 검사 완료
+217382	2024/04/18	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 레벨 정리 - 몰스타운 펜스 볼팅 처리  / #changelist 유효성 검사 완료
+217354	2024/04/18	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 전투지역 건너띌 수 있는 문제 해결  / #changelist 유효성 검사 완료
+217346	2024/04/18	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 레벨 정리, 구 웜워크 외곽 건물 삭제  / #changelist 유효성 검사 완료
+217212	2024/04/18	Design_Seokwan_work	[손석완][레벨] 최북단 2.0에 지하실 추가  / #changelist 유효성 검사 완료
+217141	2024/04/17	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 레벨 정리  / #changelist 유효성 검사 완료
+217135	2024/04/17	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 레벨 가이드 수정  / #changelist 유효성 검사 완료
+217130	2024/04/17	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 레벨 정리, 크/네 드래곤 지역 불필요 액터 삭제  / #changelist 유효성 검사 완료
+216839	2024/04/16	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 신규 콘텐츠를 위한 가이드 액터 수정 및 추가  / #changelist 유효성 검사 완료
+216318	2024/04/12	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 흉동 지역 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+216216	2024/04/12	Design_Seokwan_work	[손석완][레벨] 하이가든 노파의 집 미니맵 추출  / #changelist 유효성 검사 완료
+216046	2024/04/11	Design_Seokwan_work	[손석완][레벨] 하이가든 실내 미니맵 캡처용 데이터레이어 수정  / #changelist 유효성 검사 완료
+215878	2024/04/11	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 콘텐츠 후보지 지정  / #changelist 유효성 검사 완료
+215695	2024/04/09	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 파괴형 가젯 추가 / #changelist 유효성 검사 완료
+215694	2024/04/09	Design_Seokwan_work	[손석완][레벨] 최북단 후반부, 2.0 레벨 정리 및 신규 콘텐츠 위치 추가  / #changelist 유효성 검사 완료
+215487	2024/04/09	Design_Seokwan_work	[손석완][레벨] 최북단 흰까마귀 퀘스트 지역 요청사항 추가  / #changelist 유효성 검사 완료
+215166	2024/04/08	Design_Seokwan_work	[손석완][레벨] 퀸스크라운 로프 BP 교체  / #changelist 유효성 검사 완료
+215048	2024/04/05	Design_Seokwan_work	[손석완][레벨] 최북단 가젯 추출, 레벨기믹 추출
+215046	2024/04/05	Design_Seokwan_work	[손석완][레벨] 최북단 후반부 레벨 정리  / #changelist 유효성 검사 완료
+215044	2024/04/05	Design_Seokwan_work	[손석완][레벨] 최북단 1.0 버유 신규 프랍으로 교체  / #changelist 유효성 검사 완료
+214835	2024/04/04	Design_Seokwan_work	[손석완][레벨] 최북단 지하실 프랍 수정  / #changelist 유효성 검사 완료
+214822	2024/04/04	Design_Seokwan_work	[손석완][레벨] 파괴형 가젯 잡동사니류 추가 / #changelist 유효성 검사 완료
+214821	2024/04/04	Design_Seokwan_work	[손석완][레벨] 최북단 지하실 조정  / #changelist 유효성 검사 완료
+214764	2024/04/04	Design_Seokwan_work	[손석완][레벨] 테이블 내 중복 아이디 삭제
+214748	2024/04/04	Design_Seokwan_work	[손석완][레벨] 최북단 연두막 앞 지하실 파괴형 가젯 추가
+214728	2024/04/04	Design_Seokwan_work	[손석완][레벨] 최북단 연두막 앞 지하실 파괴형 가젯 추가  / #changelist 유효성 검사 완료
+214607	2024/04/03	Design_Seokwan_work	[손석완][레벨] 최북단 후반부 레벨 정리  / #changelist 유효성 검사 완료
+214457	2024/04/03	Design_Seokwan_work	[손석완][레벨] 최북단 후반부 레벨 정리 / #changelist 유효성 검사 완료
+214455	2024/04/03	Design_Seokwan_work	[손석완][레벨] 레벨기믹 데이터 추출
+214436	2024/04/03	Design_Seokwan_work	[손석완][레벨] 볼팅펜스 콜리전 수정  / #changelist 유효성 검사 완료
+212597	2024/04/02	Design_Seokwan_work	[손석완][레벨] 최북단 후반부 말도둑 캠프 근처 지하실 수정  / #changelist 유효성 검사 완료
+212581	2024/04/02	Design_Seokwan_work	[손석완][레벨] 최북단 흉포한동물 외곽 정리  / #changelist 유효성 검사 완료
+212552	2024/04/02	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 앞마당 블로킹  / #changelist 유효성 검사 완료
+212523	2024/04/02	Design_Seokwan_work	[손석완][레벨] 아웃라이너 정리  / #changelist 유효성 검사 완료
+212509	2024/04/02	Design_Seokwan_work	[손석완][레벨] 말도둑놈 캠프 앞에 지하실 조성  / #changelist 유효성 검사 완료
+212366	2024/04/01	Design_Seokwan_work	[손석완][레벨] 프로스트 필드, 사냥꾼의 오두막 레벨 정리  / #changelist 유효성 검사 완료
+212340	2024/04/01	Design_Seokwan_work	[손석완][레벨] 최북단 후반부 사냥꾼 오두막 가는 길에 늑대 스폰 숨길만한 공간 조성  / #changelist 유효성 검사 완료
+212306	2024/04/01	Design_Seokwan_work	[손석완][레벨] 최북단 후반부 레벨 정리 / #changelist 유효성 검사 완료
+212059	2024/03/29	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 좌측 구멍 메움  / #changelist 유효성 검사 완료
+212057	2024/03/29	Design_Seokwan_work	[손석완][레벨] 신규 콘텐츠 위치 레벨 기믹 배치, 최북부 후반부 레벨 정리  / #changelist 유효성 검사 완료
+211882	2024/03/29	Design_Seokwan_work	[손석완][레벨] 마적단 연두막 나무 지움  / #changelist 유효성 검사 완료
+210401	2024/03/27	Design_Seokwan_work	[손석완][레벨] 최북단 콘텐츠 후보 가이드 액터 수정  / #changelist 유효성 검사 완료
+210399	2024/03/27	Design_Seokwan_work	[손석완][레벨] 최북단 콘텐츠 후보지 설정  / #changelist 유효성 검사 완료
+210311	2024/03/27	Design_Seokwan_work	[손석완][레벨] 최북단 흉포한동물 지역 레벨 정리  / #changelist 유효성 검사 완료
+210178	2024/03/27	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 앞마당 절벽 높이 올림  / #changelist 유효성 검사 완료
+209993	2024/03/26	Design_Seokwan_work	[손석완][레벨] 콘텐츠 후보지, 불필요 가이드 액터 제거 / #changelist 유효성 검사 완료
+209887	2024/03/26	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 문 bp 추가  / #changelist 유효성 검사 완료
+207221	2024/03/20	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버유 가젯 수정 / #changelist 유효성 검사 완료
+207193	2024/03/20	Design_Seokwan_work	[손석완][레벨] 레벨기믹 액터들 ID Generate  / #changelist 유효성 검사 완료
+207153	2024/03/20	Design_Seokwan_work	[손석완][레벨] 불필요 가이드액터 삭제 / #changelist 유효성 검사 완료
+207105	2024/03/20	Design_Seokwan_work	[손석완][레벨] 최북단 지형 수정 및 불필요 레벨가이드 삭제  / #changelist 유효성 검사 완료
+207104	2024/03/20	Design_Seokwan_work	[손석완][레벨] 최북단 웨이포인트 추가, 로드 BP 옵션 수정  / #changelist 유효성 검사 완료
+206625	2024/03/19	Design_Seokwan_work	[손석완][레벨] 최북단2.0 허브빌리지 웨이포인트 링크 추가  / #changelist 유효성 검사 완료
+206562	2024/03/19	Design_Seokwan_work	[손석완][레벨] 최북단 지형 정리 - 퀸스크라운 to 레난스레스트  / #changelist 유효성 검사 완료
+206510	2024/03/19	Design_Seokwan_work	[손석완][레벨] 게이트 내려올 떄 콜리전 켜지게 노티 추가  / #changelist 유효성 검사 완료
+206350	2024/03/19	Design_Seokwan_work	[손석완][레벨] 퀸스크라운 빙판 위치 이동  / #changelist 유효성 검사 완료
+206325	2024/03/19	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 - 레/레 지형 정리  / #changelist 유효성 검사 완료
+206057	2024/03/18	Design_Seokwan_work	[손석완][레벨] 레난스레스트 이정표 앞 볼팅 펜스 수정 / #changelist 유효성 검사 완료
+205891	2024/03/18	Design_Seokwan_work	[손석완][레벨] 최북단 콘텐츠 보강 후보지 설정  / #changelist 유효성 검사 완료
+205671	2024/03/15	Design_Seokwan_work	[손석완][레벨] 웜워크 입구쪽 가젯 수정  / #changelist 유효성 검사 완료
+205030	2024/03/13	Design_Seokwan_work	[손석완][레벨] 하이가든 미로 문 열어두기  / #changelist 유효성 검사 완료
+204683	2024/03/12	Design_Seokwan_work	[손석완][레벨] 크네 세은 목업 수정 - 트랩방 재구성  / #changelist 유효성 검사 완료
+204648	2024/03/12	Design_Seokwan_work	[손석완][레벨] 최북단 지역 외곽 블로킹 볼륨 추가 / #changelist 유효성 검사 완료
+204513	2024/03/12	Design_Seokwan_work	[손석완][레벨] 최북단 - 웜워크 가젯 배치
+204405	2024/03/12	Design_Seokwan_work	[손석완][레벨] 올레나 티렐 의자 이동  / #changelist 유효성 검사 완료
+204318	2024/03/11	Design_Seokwan_work	[손석완][레벨] 하이가든 문 추가 및 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+204219	2024/03/11	Design_Seokwan_work	[손석완][레벨] 실내 블로킹 볼륨 조정 - 올드타운 전역  / #changelist 유효성 검사 완료
+204032	2024/03/08	Design_Seokwan_work	[손석완][레벨] 크네 세은 목업 수정  / #changelist 유효성 검사 완료
+204031	2024/03/08	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 허브빌리지 몬스터 배치 수정
+204024	2024/03/08	Design_Seokwan_work	[손석완][레벨] 올타 세은 폴리싱  / #changelist 유효성 검사 완료
+204023	2024/03/08	Design_Seokwan_work	[손석완][레벨] 올타 세은 포로 위치, 패스 수정
+203989	2024/03/08	Design_Seokwan_work	[손석완][레벨] 시타델 마에스터 테이블 볼륨 수정  / #changelist 유효성 검사 완료
+203975	2024/03/08	Design_Seokwan_work	[손석완][레벨] NPC.csv 값 날라간 것 원복
+203971	2024/03/08	Design_Seokwan_work	[손석완][래밸] 올타 시타델 마에스터 책상 컬리전 조정  / #changelist 유효성 검사 완료
+203960	2024/03/08	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 가젯 , NPC 스폰액터 수정 등  / #changelist 유효성 검사 완료
+203957	2024/03/08	Design_Seokwan_work	[손석완][레벨] 올타 세은 NPC 배치 수정
+203891	2024/03/08	Design_Seokwan_work	[손석완][레벨] NPCBehavior.csv 원복 Undo //streamsMain/Main/Trunk/... changelist 203864
+203864	2024/03/08	Design_Seokwan_work	[손석완][레벨] 올타 세은 가젯 안 나오는 문제 수정
+203641	2024/03/08	Design_Seokwan_work	[손석완][레벨] 크네 세은 목업  / #changelist 유효성 검사 완료
+203507	2024/03/07	Design_Seokwan_work	[손석완][레벨] 크네 세은 목업 / #changelist 유효성 검사 완료
+203122	2024/03/06	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션09 블로킹 볼륨 살짝 내리고, 보스 언덕 내비 수정  / #changelist 유효성 검사 완료
+203034	2024/03/06	Design_Seokwan_work	[손석완][레벨] 크네 세은 목업 수정, 하이가든 성에 나무 관련 데이터레이어 추가  / #changelist 유효성 검사 완료
+202768	2024/03/05	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 3종에 원거리 리필 가젯 추가 등 / #changelist 유효성 검사 완료
+202754	2024/03/05	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 3종에 원거리 리필 가젯 추가 등  / #changelist 유효성 검사 완료
+202747	2024/03/05	Design_Seokwan_work	[손석완][레벨] 올타 세은 불필요 실린더 삭제  / #changelist 유효성 검사 완료
+202742	2024/03/05	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 2단지 수정 / #changelist 유효성 검사 완료
+202741	2024/03/05	Design_Seokwan_work	[손석완][레벨] 올타 버유 2단지 기믹과 가젯 수정
+202673	2024/03/05	Design_Seokwan_work	[손석완][레벨] 올타 버유 가젯, 기믹 수정  / #changelist 유효성 검사 완료
+202671	2024/03/05	Design_Seokwan_work	[손석완][레벨] 올타 버유 가젯 수정
+202561	2024/03/05	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 3단지 레벨 기믹 적용
+202314	2024/03/04	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션09 블로킹볼륨이 내비에 영향 안 주게 처리  / #changelist 유효성 검사 완료
+202296	2024/03/04	Design_Seokwan_work	[손석완][레벨] 크네 세은 목업  / #changelist 유효성 검사 완료
+202104	2024/02/29	Design_Seokwan_work	[손석완][레벨] 미니맵용 실린더 내비메시 영향 못주게 수정  / #changelist 유효성 검사 완료
+202103	2024/02/29	Design_Seokwan_work	[손석완][레벨] 로즈워터 점구 보스 ai 변경
+202102	2024/02/29	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 바닥 블로킹 볼륨 내리기, 올드타운 세은 사다리 위치 수정, 하이가든 로즈워터 사다리 위치 수정  / #changelist 유효성 검사 완료
+202084	2024/02/29	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 항구쪽 몹 패스 재설정
+202069	2024/02/29	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+201950	2024/02/28	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업, 올드타운 세은 퍼즐 구간 못 지나가는 구역 수정  / #changelist 유효성 검사 완료
+201436	2024/02/27	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 가이드 색상 수정  / #changelist 유효성 검사 완료
+201373	2024/02/27	Design_Seokwan_work	[손석완][레벨] 하이가든 데이터레이어 추가 등  / #changelist 유효성 검사 완료
+200957	2024/02/23	Design_Seokwan_work	[손석완][레벨] 크네 세은 목업 데이터레이어 배정 - 지하1층, 계단실1  / #changelist 유효성 검사 완료
+200956	2024/02/23	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 세은 목업 아웃라이너 정리 등  / #changelist 유효성 검사 완료
+200538	2024/02/22	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업 재 추가  / #changelist 유효성 검사 완료
+200516	2024/02/22	Design_Seokwan_work	[손석완][레벨] 목업 삭제 - 크로우즈네스트 세은  / #changelist 유효성 검사 완료
+200496	2024/02/22	Design_Seokwan_work	[손석완][레벨] 불필요 목업 액터 삭제 - 로즈워터  / #changelist 유효성 검사 완료
+199864	2024/02/20	Design_Seokwan_work	[손석완][레벨] 데이터레이어 추가 - 엘빈의 무덤  / #changelist 유효성 검사 완료
+199772	2024/02/20	Design_Seokwan_work	[손석완][레벨] 올드타운 시타델 사다리 못 내려가는 문제 수정  / #changelist 유효성 검사 완료
+199665	2024/02/19	Design_Seokwan_work	[손석완][레벨] 허브빌리지 NPC 배치 수정
+199640	2024/02/19	Design_Seokwan_work	[손석완][레벨] 점령된 구역 NPC 시야 수치 변경
+199634	2024/02/19	Design_Seokwan_work	[손석완][레벨] 로즈워터, 허브빌리지 몹들 BP 조정, 원거리 공격 세팅, 모스엣지 명칭 -> 로즈워터로 변경
+199633	2024/02/19	Design_Seokwan_work	[손석완][레벨] 로즈워터 불필요 더미 npc 삭제  / #changelist 유효성 검사 완료
+199632	2024/02/19	Design_Seokwan_work	[손석완][레벨] 로즈워터 저택 문짝 데이터레이어 배정  / #changelist 유효성 검사 완료
+199491	2024/02/16	Design_Seokwan_work	[손석완][레벨] 모스엣지 NPC 헤드마커 수정 및 설명 수정
+199480	2024/02/16	Design_Seokwan_work	[손석완][레벨] 모스엣지 불필요 목업 액터 삭제  / #changelist 유효성 검사 완료
+199476	2024/02/16	Design_Seokwan_work	[손석완][레벨] 하이가든 모스엣지 NPC 시야값 수정
+199474	2024/02/16	Design_Seokwan_work	[손석완][레벨] 모스엣지 점령된구역 NPC 배치 수정
+199345	2024/02/15	Design_Seokwan_work	[손석완][레벨] 하이가든 모스엣지 NPC 수정
+199261	2024/02/15	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버유 가이드 프랍 제거, 마네킹 숨김, 드포 가이드 액터 숨김  / #changelist 유효성 검사 완료
+199226	2024/02/15	Design_Seokwan_work	[손석완][레벨] 최북단 - 사냥꾼의 오두막에 못지나가는 지점 수정  / #changelist 유효성 검사 완료
+199070	2024/02/14	Design_Seokwan_work	[손석완][레벨] 모스엣지 점령된 구역 NPC 배치 수정
+199031	2024/02/14	Design_Seokwan_work	[손석완][레벪] 크네 세은 목업  / #changelist 유효성 검사 완료
+198740	2024/02/13	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 세력은신처 목업  / #changelist 유효성 검사 완료
+198651	2024/02/13	Design_Seokwan_work	[손석완][레벨] 크네 세은 목업  / #changelist 유효성 검사 완료
+198283	2024/02/08	Design_Seokwan_work	[손석완][레벨] 크네 세은 지하 목업 추가  / #changelist 유효성 검사 완료
+198274	2024/02/08	Design_Seokwan_work	[손석완][레벨] 크네 세은 지하 목업 삭제  / #changelist 유효성 검사 완료
+198032	2024/02/08	Design_Seokwan_work	[손석완][레벨] 화이트하버에 불필요 화이트큐브 제거  / #changelist 유효성 검사 완료
+197847	2024/02/07	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 세은 목업  / #changelist 유효성 검사 완료
+197752	2024/02/07	Design_Seokwan_work	[손석완][레벨] 시타델 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+197599	2024/02/07	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 가이드 액터 안보이게 처리  / #changelist 유효성 검사 완료
+197466	2024/02/07	Design_Seokwan_work	[손석완][레벨] 리디렉션 파일 수정  / #changelist 유효성 검사 완료
+197369	2024/02/07	Design_Seokwan_work	[손석완][레벨] 테스트맵 잘못 올라간 것 리버트  / Undo //streamsMain/Main/Trunk/Client/Content/... changelist 197217 / #changelist 유효성 검사 완료
+197360	2024/02/07	Design_Seokwan_work	[손석완][레벨] 올드타운 양조장에 끌차 추가  / #changelist 유효성 검사 완료
+197217	2024/02/06	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 세력은신처 목업  / #changelist 유효성 검사 완료
+197106	2024/02/06	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 제거된 끌차 하나 원복 Undo //streamsMain/Main/Trunk/... changelist 196851 / #changelist 유효성 검사 완료
+196851	2024/02/06	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 레벨기믹 좌표 수정  / #changelist 유효성 검사 완료
+196767	2024/02/05	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 레벨기믹 데이터 추가
+196764	2024/02/05	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처  레벨 기믹 아이디 발급  / #changelist 유효성 검사 완료
+196761	2024/02/05	Design_Seokwan_work	[손석완][레벨] Undo //streamsMain/Main/Trunk/... changelist 196681  / #changelist 유효성 검사 완료
+196681	2024/02/05	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 레벨기믹 ID 발급  / #changelist 유효성 검사 완료
+196662	2024/02/05	Design_Seokwan_work	[손석완][레벨] 세력은신처 부활용 에리어 볼륨 임시 비활성화 처리
+196486	2024/02/05	Design_Seokwan_work	[손석완][레벨] 널판지 파괴형프랍 밑에 프록시 내비 생성되게  / #changelist 유효성 검사 완료
+196485	2024/02/05	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처용 가젯그룹스폰 데이터 수정
+196421	2024/02/05	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 구역 별 부활포인트 재지정
+196417	2024/02/05	Design_Seokwan_work	[손석완][레벨] 하이가든 데이터레이어 수정 - 시체 나무 DL 단순화, 보부상용 데이터레이어 추가  / #changelist 유효성 검사 완료
+196056	2024/02/01	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 부활 포인트 추가
+196028	2024/02/01	Design_Seokwan_work	[손석완][레벨] 올타 세은 에리어박스 추가 / #changelist 유효성 검사 완료
+195979	2024/02/01	Design_Seokwan_work	[손석완][레벨] 세은 열쇠 아이템 귀속 false 처리
+195954	2024/02/01	Design_Seokwan_work	[손석완][레벨] 올타 세은 열쇠 관련 수정
+195929	2024/02/01	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 가젯 추가 - 물약 보충, 화살 보충 등  / #changelist 유효성 검사 완료
+195843	2024/02/01	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 정예보스병에게 열쇠 보상 추가
+195795	2024/01/31	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 보물창고, 실험실 열쇠 용 드랍 데이터 추가
+195785	2024/01/31	Design_Seokwan_work	[손석완][레벨] 올타 세은 서브에리어박스 추가 - 부활 포인트로 연결할 목적  / #changelist 유효성 검사 완료
+195745	2024/01/31	Design_Seokwan_work	[손석완][레벨] 올드타운 널판지, 철문 가젯 그룹 ID 변경 ->10  / #changelist 유효성 검사 완료
+195713	2024/01/31	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 보물창고, 실험실 철문 추가  / #changelist 유효성 검사 완료
+195673	2024/01/31	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 철창문 가젯 추가
+195658	2024/01/31	Design_Seokwan_work	[손석완][레벨] 올드타운 세은용 열쇠 아이템 추가
+195638	2024/01/31	Design_Seokwan_work	[손석완][레벨] 미션09 자이언트 출현지역 바위 z값 올림  / #changelist 유효성 검사 완료
+195528	2024/01/30	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 제작   / #changelist 유효성 검사 완료
+195524	2024/01/30	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 제작, NPC 경계거리 10mㄹ로 조정  / #changelist 유효성 검사 완료
+195514	2024/01/30	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 제작 중 가젯 추가, 인질 위치 변경 등  / #changelist 유효성 검사 완료
+195421	2024/01/30	Design_Seokwan_work	[손석완][레벨] 올드타운 세력 은신처 가젯, NPC 위치 수정  / #changelist 유효성 검사 완료
+195210	2024/01/29	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 - 인질구출 카운트 9 -> 5, 항구에 사다리 보강  / #changelist 유효성 검사 완료
+195209	2024/01/29	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 인질 원복
+195208	2024/01/29	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 불필요 목업 제거 및 NPC 수정  / #changelist 유효성 검사 완료
+195198	2024/01/29	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 npc 수정  / #changelist 유효성 검사 완료
+195144	2024/01/29	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 삭제, NPC 수정  / #changelist 유효성 검사 완료
+194973	2024/01/29	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 npc 시야범위 축소  / #changelist 유효성 검사 완료
+194921	2024/01/26	Design_Seokwan_work	[손석완][레벨] 올드타운 레벨 기믹 추가
+194920	2024/01/26	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 특수이동 설치  / #changelist 유효성 검사 완료
+194891	2024/01/26	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 잠입구간 목업 추가  / #changelist 유효성 검사 완료
+194600	2024/01/25	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진 유적지  / #changelist 유효성 검사 완료
+194284	2024/01/24	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 점령된 구역에 폴리지 추가, 끌차 좌표 수정  / #changelist 유효성 검사 완료
+194276	2024/01/24	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진 유적지  / #changelist 유효성 검사 완료
+194223	2024/01/24	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버유 제작중  / #changelist 유효성 검사 완료
+194220	2024/01/24	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버/유 제작 및 파괴형 가젯 GC 추가  / #changelist 유효성 검사 완료
+194213	2024/01/24	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버유 관련 가젯, 레벨 기믹 수정
+194169	2024/01/23	Design_Seokwan_work	[손석완][레벨] 최북단 버려진 유적 가젯 조작 횟수 수정
+194163	2024/01/23	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 가젯 관련 csv 재추출
+194161	2024/01/23	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버유 가젯 추가 등  / #changelist 유효성 검사 완료
+194123	2024/01/23	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진 유적지 가젯 추가  / #changelist 유효성 검사 완료
+194093	2024/01/23	Design_Seokwan_work	[손석완][레벨] 파괴형 가젯 추가, 스위치/게이트 가젯 추가
+194075	2024/01/23	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 실내 블로킹 볼륨 수정 및 추가  / #changelist 유효성 검사 완료
+194009	2024/01/23	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버유 작업  / #changelist 유효성 검사 완료
+193024	2024/01/19	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 버려진유적 수정  / #changelist 유효성 검사 완료
+191945	2024/01/18	Design_Seokwan_work	[손석완][레벨] 하이가든 전렴된 구역 목업 액터 수정 -  안 보이게 처리  / #changelist 유효성 검사 완료
+191008	2024/01/17	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업 수정  / #changelist 유효성 검사 완료
+190920	2024/01/17	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업 수정  / #changelist 유효성 검사 완료
+190644	2024/01/15	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업 수정  / #changelist 유효성 검사 완료
+190613	2024/01/15	Design_Seokwan_work	[손석완][레벨] 하이가든 성내 데이터레이어 수정  / #changelist 유효성 검사 완료
+190566	2024/01/15	Design_Seokwan_work	[손석완][레벨] 크/네 가이드 액터 수정, 일부 지형 수정(폐허쪽 절벽)  / #changelist 유효성 검사 완료
+190485	2024/01/12	Design_Seokwan_work	[손석완][레벨] 나무판자 파괴형 프랍 bp 추가  / #changelist 유효성 검사 완료
+190483	2024/01/12	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 및 모틴의 집에 문bp 배치  / #changelist 유효성 검사 완료
+190481	2024/01/12	Design_Seokwan_work	[레벨][손석완] 최북단 2.0 목업 작업  / #changelist 유효성 검사 완료
+190432	2024/01/12	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업  / #changelist 유효성 검사 완료
+190213	2024/01/11	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업  / #changelist 유효성 검사 완료
+190167	2024/01/11	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨 가이드 추가 - 현상수배범  / #changelist 유효성 검사 완료
+190133	2024/01/11	Design_Seokwan_work	[손석완][레벨] 올드타운 현상수배 가이드 액터 추가  / #changelist 유효성 검사 완료
+190122	2024/01/11	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업  / #changelist 유효성 검사 완료
+190046	2024/01/11	Design_Seokwan_work	[손석완] 올드타운 세은에 끌차 추가 (테스트용)  / #changelist 유효성 검사 완료
+190037	2024/01/11	Design_Seokwan_work	[손석완][레벨] 하이가든 외국인상인집, 보석장인집 데이터레이서 복원  / #changelist 유효성 검사 완료
+190016	2024/01/10	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 끌차 부분 목업  / #changelist 유효성 검사 완료
+189932	2024/01/10	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업  / #changelist 유효성 검사 완료
+189622	2024/01/09	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업  / #changelist 유효성 검사 완료
+189461	2024/01/09	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 주변 수국 내비영향 끄기  / #changelist 유효성 검사 완료
+189458	2024/01/09	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 지하 내비 끊어지는 현상 수정  / #changelist 유효성 검사 완료
+189294	2024/01/08	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업 수정 / #changelist 유효성 검사 완료
+189293	2024/01/08	Design_Seokwan_work	[손석완][레벨] 선다운 퍼치 데이터레이어 삭제  / #changelist 유효성 검사 완료
+189232	2024/01/08	Design_Seokwan_work	[손석완][레벨] 신규 셉트 목업 추가  / #changelist 유효성 검사 완료
+188048	2024/01/04	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 진입 가능하게 데이터레이어 수정  / #changelist 유효성 검사 완료
+187794	2024/01/03	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 영접실 끌어올린 후 복도 경로 목업 추가  / #changelist 유효성 검사 완료
+187762	2024/01/03	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업 - 유품회수단 소굴  / #changelist 유효성 검사 완료
+187659	2024/01/02	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+187520	2024/01/02	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+187370	2023/12/29	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+187174	2023/12/28	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+187165	2023/12/28	Design_Seokwan_work	[손석완][레벨] 올드타운 세은 데이터레이어 수정  / #changelist 유효성 검사 완료
+187065	2023/12/28	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+186524	2023/12/27	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업, 이상한 폴리지 액터 1개 삭제  / #changelist 유효성 검사 완료
+186261	2023/12/26	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+186172	2023/12/26	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 1단지 미세 조정  / #changelist 유효성 검사 완료
+186119	2023/12/26	Design_Seokwan_work	[손석완][레벨] 하이가든 원경용 프랍 데이터레이어 추가 및 세팅  / #changelist 유효성 검사 완료
+186091	2023/12/26	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+185870	2023/12/21	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+185770	2023/12/21	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+185379	2023/12/20	Design_Seokwan_work	[손석완][레벨] 최북단 연기나는 오두막 가는 길 > 로프 발판 평평하게 보강  / #changelist 유효성 검사 완료
+185367	2023/12/20	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+185065	2023/12/20	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+184919	2023/12/20	Design_Seokwan_work	[손석완][레벨] 하이가든 위기의 성소 목업  / #changelist 유효성 검사 완료
+184886	2023/12/20	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+184785	2023/12/19	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 목업  / #changelist 유효성 검사 완료
+184761	2023/12/19	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 필드 목업  / #changelist 유효성 검사 완료
+183868	2023/12/18	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 목업  / #changelist 유효성 검사 완료
+183299	2023/12/14	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+183216	2023/12/14	Design_Seokwan_work	[손석완][레벨] 크/네 목업  / #changelist 유효성 검사 완료
+183059	2023/12/13	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+182967	2023/12/13	Design_Seokwan_work	[손석완][레벨] 올드타운 잉크하우스, 셉트 블로킹 볼륨 조정, 크/네 목업 작업  / #changelist 유효성 검사 완료
+182965	2023/12/13	Design_Seokwan_work	[손석완][레벨] 바다 업데이트 - 올드타운 시타델 도서관 뒤에 강제로 추가  / #changelist 유효성 검사 완료
+182829	2023/12/13	Design_Seokwan_work	[손석완][레벨] 노파의 저택 데이터레이어 추가  / #changelist 유효성 검사 완료
+182797	2023/12/13	Design_Seokwan_work	[손석완][레벨] 데이터레이어 수정 - 불장판, 불똥 레이어 Unloaded -> Loaded로 변경  / #changelist 유효성 검사 완료
+182751	2023/12/13	Design_Seokwan_work	[손석완][레벨] 크/네 목업, 북부 버/유 0호점 높이 수정  / #changelist 유효성 검사 완료
+182734	2023/12/13	Design_Seokwan_work	[손석완][레벨] 오션툴 업데이트  / #changelist 유효성 검사 완료
+182724	2023/12/13	Design_Seokwan_work	[손석완][레벨] 동굴 목업용 모듈 이름 변경  / #changelist 유효성 검사 완료
+182679	2023/12/12	Design_Seokwan_work	[손석완][레벨] 크/네 목업  / #changelist 유효성 검사 완료
+182563	2023/12/12	Design_Seokwan_work	[손석완][레벨] 파괴형 가젯 BP 콜리전 속성 수정 -> Destructible  / #changelist 유효성 검사 완료
+182544	2023/12/12	Design_Seokwan_work	[손석완][레벨] 도개교 테스트 액터 추가  / #changelist 유효성 검사 완료
+182405	2023/12/11	Design_Seokwan_work	[손석완][레벨] 크로우즈 네스트 목업  / #changelist 유효성 검사 완료
+182336	2023/12/11	Design_Seokwan_work	[손석완][레벨] 크.네. 목업 초벌  / #changelist 유효성 검사 완료
+181934	2023/12/08	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션09 수정 - 매달리기 볼륨 수정 및 일부 절벽 노컬리전 처리, BP의 빌보드 크기 변경  / #changelist 유효성 검사 완료
+180965	2023/12/05	Design_Seokwan_work	[손석완][레벨] 로즈워터 점령된구역 전에 닫혀있을 저택 게이트용 데이터레이어 추가  / #changelist 유효성 검사 완료
+180849	2023/12/05	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 부시 요청 가이드액터 추가  / #changelist 유효성 검사 완료
+180829	2023/12/05	Design_Seokwan_work	[손석완][레벨] 최북단 1.0 로프 조정  / #changelist 유효성 검사 완료
+180809	2023/12/05	Design_Seokwan_work	[손석완][레벨] 최북단 검은엘크 흉동 지역에 파괴형 가젯 추가  / #changelist 유효성 검사 완료
+180807	2023/12/05	Design_Seokwan_work	[손석완][레벨] 흉포한동물 지역에 파괴형 가젯 추가
+180764	2023/12/05	Design_Seokwan_work	[손석완][레벨] 파괴형 가젯 BP 수정
+180705	2023/12/05	Design_Seokwan_work	[손석완][레벨] 미션09 아웃라이너 정리, 매달리기 볼륨 수정  / #changelist 유효성 검사 완료
+179696	2023/11/29	Design_Seokwan_work	[손석완][레벨] 로즈워터 가이드 액터 최신화  / #changelist 유효성 검사 완료
+179687	2023/11/29	Design_Seokwan_work	[손석완][레벨] 주방 가이드 액터   / #changelist 유효성 검사 완료
+179449	2023/11/29	Design_Seokwan_work	[손석완][레벨] 모스엣지 가이드 액터 수정  / #changelist 유효성 검사 완료
+179448	2023/11/29	Design_Seokwan_work	[손석완][레벨] 점령된 구역 모스 엣지 몬스터 배치 수정
+179435	2023/11/29	Design_Seokwan_work	[손석완][레벨]  모스엣지 점령된 구역 npc 시야범위 수정
+179368	2023/11/28	Design_Seokwan_work	[손석완][레벨] 모스엣지 점령된 구역 목업 수정  / #changelist 유효성 검사 완료
+179360	2023/11/28	Design_Seokwan_work	[손석완][레벨] 점령된 구역 모스엣지 목업 수정  / #changelist 유효성 검사 완료
+179323	2023/11/28	Design_Seokwan_work	[손석완][레벨] 모스엣지 점령된 구역 NPC 수정
+179127	2023/11/28	Design_Seokwan_work	[손석완][레벨] 모스 엣지 목업 수정  / #changelist 유효성 검사 완료
+179125	2023/11/28	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 모스엣지 npc 수정 - 추적거리 등
+179014	2023/11/27	Design_Seokwan_work	[손석완][레벨] 모스 엣지 점령된 구역 목업 수정  / #changelist 유효성 검사 완료
+178958	2023/11/27	Design_Seokwan_work	[손석완][레벨] 모스엣지 점령된 구역 목업 수정  / #changelist 유효성 검사 완료
+178955	2023/11/27	Design_Seokwan_work	[손석완][레벨] 점령된 구역 모스엣지 더미 데이터 수정
+178872	2023/11/27	Design_Seokwan_work	[손석완][레벨] 모스엣지 목업 메시 교체  / #changelist 유효성 검사 완료
+178726	2023/11/24	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 테스트용 더미 NPC 수정
+178718	2023/11/24	Design_Seokwan_work	[손석완][레벨] 모스 엣지 점령된 구역 더미 npc 추가
+178703	2023/11/24	Design_Seokwan_work	[손석완][레벨] 점령된 구역 마네킹, 가이드 액터 게임에서 숨김 처리  / #changelist 유효성 검사 완료
+178633	2023/11/24	Design_Seokwan_work	[손석완][레벨] 하이가든 모스엣지 서브에리어 추가
+178423	2023/11/23	Design_Seokwan_work	[손석완][레벨] 하이가든 모스엣지 서버컬리전에 영향 주는 몇몇 목업 수정  / #changelist 유효성 검사 완료
+178300	2023/11/23	Design_Seokwan_work	[손석완][레벨] 하이가든 모스엣지 마네킹 콜리전 제거  / #changelist 유효성 검사 완료
+178294	2023/11/23	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 폴리지 메시 대신 폴리지로 대체  / #changelist 유효성 검사 완료
+178258	2023/11/23	Design_Seokwan_work	[손석완][레벨] 동굴 목업용 모듈 1종 추가 T자형  / #changelist 유효성 검사 완료
+178248	2023/11/23	Design_Seokwan_work	[손석완][레벨] 동굴 목업용 모듈 2종 추가  / #changelist 유효성 검사 완료
+178214	2023/11/23	Design_Seokwan_work	[손석완][레벨] 최북단 로프 수정, 올드타운 세은 내비 수정  / #changelist 유효성 검사 완료
+178144	2023/11/22	Design_Seokwan_work	[손석완][레벨] 향로 파괴 테스트용 액터 수정  / #changelist 유효성 검사 완료
+178117	2023/11/22	Design_Seokwan_work	[손석완][레벨] 위기의 성소 화살 테스트용  / #changelist 유효성 검사 완료
+178078	2023/11/22	Design_Seokwan_work	[손석완][레벨] 브워킵 위기의 성소 더미 타깃 삭제  / #changelist 유효성 검사 완료
+177924	2023/11/21	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 어촌, 약제사의 집 목업  / #changelist 유효성 검사 완료
+177747	2023/11/21	Design_Seokwan_work	[손석완][레벨] 브워킵 위기의 성소 창살 콜리전 속성 변경  / #changelist 유효성 검사 완료
+177463	2023/11/20	Design_Seokwan_work	[손석완][레벨] 프로스트 필드에 사냥꾼의 집 추가(컨셉적으로) 및 동선 수정  / #changelist 유효성 검사 완료
+177416	2023/11/20	Design_Seokwan_work	[손석완][레벨] 최북단 1.0 후반부 목업 수정, 임시 데이터레이어 삭제   / #changelist 유효성 검사 완료
+177375	2023/11/20	Design_Seokwan_work	[손석완][레벨] 최북단 1.0 후반부 목업  / #changelist 유효성 검사 완료
+177346	2023/11/20	Design_Seokwan_work	[손석완][레벨] 최북단 1.0 후반부 목업 수정  / #changelist 유효성 검사 완료
+177342	2023/11/20	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 후반부 목업  / #changelist 유효성 검사 완료
+177324	2023/11/20	Design_Seokwan_work	[손석완][레벨] 최북단 1.0 후반부 목업  / #changelist 유효성 검사 완료
+177226	2023/11/17	Design_Seokwan_work	[손석완][레벨] 최북단 1.0 후반부 목업 작업  / #changelist 유효성 검사 완료
+177218	2023/11/17	Design_Seokwan_work	[손석완][레벨] 최북단 흉동 파괴형 가젯 수정
+176003	2023/11/16	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 내비 수정  / #changelist 유효성 검사 완료
+175893	2023/11/15	Design_Seokwan_work	[손석완][레벨] 올드타운 양조장 압착기 데칼 추가 등
+175695	2023/11/15	Design_Seokwan_work	[손석완][레벨] 브워킵 위기의성소 특수이동 보강  / #changelist 유효성 검사 완료
+175630	2023/11/14	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 목업 수정, 브워킵 위기의 성소 로프 위치 수정  / #changelist 유효성 검사 완료
+175613	2023/11/14	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 목업  / #changelist 유효성 검사 완료
+175516	2023/11/14	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 목업  / #changelist 유효성 검사 완료
+175466	2023/11/14	Design_Seokwan_work	[손석완][레벨] 가이드 액터 수정  / #changelist 유효성 검사 완료
+175463	2023/11/14	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 목업  / #changelist 유효성 검사 완료
+175365	2023/11/13	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 목업  / #changelist 유효성 검사 완료
+175364	2023/11/13	Design_Seokwan_work	[손석완][레벨] 레벨가이드 액터 수정  / #changelist 유효성 검사 완료
+175124	2023/11/10	Design_Seokwan_work	[손석완][레벨] 최북단 1.0 콘텐츠 위치 수정  / #changelist 유효성 검사 완료
+175123	2023/11/10	Design_Seokwan_work	[손석완][레벨] 하이가든 점령된 구역 목업 제작 및 Road BP 문제된 객체 리빌드  / #changelist 유효성 검사 완료
+174756	2023/11/09	Design_Seokwan_work	[손석완][레벨] 아웃라이너 정리 - 올드타운 버/유 위치 이동  / #changelist 유효성 검사 완료
+174627	2023/11/08	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업  / #changelist 유효성 검사 완료
+174571	2023/11/08	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업 작업중  / #changelist 유효성 검사 완료
+174426	2023/11/07	Design_Seokwan_work	[손석완][레벨] 불필요 액터 삭제 - RopeEdge  / #changelist 유효성 검사 완료
+174425	2023/11/07	Design_Seokwan_work	[손석완][레벨] 웜워크 목업 이전  / #changelist 유효성 검사 완료
+174424	2023/11/07	Design_Seokwan_work	[손석완][레벨] 최북단 2.0 목업 작업중  / #changelist 유효성 검사 완료
+173897	2023/11/03	Design_Seokwan_work	[손석완][레벨] 하이가든, 올드타운 위어우드의 기억 액터 추가  / #changelist 유효성 검사 완료
+173837	2023/11/03	Design_Seokwan_work	[손석완][레벨] 올드타운 동쪽 연기나는 오두막 목업 추가, 세력은신처 지붕 점프 편하게 나무판자 추가  / #changelist 유효성 검사 완료
+173618	2023/11/02	Design_Seokwan_work	[손석완][레벨] 브워킵 위기의 성소 빨간 타겟 오브젝트 위치 변경  / #changelist 유효성 검사 완료
+173341	2023/11/01	Design_Seokwan_work	[손석완][레벨] 올드타운 레벨가이드액터 보정, 절벽에 이동기믹 보정  / #changelist 유효성 검사 완료
+173235	2023/11/01	Design_Seokwan_work	[손석완][레벨] 하이가든 레벨가이드 수정  / #changelist 유효성 검사 완료
+173183	2023/11/01	Design_Seokwan_work	[손석완][레벨] 올드타운 > 세력은신처 가이드 액터 보정  및 일부 불필요 목업 삭제  / #changelist 유효성 검사 완료
+173142	2023/10/31	Design_Seokwan_work	[손석완][레벨] 레벨 가이드 액터 보정  / #changelist 유효성 검사 완료
+173120	2023/10/31	Design_Seokwan_work	[손석완][레벨] 가이드 액터 색상, 위치 보정. 불필요 더미 삭제  / #changelist 유효성 검사 완료
+173049	2023/10/31	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션9 목업 수정  / #changelist 유효성 검사 완료
+172862	2023/10/30	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션9 수정  / #changelist 유효성 검사 완료
+172813	2023/10/30	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션9 수정  / #changelist 유효성 검사 완료
+172683	2023/10/30	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션9 목업 수정  / #changelist 유효성 검사 완료
+172461	2023/10/26	Design_Seokwan_work	[손석완][레벨] 최북단 목업 수정, 선다운퍼치 셉트 내비 수정  / #changelist 유효성 검사 완료
+172417	2023/10/26	Design_Seokwan_work	[손석완][레벨] 선다운퍼치 셉트 내비메시 수정  / #changelist 유효성 검사 완료
+172390	2023/10/26	Design_Seokwan_work	[손석완][레벨] 불필요 내비 모디파이어 삭제  / #changelist 유효성 검사 완료
+172379	2023/10/26	Design_Seokwan_work	[손석완][레벨] 올드타운 내비메시 정상화를 위한 일부 메시 속성 수정  / #changelist 유효성 검사 완료
+172371	2023/10/26	Design_Seokwan_work	[손석완][레벨] 올드타운 내비메시 정상화를 위한 일부 메시 속성 수정  / #changelist 유효성 검사 완료
+172352	2023/10/26	Design_Seokwan_work	[손석완][레벨] 올드타운 내비메시 정상화를 위한 일부 메시 속성 수정  / #changelist 유효성 검사 완료
+172346	2023/10/26	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 블로킹 볼륨 Invisible Wall -> Block All  / #changelist 유효성 검사 완료
+172321	2023/10/26	Design_Seokwan_work	[손석완][레벨] 올드타운 내비메시 정상화를 위한 일부 메시 속성 수정  / #changelist 유효성 검사 완료
+172269	2023/10/25	Design_Seokwan_work	[손석완][레벨] 하이가든 가이드액터 위치 보정  / #changelist 유효성 검사 완료
+172245	2023/10/25	Design_Seokwan_work	[손석완][레벨] 올드타운 시타델 도서관 내비 메시 잘 나오게 수정  / #changelist 유효성 검사 완료
+172153	2023/10/25	Design_Seokwan_work	[손석완][레벨] 최북단 2.0지역 가이드 액터 및 간략 목업 배치  / #changelist 유효성 검사 완료
+172134	2023/10/25	Design_Seokwan_work	[손석완][레벨] 시청 블로킹 볼륨 콜리전 속성(invisible wall ->  Block All) 변경,  크로우 스컬 가젯 내비메시에 영향 안 주게 수정  / #changelist 유효성 검사 완료
+171634	2023/10/23	Design_Seokwan_work	[손석완][레벨] 올드타운 남쪽 절벽 로프 배치  / #changelist 유효성 검사 완료
+171501	2023/10/20	Design_Seokwan_work	[손석완][레벨] 장벽너머 09미션 내비메시 생성용 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+171381	2023/10/20	Design_Seokwan_work	[손석완][레벨] 장벽너머 09미션 매달리기 볼륨  / #changelist 유효성 검사 완료
+171372	2023/10/20	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션 9 길의 회전반경 줄임  / #changelist 유효성 검사 완료
+171335	2023/10/20	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션 9 수정  / #changelist 유효성 검사 완료
+171334	2023/10/20	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션9 점프대 색상 변경  / #changelist 유효성 검사 완료
+171328	2023/10/20	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션9 점프대 큐브로 변경  / #changelist 유효성 검사 완료
+171322	2023/10/20	Design_Seokwan_work	[손석완][레벨] 브워킵 위기의 성소 발코니 너비 수정 등  / #changelist 유효성 검사 완료
+171079	2023/10/19	Design_Seokwan_work	[손석완][레벨] 올드타운 흉포한 동물 지역 가이드 액터 수정  / #changelist 유효성 검사 완료
+171028	2023/10/19	Design_Seokwan_work	[손석완][레벨] 흉포한 동물 목업 수정  / #changelist 유효성 검사 완료
+170983	2023/10/18	Design_Seokwan_work	[손석완][레벨] 올드타운 - 흉포한 동물 목업 제작, 남쪽 절벽에 로프 추가  / #changelist 유효성 검사 완료
+170663	2023/10/17	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션9 블로킹볼륨 추가, 가이드액터 일부 수정, 빙벽 노 컬리전 처리 등  / #changelist 유효성 검사 완료
+170654	2023/10/17	Design_Seokwan_work	[손석완][레벨] 장벽너머 9번 미션 수정  / #changelist 유효성 검사 완료
+170551	2023/10/16	Design_Seokwan_work	[손석완][레벨] 장벽너머 미션9 수정  / #changelist 유효성 검사 완료
+170391	2023/10/16	Design_Seokwan_work	[손석완][레벨] 장벽너머 9번 미션 수정  / #changelist 유효성 검사 완료
+170387	2023/10/16	Design_Seokwan_work	[손석완][래밸] 브워킵 위기의 성소 쪽 연기 삭제  / #changelist 유효성 검사 완료
+170385	2023/10/16	Design_Seokwan_work	[손석완][레벨] 브워킵 위기의 성소 가이드 액터 수정  / #changelist 유효성 검사 완료
+170216	2023/10/13	Design_Seokwan_work	[손석완][레벨] 브워킵 성소 수정  / #changelist 유효성 검사 완료
+169654	2023/10/12	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 지하실 내비 생성 안되는 문제 수정, 브워킵 성소 목업 수정  / #changelist 유효성 검사 완료
+169591	2023/10/12	Design_Seokwan_work	[손석완][레벨] 장벽너머 9번지 수정  / #changelist 유효성 검사 완료
+169491	2023/10/12	Design_Seokwan_work	[손석완][레벨] 가이드 액터 위치 보정, 브워킵 위기의 성소 목업  / #changelist 유효성 검사 완료
+168905	2023/10/06	Design_Seokwan_work	[손석완][레벨] 브워킵 위기의 성소  / #changelist 유효성 검사 완료
+168576	2023/10/04	Design_Seokwan_work	[손석완][레벨] 최북단 흉포한동물 주변 가젯 위치 수정 (csv 최신화)
+168574	2023/10/04	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지 스위치와 게이트 아이디 수정
+168563	2023/10/04	Design_Seokwan_work	[손석완][레벨] 최북단 흉포한동물 주변 가젯 위치 수정
+168562	2023/10/04	Design_Seokwan_work	[손석완][레벨] 최북단 흉포한 동물 가젯 스포너 위치 수정 및 라스트허스 스포너에 퀘스트 잘못 걸려있는 것 수정
+167485	2023/09/26	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지 아웃라이너 정리 등  / #changelist 유효성 검사 완료
+167471	2023/09/26	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 버그 수정  / #changelist 유효성 검사 완료
+167322	2023/09/25	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 여자나이트가 로프 올라오지 못하는 문제 수정  / #changelist 유효성 검사 완료
+167211	2023/09/25	Design_Seokwan_work	[손석완][레벨] 레난스레스트 데이터레이어 안나오는 문제 수정 / Undo //streamsMain/Main/Trunk/Client/Content/__ExternalActors__/Level/Field/Westeros/Westeros_WP/... changelist 167156
+167156	2023/09/25	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 버그 수정  / #changelist 유효성 검사 완료
+167135	2023/09/25	Design_Seokwan_work	[손석완][레벨] 하이가든 가이드액터 위치 수정  / #changelist 유효성 검사 완료
+166861	2023/09/22	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 올드타운 3단지 수정  / #changelist 유효성 검사 완료
+166858	2023/09/22	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지 1, 2, 3단지 정리  / #changelist 유효성 검사 완료
+166819	2023/09/22	Design_Seokwan_work	[손석완][레벨] 올드타운 충영집 침대 내비메시 만들기  / #changelist 유효성 검사 완료
+166682	2023/09/22	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지 수정
+166646	2023/09/22	Design_Seokwan_work	[손석완][레벨] 버려진 유적 2호점 게이트 가젯 수정
+166622	2023/09/22	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적용 가젯 추가
+165895	2023/09/20	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 계단에서 안 미끄러지게 처리  / #changelist 유효성 검사 완료
+165844	2023/09/20	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 1~3단지 정리  / #changelist 유효성 검사 완료
+165455	2023/09/20	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 떨어지는 오크통 안 떨어지는 문제 수정 - 콜리전 속성 변경, 피직스 시뮬레이트 켜기  / #changelist 유효성 검사 완료
+165364	2023/09/19	Design_Seokwan_work	[손석완][레벨] 버려진 유적 올드타운 2단지  / #changelist 유효성 검사 완료
+165307	2023/09/19	Design_Seokwan_work	[손석완][가젯] 최북단 흉포한 동물 지역 나무 가젯 스캔 안되게 수정
+165192	2023/09/19	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 정리  / #changelist 유효성 검사 완료
+165119	2023/09/19	Design_Seokwan_work	[손석완][레벨] 라스트허스 실내외 데이터레이어 정리  / #changelist 유효성 검사 완료
+164940	2023/09/18	Design_Seokwan_work	[손석완][레벨] 버려진 유적 올드타운 2단지
+164640	2023/09/18	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 동굴 속 클리프 메시 데이터레이어 수정  / #changelist 유효성 검사 완료
+164618	2023/09/18	Design_Seokwan_work	[손석완][레벨] 올드타운 내비 정리  / #changelist 유효성 검사 완료
+164375	2023/09/15	Design_Seokwan_work	[손석완][레벨] 버려진유적지 올드타운 1단지  / #changelist 유효성 검사 완료
+164338	2023/09/15	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진유적지 01호점 수정  / #changelist 유효성 검사 완료
+164251	2023/09/15	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진유적지 1호점 수정, 충영잉크 제작자의 집 들어갈 수 있게 수정  / #changelist 유효성 검사 완료
+164222	2023/09/15	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 스페셜 무브 수정, 배에 가교 배치  / #changelist 유효성 검사 완료
+164174	2023/09/15	Design_Seokwan_work	[손석완][레벨] 시청 지하 내비 수정  / #changelist 유효성 검사 완료
+164155	2023/09/15	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 정리  / #changelist 유효성 검사 완료
+164121	2023/09/15	Design_Seokwan_work	[손석완][레벨] 최북단 레벨버그 수정  / #changelist 유효성 검사 완료
+163982	2023/09/14	Design_Seokwan_work	[손석완][레벨] 최북단 흉포한 동물 나무 가젯 수정, 레벨 정리  / #changelist 유효성 검사 완료
+163981	2023/09/14	Design_Seokwan_work	[손석완][가젯] 레벨 가젯 최신화 - 흉포한 동물 지역에 불필요 나무 삭제
+163875	2023/09/14	Design_Seokwan_work	[손석완][레벨] 최북단 레벨라인 배치
+163549	2023/09/14	Design_Seokwan_work	[손석완][레벨] 최북단 수레 가젯 높이 수정  / #changelist 유효성 검사 완료
+163515	2023/09/14	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지 1호점  / #changelist 유효성 검사 완료
+163507	2023/09/14	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적01  / #changelist 유효성 검사 완료
+163354	2023/09/14	Design_Seokwan_work	[손석완][레벨] 레벨 기믹 테이블 업데이트
+162749	2023/09/13	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적 01호점  / #changelist 유효성 검사 완료
+162630	2023/09/13	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 정리  / #changelist 유효성 검사 완료
+162516	2023/09/13	Design_Seokwan_work	[손석완][레벨] 최북단 레벨 정리  / #changelist 유효성 검사 완료
+162041	2023/09/12	Design_Seokwan_work	[손석완][레벨] 최북단 펜스, 콜리전 정리  / #changelist 유효성 검사 완료
+161998	2023/09/12	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적 1단지  / #changelist 유효성 검사 완료
+161931	2023/09/11	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진유적 3단지 수정  / #changelist 유효성 검사 완료
+161906	2023/09/11	Design_Seokwan_work	[손석완][레벨] 버려진 유적용 운반 가젯 수정
+161813	2023/09/11	Design_Seokwan_work	[손석완][레벨] 올드타운 버유01 제작  / #changelist 유효성 검사 완료
+161159	2023/09/07	Design_Seokwan_work	[손석완][레벨] 장벽너머 넘버9 블로킹볼륨 추가  / #changelist 유효성 검사 완료
+161142	2023/09/07	Design_Seokwan_work	[손석완][레벨] 버려진 유적 운반용 상자 가젯 수정
+160998	2023/09/07	Design_Seokwan_work	[손석완][레벨] 장벽너머 넘버9  / #changelist 유효성 검사 완료
+160643	2023/09/06	Design_Seokwan_work	[손석완][레벨] 버려진 유적용 운반 박스 추가
+160625	2023/09/06	Design_Seokwan_work	[손석완][레벨] 버려진 유적 용 들고옮기기 상자 수정
+160606	2023/09/06	Design_Seokwan_work	[손석완][레벨] 버려진 유적용 들고 옮기기 가젯 추가
+160602	2023/09/06	Design_Seokwan_work	[손석완][레벨] 장벽너머 넘버9  / #changelist 유효성 검사 완료
+160492	2023/09/06	Design_Seokwan_work	[손석완][레벨] 까마귀 섬 내비메시 보정용 볼륨 추가  / #changelist 유효성 검사 완료
+160420	2023/09/05	Design_Seokwan_work	[손석완][레벨] 장벽너머 9호점 목업  / #changelist 유효성 검사 완료
+160182	2023/09/05	Design_Seokwan_work	[손석완][레벨] 드래곤 전투지역 일부 수정  / #changelist 유효성 검사 완료
+159682	2023/09/01	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진유적지 03 제작  / #changelist 유효성 검사 완료
+159636	2023/09/01	Design_Seokwan_work	[손석완][레벨] 올드타운 버유 가젯 추가
+159595	2023/09/01	Design_Seokwan_work	[손석완] 가젯 테이블 버려진 유적 용 스위치 추가
+159518	2023/09/01	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지 제작중  / #changelist 유효성 검사 완료
+159088	2023/08/30	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지 제작  / #changelist 유효성 검사 완료
+158899	2023/08/30	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적
+158800	2023/08/29	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지 제작  / #changelist 유효성 검사 완료
+158616	2023/08/29	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적지  / #changelist 유효성 검사 완료
+158443	2023/08/28	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 게이트 가젯 위치 수정  / #changelist 유효성 검사 완료
+157968	2023/08/28	Design_Seokwan_work	[손석완][레벨] 올드타운 버려진 유적 제작  / #changelist 유효성 검사 완료
+157703	2023/08/28	Design_Seokwan_work	[손석완][레벨] 올드타운 버.유. 작업 및 드레드포트 세력은신처에 크레인 더미 심음  / #changelist 유효성 검사 완료
+157657	2023/08/28	Design_Seokwan_work	[손석완][레벨] 하이가든 필드 지역 필드콘텐츠 위치 수정  / #changelist 유효성 검사 완료
+157578	2023/08/25	Design_Seokwan_work	[손석완][레벨] 불필요 액터 정리, 올드타운 버려진 유적지 제작  / #changelist 유효성 검사 완료
+157471	2023/08/25	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 지하 내비메시 잘 나오게 수정  / #changelist 유효성 검사 완료
+157411	2023/08/25	Design_Seokwan_work	[손석완][레벨] 시타델 시청 내비메시 문제되는 지점 수정  / #changelist 유효성 검사 완료
+156927	2023/08/23	Design_Seokwan_work	[손석완][레벨] 레벨 가이드 추가 (위어우드의 기억)
+156801	2023/08/23	Design_Seokwan_work	[손석완][레벨] 하이가든 필드용 데이터레이어 추가  / #changelist 유효성 검사 완료
+156578	2023/08/22	Design_Seokwan_work	[손석완][레벨] 시타델 시청 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+156320	2023/08/21	Design_Seokwan_work	[손석완][레벨] 퀼앤탱커드 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+156139	2023/08/18	Design_Seokwan_work	[손석완][레벨] 세력은신처 인아웃 데이터레이어 정리  / #changelist 유효성 검사 완료
+156078	2023/08/18	Design_Seokwan_work	[손석완][레벨] 하수도 내비메시 문턱에서 끊기지 않게 처리  / #changelist 유효성 검사 완료
+156069	2023/08/18	Design_Seokwan_work	[손석완][레벨] 잉크제작자의 집 블로킹볼륨 추가  / #changelist 유효성 검사 완료
+156031	2023/08/18	Design_Seokwan_work	[손석완][레벨] 올드타운 셉트 블로킹 볼륨 추가 등  / #changelist 유효성 검사 완료
+155948	2023/08/17	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 볼륨 수정  / #changelist 유효성 검사 완료
+155947	2023/08/17	Design_Seokwan_work	[손석완][레벨] 올드타운 블로킹 볼륨 추가 및 하이가든 데이터볼륨 추가  / #changelist 유효성 검사 완료
+155943	2023/08/17	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+155938	2023/08/17	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 블로킹볼륨 추가  / #changelist 유효성 검사 완료
+155494	2023/08/14	Design_Seokwan_work	[손석완][레벨] 신규콘텐츠 가이득 액터 수정/추가  / #changelist 유효성 검사 완료
+155464	2023/08/11	Design_Seokwan_work	[손석완][레벨] 불필요 목업 액터 삭제  / #changelist 유효성 검사 완료
+155462	2023/08/11	Design_Seokwan_work	[손석완][레벨] 올드타운 셉트 지하실 데이터레이어 볼륨 수정  / #changelist 유효성 검사 완료
+155428	2023/08/11	Design_Seokwan_work	[손석완][레벨] 올드타운 추락방지 볼륨 추가  / #changelist 유효성 검사 완료
+155398	2023/08/11	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 데이터레이어 수정  / #changelist 유효성 검사 완료
+155086	2023/08/09	Design_Seokwan_work	[손석완][레벨] 올드타운 시타델 도서관 2층 타일 내비 생성용 볼륨 추가  / #changelist 유효성 검사 완료
+155083	2023/08/09	Design_Seokwan_work	[손석완][레벨] 올드타운 항구 쪽 추락방지볼륨 추가  / #changelist 유효성 검사 완료
+155082	2023/08/09	Design_Seokwan_work	[손석완][레벨] 올드타운 시청 내비메시 생성용 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+155079	2023/08/09	Design_Seokwan_work	[손석완][레벨] 올드타운 시청, 퀼앤탱커드 내비메시 생성용 볼륨 추가  / #changelist 유효성 검사 완료
+154929	2023/08/09	Design_Seokwan_work	[손석완][레벨] 퀼앤탱커드, 시청 타일 수정 - 내비메시 잘 생성되게  / #changelist 유효성 검사 완료
+154835	2023/08/09	Design_Seokwan_work	[손석완][레벨] 퀼앤탱커드에서 npc 떨어지는 문제 해결  / #changelist 유효성 검사 완료
+154782	2023/08/08	Design_Seokwan_work	[손석완][레벨] 캐스퍼의 집 사격장 투명 프랍 제거, 퀼앤탱커드 내비 메시 생기게 2층 재생성  / #changelist 유효성 검사 완료
+154730	2023/08/08	Design_Seokwan_work	[손석완][레벨] 퀼앤탱커드 2층 내비용 메시 교체  / #changelist 유효성 검사 완료
+154659	2023/08/08	Design_Seokwan_work	[손석완][레벨] 퀼앤 탱커드 바닥 타일 교체  / #changelist 유효성 검사 완료
+154642	2023/08/08	Design_Seokwan_work	[손석완][레벨] 퀼앤 탱커드 내비 메시 잘 나오게 처리
+154506	2023/08/08	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 - 데이터레이어 볼륨에 데이터레이어 이름 수정, 동선에 걸리는 철문 콜리전 제거  / #changelist 유효성 검사 완료
+154416	2023/08/07	Design_Seokwan_work	[손석완][레벨] 내비메시 정상화를 위한 프랍 속성 변경 및 내비 수정 볼륨 추가  / #changelist 유효성 검사 완료
+154358	2023/08/07	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 바닥 교체 - 내비메쉬 버그수정을 위함  / #changelist 유효성 검사 완료
+154290	2023/08/07	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 일부 메시 내비메시에서 제거  / #changelist 유효성 검사 완료
+154287	2023/08/07	Design_Seokwan_work	[손석완][레벨] 가이드 액터 위치 수정, 시타델 도서관 데이터레이어 구조 변경  / #changelist 유효성 검사 완료
+154184	2023/08/04	Design_Seokwan_work	[손석완][레벨] 볼팅펜스 어색한 것 삭제, 불필요 목업액터 삭제, 데이터레이어 볼륨 수정  / #changelist 유효성 검사 완료
+154005	2023/08/04	Design_Seokwan_work	[손석완][레벨] 하이가든 데이터레이어 재 추가  / #changelist 유효성 검사 완료
+153909	2023/08/03	Design_Seokwan_work	[손석완][레벨] 최북단 가이드 액터 내용 수정 - 야인 전투지역을 신규 콘텐츠로  / #changelist 유효성 검사 완료
+153849	2023/08/03	Design_Seokwan_work	[손석완][레벨] 하이가든 데이터레이어 추가  / #changelist 유효성 검사 완료
+153733	2023/08/03	Design_Seokwan_work	[손석완][레벨] 올드타운 필드 장미꽃에서 볼팅 제거  / #changelist 유효성 검사 완료
+153707	2023/08/03	Design_Seokwan_work	[손석완][레벨] 불필요 목업 액터 삭제  / #changelist 유효성 검사 완료
+153653	2023/08/02	Design_Seokwan_work	[손석완][레벨] 올드타운 블로킹 볼륨 수정  / #changelist 유효성 검사 완료
+153613	2023/08/02	Design_Seokwan_work	[손석완][레벨] 올드타운 추락방지 볼륨 수정, 시타델 사다리 위치 조정  / #changelist 유효성 검사 완료
+153475	2023/08/02	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업 수정  / #changelist 유효성 검사 완료
+152927	2023/07/28	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+152893	2023/07/28	Design_Seokwan_work	[손석완][레벨] 하이가든 저택 목업 수정, 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+152827	2023/07/28	Design_Seokwan_work	[손석완][레벨] 드래곤 전투지역   / #changelist 유효성 검사 완료
+152582	2023/07/27	Design_Seokwan_work	[손석완][레벨] 드래곤 테스트용 랜드스케이프 수정  / #changelist 유효성 검사 완료
+152510	2023/07/27	Design_Seokwan_work	[손석완][레벨] 올드타운 폴리지 제거된 것 복구  / #changelist 유효성 검사 완료
+152439	2023/07/26	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업
+152314	2023/07/26	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 수정  / #changelist 유효성 검사 완료
+152264	2023/07/26	Design_Seokwan_work	[손석완] 폴리지 사라진 이유로 롤백  / #changelist 유효성 검사 완료
+152251	2023/07/25	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 폴리지 수정 및 목업  / #changelist 유효성 검사 완료
+152241	2023/07/25	Design_Seokwan_work	[손석완][레벨] 폴리지 랜드스케이프와 떨어진 것들 수정  / #changelist 유효성 검사 완료
+152235	2023/07/25	Design_Seokwan_work	[손석완][레벨] 크로우즈네스트 목업  / #changelist 유효성 검사 완료
+152154	2023/07/25	Design_Seokwan_work	[손석완][레벨] 올드타운 양조장에 스페셜무브 박스 추가  / #changelist 유효성 검사 완료
+151729	2023/07/21	Design_Seokwan_work	[손석완][레벨] 최북단 버려진 유적지 버그 수정  / #changelist 유효성 검사 완료
+151721	2023/07/21	Design_Seokwan_work	[손석완][레벨] 최북단 버그 수정  / #changelist 유효성 검사 완료
+151360	2023/07/20	Design_Seokwan_work	[손석완][레벨] 하이가든 가이드액터 수정  / #changelist 유효성 검사 완료
+151272	2023/07/19	Design_Seokwan_work	[손석완][레벨] 올드타운 양조장 > 고업박스 추가  / #changelist 유효성 검사 완료
+151213	2023/07/19	Design_Seokwan_work	[손석완][레벨] 추락방지 볼륨 추가 - 퀸스크라운  / #changelist 유효성 검사 완료
+150961	2023/07/18	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 수정  / #changelist 유효성 검사 완료
+150920	2023/07/18	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 수정  / #changelist 유효성 검사 완료
+150802	2023/07/18	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 수정  / #changelist 유효성 검사 완료
+150757	2023/07/18	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 수정  / #changelist 유효성 검사 완료
+150306	2023/07/14	Design_Seokwan_work	[손석완][레벨] 올드타운 레벨 가이드 액터 위치 수정  / #changelist 유효성 검사 완료
+150273	2023/07/14	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 수정  / #changelist 유효성 검사 완료
+150134	2023/07/14	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 수정  / #changelist 유효성 검사 완료
+150130	2023/07/14	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 수정  / #changelist 유효성 검사 완료
+150084	2023/07/13	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 수정  / #changelist 유효성 검사 완료
+149803	2023/07/12	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 2차
+149769	2023/07/12	Design_Seokwan_work	[손석완][가젯] 그리핀 던전 가젯 수정
+149715	2023/07/12	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 2차  / #changelist 유효성 검사 완료
+149422	2023/07/11	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 수정  / #changelist 유효성 검사 완료
+149304	2023/07/10	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 2차  / #changelist 유효성 검사 완료
+149245	2023/07/10	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 2차  / #changelist 유효성 검사 완료
+149170	2023/07/07	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 2차  / #changelist 유효성 검사 완료
+149094	2023/07/07	Design_Seokwan_work	[손석완][레벨] 올드타운 양조장, 하이가든 목업 수정  / #changelist 유효성 검사 완료
+149051	2023/07/07	Design_Seokwan_work	[손석완][레벨] 올드타운 양조장 목업 수정  / #changelist 유효성 검사 완료
+149049	2023/07/07	Design_Seokwan_work	[손석완][레벨] 양조장 수정
+149005	2023/07/07	Design_Seokwan_work	[손석완][레벨]하이가든 목업 2차  / #changelist 유효성 검사 완료
+148959	2023/07/06	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 2차  / #changelist 유효성 검사 완료
+148852	2023/07/06	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 2차  / #changelist 유효성 검사 완료
+148674	2023/07/05	Design_Seokwan_work	[손석완][레벨] 하이가든 목업]  / #changelist 유효성 검사 완료
+148342	2023/07/03	Design_Seokwan_work	[손석완][레벨] 하이가든 목업
+148299	2023/07/03	Design_Seokwan_work	[손석완][Trunk=>QA] / @148230 [손석완][레벨] 버려진 유적지, 세력은신처 고업 박스 수정 / #changelist 유효성 검사 완료
+148230	2023/07/03	Design_Seokwan_work	[손석완][레벨] 버려진 유적지, 세력은신처 고업 박스 수정  / #changelist 유효성 검사 완료
+148120	2023/06/30	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 2차 / #changelist 유효성 검사 완료
+148018	2023/06/30	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 테스트용 큐브 삭제  / #changelist 유효성 검사 완료
+148013	2023/06/30	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비 테스트  / #changelist 유효성 검사 완료
+148003	2023/06/30	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비 테스트  / #changelist 유효성 검사 완료
+147999	2023/06/30	Design_Seokwan_work	[손석완][레벨] 리캐스트 내비 액터 추가  / #changelist 유효성 검사 완료
+147988	2023/06/30	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 월드 세팅 수정  / #changelist 유효성 검사 완료
+147985	2023/06/30	Design_Seokwan_work	[손석완][레벨] Undo //streamsMain/Main/Trunk/Client/Content/__ExternalActors__/Level/Dungeon/01_AltarOfMemory/03_Griffin/03_Griffin_WP/5/DL/... changelist 147982
+147982	2023/06/30	Design_Seokwan_work	[손석완][레벨] 그리핀던전 내비 테스트  / #changelist 유효성 검사 완료
+147977	2023/06/30	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비 테스트  / #changelist 유효성 검사 완료
+147970	2023/06/30	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비메시 테스트   / #changelist 유효성 검사 완료
+147910	2023/06/30	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 파괴형 프랍 내비 영향 안주게 변경  / #changelist 유효성 검사 완료
+147887	2023/06/30	Design_Seokwan_work	[손석완][레벨] 연출용 그리핀 스폰 데이터 재사용 처리 및 스폰 아이디 수정
+147873	2023/06/30	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 출구에서 계단 못올라가는 현상 수정  / #changelist 유효성 검사 완료
+147262	2023/06/27	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 2차, 최북단 환경셋 임시 변경  / #changelist 유효성 검사 완료
+147211	2023/06/27	Design_Seokwan_work	[손석완][레벨] 하이가든 성내 목업 수정 - 타일러숍 이동  / #changelist 유효성 검사 완료
+147132	2023/06/27	Design_Seokwan_work	[손석완] 하이가든 목업 2차  / #changelist 유효성 검사 완료
+147123	2023/06/27	Design_Seokwan_work	[손석완][레벨] 하이가든 2차 목업  / #changelist 유효성 검사 완료
+146827	2023/06/26	Design_Seokwan_work	[손석완][레벨] 폴리지 그리드 FarGrid로 수정  / #changelist 유효성 검사 완료
+146718	2023/06/23	Design_Seokwan_work	[손석완][레벨] 하이가든 목업]  / #changelist 유효성 검사 완료
+146615	2023/06/23	Design_Seokwan_work	[손석완][레벨[ 하이가든 목업  / #changelist 유효성 검사 완료
+146449	2023/06/22	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+146321	2023/06/22	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+146140	2023/06/21	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+145990	2023/06/21	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+145989	2023/06/21	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+145947	2023/06/20	Design_Seokwan_work	[손석완][레벨] 하이가든 성내 목업  / #changelist 유효성 검사 완료
+145759	2023/06/20	Design_Seokwan_work	[손석완][레벨] 하이가든 성 목업  / #changelist 유효성 검사 완료
+144615	2023/06/15	Design_Seokwan_work	[손석완][레벨] 최북단 환경볼륨 세팅  / #changelist 유효성 검사 완료
+144598	2023/06/15	Design_Seokwan_work	[손석완] 나무 파괴형 가젯 GC 수정
+144528	2023/06/14	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+144527	2023/06/14	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+144478	2023/06/14	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+144457	2023/06/14	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+144386	2023/06/14	Design_Seokwan_work	[손석완][레벨] 최북단 환경 볼륨 테스트용 추가  / #changelist 유효성 검사 완료
+144364	2023/06/13	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 / #changelist 유효성 검사 완료
+144245	2023/06/13	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 점프 공간 수정  / #changelist 유효성 검사 완료
+143905	2023/06/09	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+143894	2023/06/09	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+143673	2023/06/08	Design_Seokwan_work	[손석완][레벨] 하이가든 목업 작업중  / #changelist 유효성 검사 완료
+143624	2023/06/08	Design_Seokwan_work	[손석완][레벨] 아웃라이너 정리  / #changelist 유효성 검사 완료
+143226	2023/06/02	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+143160	2023/06/02	Design_Seokwan_work	[손석완][레벨] 하이가든 목업  / #changelist 유효성 검사 완료
+143003	2023/06/01	Design_Seokwan_work	[손석완][레벨] 하이가든 1차 목업 중  / #changelist 유효성 검사 완료
+142881	2023/06/01	Design_Seokwan_work	[손석완][가젯] 최북단 나무 가젯 내비에 영향 안주게 처리  / #changelist 유효성 검사 완료
+142757	2023/05/31	Design_Seokwan_work	[손석완][레벨] 최북단 흉포한 동물 지역 나무 프랍 내비메시에 영향 안주기 설정  / #changelist 유효성 검사 완료
+142739	2023/05/31	Design_Seokwan_work	[손석완][레벨] 최북단 흉포한 동물 지역 부서지는 나무 배치  / #changelist 유효성 검사 완료
+142687	2023/05/31	Design_Seokwan_work	[손석완] 테스트용 파괴형 프랍에 앵커필드 추가  / #changelist 유효성 검사 완료
+142638	2023/05/31	Design_Seokwan_work	[손석완][레벨] 하이가든 지역 목업 중, 스케일값 0 인 프랍 삭제  / #changelist 유효성 검사 완료
+142052	2023/05/25	Design_Seokwan_work	[손석완][레벨] 그리핀 잔도 가젯에 불 이펙트 스케일 수정  / #changelist 유효성 검사 완료
+141783	2023/05/24	Design_Seokwan_work	[손석완][레벨] 배경에서 배치한 불 FX 삭제. 가젯에 FX 부착 / #changelist 유효성 검사 완료
+141366	2023/05/22	Design_Seokwan_work	[손석완][레벨] 최북단 흉포한 동물 지역에 가젯 배치  / #changelist 유효성 검사 완료
+141342	2023/05/22	Design_Seokwan_work	[손석완][가젯] 최북단 흉포한 동물 지역에 배치할 파괴형 나무 프랍 등록  / #changelist 유효성 검사 완료
+141273	2023/05/19	Design_Seokwan_work	[손석완][레벨] 나무 지오메트리 컬렉션 추가  / #changelist 유효성 검사 완료
+141227	2023/05/19	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처에 배 목업 추가  / #changelist 유효성 검사 완료
+140887	2023/05/17	Design_Seokwan_work	[손석완][레벨] 불필요 데이터레이어 볼륨 제거  / #changelist 유효성 검사 완료
+140880	2023/05/17	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 수정 / #changelist 유효성 검사 완료
+140802	2023/05/17	Design_Seokwan_work	[손석완][레벨] 데이터레이어 정리  / #changelist 유효성 검사 완료
+140738	2023/05/17	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 데이터레이어 볼륨 수정 중  / #changelist 유효성 검사 완료
+140660	2023/05/16	Design_Seokwan_work	[손석완][레벨] 그리핀던전 라이트 데이터레이어 설정  / #changelist 유효성 검사 완료
+140638	2023/05/16	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 수정 - 도개교 기믹 대체, 실내공간 줄이기  / #changelist 유효성 검사 완료
+140231	2023/05/12	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 수정  / #changelist 유효성 검사 완료
+140126	2023/05/11	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 수정  / #changelist 유효성 검사 완료
+140093	2023/05/11	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 수정  / #changelist 유효성 검사 완료
+139945	2023/05/10	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 수정  / #changelist 유효성 검사 완료
+139938	2023/05/10	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 수정  / #changelist 유효성 검사 완료
+139929	2023/05/10	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 수정  / #changelist 유효성 검사 완료
+139879	2023/05/10	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 수정  / #changelist 유효성 검사 완료
+139812	2023/05/10	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 수정중  / #changelist 유효성 검사 완료
+139779	2023/05/09	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 수정  / #changelist 유효성 검사 완료
+139683	2023/05/09	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 - 아웃라이너 정리  / #changelist 유효성 검사 완료
+139659	2023/05/09	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업  / #changelist 유효성 검사 완료
+139652	2023/05/09	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업  / #changelist 유효성 검사 완료
+139596	2023/05/08	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업  / #changelist 유효성 검사 완료
+139220	2023/05/03	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업  / #changelist 유효성 검사 완료
+139218	2023/05/03	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업  / #changelist 유효성 검사 완료
+139177	2023/05/03	Design_Seokwan_work	[손석완][레벨] 올드타운 세력 은신처 목업 중  / #changelist 유효성 검사 완료
+139157	2023/05/03	Design_Seokwan_work	[손석완][레벨] 모틴의 집 목업  / #changelist 유효성 검사 완료
+139130	2023/05/03	Design_Seokwan_work	[손석완][레벨] 세력은신처 목업 수정  / #changelist 유효성 검사 완료
+139085	2023/05/02	Design_Seokwan_work	[손석완][레벨] 시타델 목업 실내 위치 수정  / #changelist 유효성 검사 완료
+138996	2023/05/02	Design_Seokwan_work	[손석완][레벨] 세력은신처 목업  / #changelist 유효성 검사 완료
+138941	2023/04/28	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업  / #changelist 유효성 검사 완료
+138926	2023/04/28	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업  / #changelist 유효성 검사 완료
+138863	2023/04/27	Design_Seokwan_work	[손석완][레벨] 세력은신처 목업  / #changelist 유효성 검사 완료
+138783	2023/04/27	Design_Seokwan_work	[손석완][레벨] 올드타운 세력은신처 목업 중  / #changelist 유효성 검사 완료
+138692	2023/04/26	Design_Seokwan_work	[손석완][레벨] 실버클리프 셉트 목업 수정  / #changelist 유효성 검사 완료
+138683	2023/04/26	Design_Seokwan_work	[손석완][레벨] 셉트 목업 수정  / #changelist 유효성 검사 완료
+138645	2023/04/26	Design_Seokwan_work	[손석완][레벨] 실버클리프 셉트 목업 각도 수정 등  / #changelist 유효성 검사 완료
+138632	2023/04/26	Design_Seokwan_work	[손석완] 디자인 트리 리디릭터 수정  / #changelist 유효성 검사 완료
+138498	2023/04/25	Design_Seokwan_work	[손석완][레벨] 시타델, 양조장 실내 목업 수정  / #changelist 유효성 검사 완료
+138453	2023/04/25	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 목업  / #changelist 유효성 검사 완료
+138430	2023/04/25	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 목업 수정  / #changelist 유효성 검사 완료
+138229	2023/04/21	Design_Seokwan_work	[손석완][레벨] 올드타운 하수도 작업  / #changelist 유효성 검사 완료
+138202	2023/04/21	Design_Seokwan_work	[손석완][레벨] 올드타운 실내 목업 수정  / #changelist 유효성 검사 완료
+138139	2023/04/21	Design_Seokwan_work	[손석완][레벨] 올드타운 도서관 목업   / #changelist 유효성 검사 완료
+138133	2023/04/21	Design_Seokwan_work	[손석완][레벨] 올드타운 도서관 지하실 랜드스케이프 구멍 뚫기  / #changelist 유효성 검사 완료
+138100	2023/04/20	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 목업  / #changelist 유효성 검사 완료
+138010	2023/04/20	Design_Seokwan_work	[손석완][레벨] 올드타운 시타델 도서관 데이터 레이어 정리  / #changelist 유효성 검사 완료
+137923	2023/04/19	Design_Seokwan_work	[손석완][레벨] 올드타운 - 하수도 목업 중
+137911	2023/04/19	Design_Seokwan_work	[손석완][레벨] GoUp bp에 프랍 보강  / #changelist 유효성 검사 완료
+137764	2023/04/18	Design_Seokwan_work	[손석완][레벨] 올드타운 도서관, 세력은신처 목업  / #changelist 유효성 검사 완료
+137693	2023/04/17	Design_Seokwan_work	[손석완] 올드타운 세력은신처 목업 작업 중  / #changelist 유효성 검사 완료
+137491	2023/04/14	Design_Seokwan_work	[손석완] 버려진유적지 6호점 외성벽 높이 조절 - 못올라가게  / #changelist 유효성 검사 완료
+137310	2023/04/14	Design_Seokwan_work	[손석완][Trunk=>QA] / @137309 [손석완] 버려진 유적지 7호점 입구 부분 벽 삭제 / #changelist 유효성 검사 완료
+137309	2023/04/14	Design_Seokwan_work	[손석완] 버려진 유적지 7호점 입구 부분 벽 삭제  / #changelist 유효성 검사 완료
+137220	2023/04/14	Design_Seokwan_work	[손석완][레벨] 시타델 도서관 목업 아웃라이너 정리 / #changelist 유효성 검사 완료
+137206	2023/04/14	Design_Seokwan_work	[손석완][Trunk=>QA] / @136854 [손석완] Const 추가 - Gadget.WalkSpeedForSwitchControl
+136997	2023/04/13	Design_Seokwan_work	[손석완][레벨] 올드타운 시타델 도서관 목업중 / #changelist 유효성 검사 완료
+136892	2023/04/13	Design_Seokwan_work	[손석완][Trunk=>QA]  / @136891 [손석완][가젯] 토글 스위치 인터랙션 범위 조절 - 왔다갔다 덜 하게
+136891	2023/04/13	Design_Seokwan_work	[손석완][가젯] 토글 스위치 인터랙션 범위 조절 - 왔다갔다 덜 하게
+136873	2023/04/13	Design_Seokwan_work	[손석완][Trunk=>QA] / @136854 [손석완] Const 추가 - Gadget.WalkSpeedForSwitchControl
+136854	2023/04/13	Design_Seokwan_work	[손석완] Const 추가 - Gadget.WalkSpeedForSwitchControl
+136827	2023/04/13	Design_Seokwan_work	[손석완] 떨어지는 돌멩이 이펙트 배치, 데이터레이어에 추가  / #changelist 유효성 검사 완료
+136460	2023/04/13	Design_Seokwan_work	[손석완][Trunk=>QA] / @135459 [손석완] 퀸즈크라운 포인트라이트 데이터레이어 작업 / #changelist 유효성 검사 완료
+135459	2023/04/12	Design_Seokwan_work	[손석완] 퀸즈크라운 포인트라이트 데이터레이어 작업  / #changelist 유효성 검사 완료
+135046	2023/04/12	Design_Seokwan_work	[손석완][Trunk=>QA] / @135021 [손석완] 그리핀 던전 - 스폰 쿨타임 9999로 설정
+135021	2023/04/12	Design_Seokwan_work	[손석완] 그리핀 던전 - 스폰 쿨타임 9999로 설정
+134819	2023/04/11	Design_Seokwan_work	[손석완][Trunk=>QA]  / @134697 [손석완][레벨] 그리핀 던전 페이즈 별 전역 불 파티클 추가, 불필요 액터 제거
+134697	2023/04/11	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 페이즈 별 전역 불 파티클 추가, 불필요 액터 제거
+134645	2023/04/11	Design_Seokwan_work	[손석완][Trunk=>QA] / @134632 [손석완][레벨] 최북단 빨간 마네킹 제거
+134632	2023/04/11	Design_Seokwan_work	[손석완][레벨] 최북단 빨간 마네킹 제거
+134538	2023/04/11	Design_Seokwan_work	[손석완][레벨] 올드타운 필드 - 양조장 목업 수정, 가이드액터 사이즈 조절  / #changelist 유효성 검사 완료
+133943	2023/04/07	Design_Seokwan_work	[손석완] 올드타운 목업 - 브루어리 실내 초안  / #changelist 유효성 검사 완료
+133802	2023/04/07	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 가젯 위치 수정  / #changelist 유효성 검사 완료
+133774	2023/04/07	Design_Seokwan_work	[손석완][가젯] 스위치 가젯 1회만 조작되게 수정
+133713	2023/04/07	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 오크통 수량 조절, 슬로프 주변 프랍 컬리전 활성화  / #changelist 유효성 검사 완료
+133710	2023/04/07	Design_Seokwan_work	[손석완][레벨] 그리핀던전 굴러오는 오크통 개수 조절, 관련 블로킹 볼륨 조절  / #changelist 유효성 검사 완료
+133685	2023/04/07	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 가젯 배치 수정 - 돌무더기, 천막 제거 및 주변 프랍 제거  / #changelist 유효성 검사 완료
+133518	2023/04/06	Design_Seokwan_work	[손석완] 불장판 데이터 레이어 수정  / #changelist 유효성 검사 완료
+133345	2023/04/06	Design_Seokwan_work	[손석완] 그리핀 던전 불바닥 fx 액터 수정  / #changelist 유효성 검사 완료
+133163	2023/04/05	Design_Seokwan_work	[손석완][레벨] 올드타운 - 프레이그런트부루어 - 실내 작업중  / #changelist 유효성 검사 완료
+133119	2023/04/05	Design_Seokwan_work	[손석완][레벨] 올드타운 - 실버클리프 - 셉트 내부 목업  / #changelist 유효성 검사 완료
+132605	2023/04/04	Design_Seokwan_work	[손석완][Trunk=>QA] @132603 퀸스크라운 말 탑승 금지 처리 / #changelist 유효성 검사 완료
+132603	2023/04/04	Design_Seokwan_work	[손석완] 퀸스크라운 말 탑승 금지 처리  / #changelist 유효성 검사 완료
+132579	2023/04/04	Design_Seokwan_work	[손석완][Trunk=>QA] @132576 라스트허스에 불필요 마네킹 액터 제거 / #changelist 유효성 검사 완료
+132576	2023/04/04	Design_Seokwan_work	[손석완] 라스트허스에 불필요 마네킹 액터 제거  / #changelist 유효성 검사 완료
+132457	2023/04/04	Design_Seokwan_work	[손석완][Trunk=>QA] @132448 그리핀 던전 카메라 앵글 조정
+132448	2023/04/04	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 카메라 앵글 조정
+132353	2023/04/03	Design_Seokwan_work	[손석완] 그리핀 불장판 bp 등록
+132309	2023/04/03	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비메시 수정  / #changelist 유효성 검사 완료
+132240	2023/04/03	Design_Seokwan_work	[손석완][Trunk=>QA] @132238 버려진 유적지 6호점 로프 이동 끼는 현상 수정
+132238	2023/04/03	Design_Seokwan_work	[손석완] 버려진 유적지 6호점 로프 이동 끼는 현상 수정
+132117	2023/04/03	Design_Seokwan_work	[손석완][Trunk=>QA] @132114 롱레이크 남단 절벽에 추락볼륨 설치 / #changelist 유효성 검사 완료
+132114	2023/04/03	Design_Seokwan_work	[손석완][레벨] 롱레이크 남단 절벽에 추락볼륨 설치  / #changelist 유효성 검사 완료
+131759	2023/03/31	Design_Seokwan_work	[손석완][Trunk=>QA] @131755  퀸즈크라운 - 불필요 포인트라이트 제거 / #changelist 유효성 검사 완료
+131758	2023/03/31	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 - 불필요 포인트라이트 제거  / #changelist 유효성 검사 완료
+131755	2023/03/31	Design_Seokwan_work	[손석완][Trunk=>QA] @131754  버려진 유적 0호점에 불필요 메시 제거 / #changelist 유효성 검사 완료
+131754	2023/03/31	Design_Seokwan_work	[손석완][레벨] 버려진 유적 0호점에 불필요 메시 제거  / #changelist 유효성 검사 완료
+131753	2023/03/31	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 보강  / #changelist 유효성 검사 완료
+131684	2023/03/31	Design_Seokwan_work	[손석완][Trunk=>QA] / @131680 [손석완][레벨] 버려진 유적 진행 불가상황 수정
+131680	2023/03/31	Design_Seokwan_work	[손석완][레벨] 버려진 유적 진행 불가상황 수정  / #changelist 유효성 검사 완료
+131586	2023/03/31	Design_Seokwan_work	[손석완][레벨] 그리핀 연출용 카메라 수정  / #changelist 유효성 검사 완료
+131545	2023/03/31	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 보강  / #changelist 유효성 검사 완료
+131368	2023/03/31	Design_Seokwan_work	[손석완][가젯] 그리핀 전조 등장 1회만 하게 수정
+131346	2023/03/31	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 추락볼륨 제거  / #changelist 유효성 검사 완료
+130700	2023/03/30	Design_Seokwan_work	[손석완] 그리핀 BP 피직스 애셋 세팅 / #changelist 유효성 검사 완료
+130699	2023/03/30	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 수정 / #changelist 유효성 검사 완료
+130698	2023/03/30	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 AreaBox 추가  / #changelist 유효성 검사 완료
+130633	2023/03/30	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비 업데이트  / #changelist 유효성 검사 완료
+130550	2023/03/30	Design_Seokwan_work	[손석완] 그리핀 스폰 연출 시점 변경  / #changelist 유효성 검사 완료
+130447	2023/03/30	Design_Seokwan_work	[손석완][레벨] 최북단 불필요 부시 폴리지 삭제  / #changelist 유효성 검사 완료
+130340	2023/03/29	Design_Seokwan_work	[손석완][가젯] 그리핀 던전 스위치 가젯 Reusable 값 false로
+130320	2023/03/29	Design_Seokwan_work	[손석완] 그리핀 던전 파괴형 가젯 위치 수정 등  / #changelist 유효성 검사 완료
+130291	2023/03/29	Design_Seokwan_work	[손석완][가젯] 버려진 유적지 보물상자 -> 잡화로 변경
+130109	2023/03/29	Design_Seokwan_work	[손석완][가젯] 게이트 컬리전 노 컬리전 -> 블로킹  / #changelist 유효성 검사 완료
+129962	2023/03/28	Design_Seokwan_work	[손석완][가젯] 파괴형가젯 위치 조정
+129883	2023/03/28	Design_Seokwan_work	[손석완][레벨] 블로킹 볼륨, 내비 모디파이어 볼륨 수정 / #changelist 유효성 검사 완료
+128838	2023/03/24	Design_Seokwan_work	[손석완][레벨] 최북단에 추락볼륨 설치, 나이트 게임모드에서 안 보이게, 모닥불 제거  / #changelist 유효성 검사 완료
+128757	2023/03/24	Design_Seokwan_work	[손석완][가젯] 더미 텍스트 제거  / #changelist 유효성 검사 완료
+128735	2023/03/24	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 로프 위치 수정  / #changelist 유효성 검사 완료
+128679	2023/03/24	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비메시 수정  / #changelist 유효성 검사 완료
+128556	2023/03/24	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 불필요 볼륨 제거, 천막 GC 수정  / #changelist 유효성 검사 완료
+128429	2023/03/23	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 컬리전 조정, 내비메시 조정, 블로킹볼륨 조정  / #changelist 유효성 검사 완료
+128329	2023/03/23	Design_Seokwan_work	[손석완] 그리핀 게이트, 스위치 위치값 수정
+128160	2023/03/23	Design_Seokwan_work	[손석완][가젯] 그리핀 던전 가젯 위치 조정 등
+128118	2023/03/23	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운에서 내려오는 밧줄 수정,  / #changelist 유효성 검사 완료
+128004	2023/03/22	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 가젯 스포너 이름 갱신
+127991	2023/03/22	Design_Seokwan_work	[손석완][레벨] 최북단지역에 레벨라인 추가  / #changelist 유효성 검사 완료
+127937	2023/03/22	Design_Seokwan_work	[손석완] 리디렉터 수정
+127924	2023/03/22	Design_Seokwan_work	[손석완] 리디렉터 고치기
+127910	2023/03/22	Design_Seokwan_work	[손석완][레벨] 카메라 액터 경로 변경, 최북단 다리에 블로킹볼륨 배치  / #changelist 유효성 검사 완료
+127839	2023/03/22	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운 호수 수정  / #changelist 유효성 검사 완료
+127805	2023/03/22	Design_Seokwan_work	[손석완][레벨] 최북단 퀸스크라운 호수 판넬을 리버툴로 교체  / #changelist 유효성 검사 완료
+127787	2023/03/22	Design_Seokwan_work	[손석완][레벨] 올드타운 지형 정리  / #changelist 유효성 검사 완료
+127768	2023/03/22	Design_Seokwan_work	[손석완][가젯] 스위치 가젯의 카메라 블렌딩 시간 변경, 초입부에 카메라 블로킹 볼륨 추가 / #changelist 유효성 검사 완료
+127716	2023/03/21	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 작업 중 / #changelist 유효성 검사 완료
+127411	2023/03/21	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 외곽 서버컬리전 추가, 불필요 목업 파일 제거  / #changelist 유효성 검사 완료
+127318	2023/03/20	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 / #changelist 유효성 검사 완료
+127180	2023/03/20	Design_Seokwan_work	[손석완][가젯] 그리핀 던전 덫 관련 가젯 원복
+127171	2023/03/20	Design_Seokwan_work	[손석완] 그리핀 던전 508용 가젯 스포너 생성
+126821	2023/03/17	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 중  / #changelist 유효성 검사 완료
+126734	2023/03/16	Design_Seokwan_work	[손석완][레벨] 올드타운 필드 목업 중  / #changelist 유효성 검사 완료
+126695	2023/03/16	Design_Seokwan_work	[손석완][레벨] 퀸즈크라운에 로프이동 추가, 올드타운 목업 수정  / #changelist 유효성 검사 완료
+126661	2023/03/16	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 중 / #changelist 유효성 검사 완료
+126599	2023/03/16	Design_Seokwan_work	[손석완][레벨] 최북단 연기 제거 후 연기나는 오두막용 연기 배치  / #changelist 유효성 검사 완료
+126401	2023/03/15	Design_Seokwan_work	[손석완][레벨] 올드타운 목업  / #changelist 유효성 검사 완료
+126147	2023/03/15	Design_Seokwan_work	[손석완][레벨] 올드타운 목업, 최북단 가이드 액터에 늑대굴, 야인캠프 표시  / #changelist 유효성 검사 완료
+126103	2023/03/15	Design_Seokwan_work	[손석완][가젯] 그리핀 508 맵 스위치와 게이트 수정
+126029	2023/03/14	Design_Seokwan_work	[손석완][레벨] 올드타운 필드 목업  / #changelist 유효성 검사 완료
+125872	2023/03/14	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 중 / #changelist 유효성 검사 완료
+125673	2023/03/13	Design_Seokwan_work	[손석완][레벨] 올드타운 목업  / #changelist 유효성 검사 완료
+125580	2023/03/13	Design_Seokwan_work	[손석완][레벨] 올드타운 목업  / #changelist 유효성 검사 완료
+125492	2023/03/13	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 에리어박스 ID 수정  / #changelist 유효성 검사 완료
+125431	2023/03/10	Design_Seokwan_work	[손석완][레벨] 올드타운 목업  / #changelist 유효성 검사 완료
+125264	2023/03/10	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 스위치와 문 수정
+125120	2023/03/10	Design_Seokwan_work	[손석완][가젯] 그리핀 던전 스위치와 게이트  / #changelist 유효성 검사 완료
+125057	2023/03/09	Design_Seokwan_work	[손석완][가젯] 스위치 가젯 수정, 잔도 가젯 추가 배치, 내비메시 수정  / #changelist 유효성 검사 완료
+124940	2023/03/09	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 작업중  / #changelist 유효성 검사 완료
+124554	2023/03/07	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 / #changelist 유효성 검사 완료
+124506	2023/03/07	Design_Seokwan_work	[손석완][가젯] 스위치 가젯 수정
+124463	2023/03/07	Design_Seokwan_work	[손석완][레벨] 그리핀던전 내비 메시 복원
+124405	2023/03/07	Design_Seokwan_work	[손석완][가젯] 그리핀 던전의 파괴형 오브젝트 FX 추가  / #changelist 유효성 검사 완료
+124212	2023/03/06	Design_Seokwan_work	[손석완][레벨] 올드타운 필드 목업 중  / #changelist 유효성 검사 완료
+124019	2023/03/03	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 작업 중  / #changelist 유효성 검사 완료
+123960	2023/03/03	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 블로킹 볼륨 추가 / #changelist 유효성 검사 완료
+123957	2023/03/03	Design_Seokwan_work	[손석완][가젯] 지오메트리 컬렉션 머티리얼 순서 변경 / #changelist 유효성 검사 완료
+123711	2023/03/02	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 작업 중  / #changelist 유효성 검사 완료
+123535	2023/02/27	Design_Seokwan_work	[손석완][레벨] 올드타운 목업  / #changelist 유효성 검사 완료
+123335	2023/02/24	Design_Seokwan_work	[손석완][레벨] 올드타운 목업 중  / #changelist 유효성 검사 완료
+123278	2023/02/24	Design_Seokwan_work	[손석완][레벨] 올드타운 목업중  / #changelist 유효성 검사 완료
+123197	2023/02/24	Design_Seokwan_work	[손석완][레벨] 그리핀던전에 블로킹 볼륨 추가  / #changelist 유효성 검사 완료
+123000	2023/02/23	Design_Seokwan_work	[손석완][레벨] 최북단에 연기나는 오두막 위치 추가  / #changelist 유효성 검사 완료
+121585	2023/02/22	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 그리핀 스폰 아이디 변경
+121206	2023/02/21	Design_Seokwan_work	[손석완][레벨] 오크통, 불장판 NPC 이펙트에 의해 생성되게 설정 / #changelist 유효성 검사 완료
+121189	2023/02/21	Design_Seokwan_work	[손석완][레벨] 그리핀 불장판 임시 FX BP / #changelist 유효성 검사 완료
+120998	2023/02/20	Design_Seokwan_work	[손석완][레벨] 버려진 유적 0 호점 수정 - 로프 추가  / #changelist 유효성 검사 완료
+120947	2023/02/20	Design_Seokwan_work	[손석완][레벨] 유령 텐트 액터 제거 후 서버 컬리전 재생성  / #changelist 유효성 검사 완료
+120938	2023/02/20	Design_Seokwan_work	[손석완][레벨] 그리핀 오크통 에러 메시지 수정 / #changelist 유효성 검사 완료
+120930	2023/02/20	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 서버 컬리전 수정
+120883	2023/02/20	Design_Seokwan_work	[손석완][가젯] 구르는 오크통 피직스 시뮬레이트 off
+120863	2023/02/20	Design_Seokwan_work	[손석완][레벨] 굴러떨어지는 오크통 수량 조정 / #changelist 유효성 검사 완료
+120862	2023/02/20	Design_Seokwan_work	[손석완][레벨] 그리핀 등장 지점 변경 / #changelist 유효성 검사 완료
+120810	2023/02/20	Design_Seokwan_work	[손석완][레벨] 연출 발동 에리어 박스 수정 등  / #changelist 유효성 검사 완료
+120650	2023/02/17	Design_Seokwan_work	[손석완][레벨] 그리핀 연출용 잔도 수정  / #changelist 유효성 검사 완료
+120624	2023/02/17	Design_Seokwan_work	[손석완][레벨] 파괴형 가젯 큰 거 리소스 교체  / #changelist 유효성 검사 완료
+120581	2023/02/17	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 파괴형 프랍 디졸브 시간 변경, 기획용 라이트 제거  / #changelist 유효성 검사 완료
+120580	2023/02/17	Design_Seokwan_work	[손석완][레벨] 그리핀 1차 등장 포인트 수정 / #changelist 유효성 검사 완료
+120558	2023/02/17	Design_Seokwan_work	[손석완][레벨] 파괴형 오프젝트 메시 변경  / #changelist 유효성 검사 완료
+120234	2023/02/15	Design_Seokwan_work	[손석완][레벨] 블로킹 볼륨 아웃라이너 수정 / #changelist 유효성 검사 완료
+120233	2023/02/15	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 구르는 오크통 / #changelist 유효성 검사 완료
+120195	2023/02/15	Design_Seokwan_work	[손석완][가젯] 비사용 GC 정리
+120155	2023/02/15	Design_Seokwan_work	[손석완][npc] 그리핀 스폰 각도 변경
+120042	2023/02/15	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비메시 수정  / #changelist 유효성 검사 완료
+120022	2023/02/15	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비메시 수정
+120020	2023/02/15	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비메시 수정  / #changelist 유효성 검사 완료
+120019	2023/02/15	Design_Seokwan_work	[손석완][레벨] 내비메시 수정  / #changelist 유효성 검사 완료
+120002	2023/02/15	Design_Seokwan_work	[손석완][가젯] 가젯 관련 csv 추가
+120001	2023/02/15	Design_Seokwan_work	[손석완][레벨] 사다리 임시 제거
+119977	2023/02/14	Design_Seokwan_work	[손석완][가젯] 그리핀 던전 파괴형 오브젝트 힘 계수 조정 및 GC 추가 / #changelist 유효성 검사 완료
+119965	2023/02/14	Design_Seokwan_work	[손석완]  가젯 액터 스포너  / #changelist 유효성 검사 완료
+119964	2023/02/14	Design_Seokwan_work	[손석완] 연출용 잔도 제작 및 배치, 배경 프랍들 데이터 레이어에 종속  / #changelist 유효성 검사 완료
+119884	2023/02/14	Design_Seokwan_work	[손석완][가젯] 잔도 가젯 추가  / #changelist 유효성 검사 완료
+119875	2023/02/14	Design_Seokwan_work	[손석완][레벨] 그리핀 던전의 연출용 잔도 가젯 제작 및 배치  / #changelist 유효성 검사 완료
+119817	2023/02/14	Design_Seokwan_work	[손석완][NPC] 그리핀 스폰 각도 변경 / #changelist 유효성 검사 완료
+119658	2023/02/13	Design_Seokwan_work	[손석완] 불필요 GC 리디렉팅  / #changelist 유효성 검사 완료
+119655	2023/02/13	Design_Seokwan_work	[손석완][가젯] 가젯을 통해 그리핀 스폰
+119631	2023/02/13	Design_Seokwan_work	[손석완][레벨] 그리핀 스폰 데이터 추가  / #changelist 유효성 검사 완료
+119612	2023/02/13	Design_Seokwan_work	[손석완][레벨] 파괴형 가젯 bp 수정 및 배치 / #changelist 유효성 검사 완료
+119611	2023/02/13	Design_Seokwan_work	[손석완][레벨] 그리핀 스폰용 서브에리어 추가  / #changelist 유효성 검사 완료
+119599	2023/02/13	Design_Seokwan_work	[손석완][가젯] 그리핀 파괴형 프랍 수정  / #changelist 유효성 검사 완료
+119480	2023/02/10	Design_Seokwan_work	[손석완][레벨 파괴형 가젯 그리핀 던전에 배치]  / #changelist 유효성 검사 완료
+119460	2023/02/10	Design_Seokwan_work	[손석완][가젯] BoxCollision 변경  / #changelist 유효성 검사 완료
+119458	2023/02/10	Design_Seokwan_work	[손석완][가젯] BoxCollision 변경  / #changelist 유효성 검사 완료
+119457	2023/02/10	Design_Seokwan_work	[손석완][가젯] BoxCollision 변경  / #changelist 유효성 검사 완료
+119411	2023/02/10	Design_Seokwan_work	[손석완][가젯] 테스트용 가젯 무게 수정  / #changelist 유효성 검사 완료
+119378	2023/02/10	Design_Seokwan_work	[손석완][가젯] 그리핀 던전 파괴형 가젯 일부 등록  / #changelist 유효성 검사 완료
+119346	2023/02/10	Design_Seokwan_work	[손석완][가젯] 그리핀 던전 파괴형 가젯 더미 데이터 추가  / #changelist 유효성 검사 완료
+119330	2023/02/10	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 덫 제거  / #changelist 유효성 검사 완료
+119192	2023/02/10	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 0호점 수정  / #changelist 유효성 검사 완료
+119129	2023/02/09	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 0호점 수정  / #changelist 유효성 검사 완료
+119081	2023/02/09	Design_Seokwan_work	[손석완][레벨] 올드타운 레벨가이드 추가
+118982	2023/02/09	Design_Seokwan_work	[손석완][레벨] 최북단 버려진 유적지 초안  / #changelist 유효성 검사 완료
+118810	2023/02/08	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 연출 잔도 위치 조정
+118768	2023/02/08	Design_Seokwan_work	[손석완][최북단] 가이드 액터 수정
+118743	2023/02/08	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비메시 갱신
+118732	2023/02/08	Design_Seokwan_work	[손석완][레벨] 그리핀 던전에 쪼개지는 오크통 배치(가안)
+118700	2023/02/08	Design_Seokwan_work	[손석완][레벨] 최북단 가이드 액터 추가
+118620	2023/02/07	Design_Seokwan_work	[손석완][레벨] 최북단 가이드 액터 추가
+118617	2023/02/07	Design_Seokwan_work	[손석완][레벨] 최북단 가이드 액터 수정 -  일부 지역 수정
+118399	2023/02/07	Design_Seokwan_work	[손석완][레벨] 최북단 목업 수정
+118388	2023/02/07	Design_Seokwan_work	[손석완] 최북단 목업 수정
+118342	2023/02/06	Design_Seokwan_work	[손석완][레벨] 아웃라이너 정리 / #changelist 유효성 검사 완료
+118114	2023/02/06	Design_Seokwan_work	[손석완][레벨] 그리핀, 테스트맵01 - 부서지는 오크통 추가
+118014	2023/02/03	Design_Seokwan_work	[손석완] 파괴형 가젯 목책으로 변경
+118013	2023/02/03	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 시작지점 변경
+117514	2023/02/02	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 부서지는 나무 제거
+117501	2023/02/02	Design_Seokwan_work	[손석완][레벨] 서버 컬리전을 위한 컬리전 변경 처리
+117458	2023/02/01	Design_Seokwan_work	[손석완][레벨] 서버 컬리전을 위한 컬리전 정리
+117353	2023/02/01	Design_Seokwan_work	[손석완][가젯] 그리핀 던전에 파괴형 가젯 추가
+117270	2023/02/01	Design_Seokwan_work	[손석완][레벨] 기획용 액터들 안 나오게 처리
+117269	2023/02/01	Design_Seokwan_work	[손석완][레벨] 기획용 액터들 안 나오게 처리
+117055	2023/01/31	Design_Seokwan_work	[손석완][레벨] 최북단 목업 작업중
+117021	2023/01/30	Design_Seokwan_work	[손석완][레벨] 최북단 목업 작업중
+116900	2023/01/30	Design_Seokwan_work	[손석완][레벨] 최북단 목업 작업중
+116802	2023/01/27	Design_Seokwan_work	[손석완][레벨] 최북단 목업 작업 중
+116600	2023/01/26	Design_Seokwan_work	[손석완][레벨] 최북단 목업 제작 중
+116427	2023/01/25	Design_Seokwan_work	[손석완][레벨] 최북단 목업 작업 중
+116291	2023/01/25	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 내비 업데이트
+115997	2023/01/19	Design_Seokwan_work	[손석완][레벨] 최북단 목업 작업 중
+115943	2023/01/19	Design_Seokwan_work	[손석완][레벨] 랜드스케이프 hlod 액터에 포함 체크
+115875	2023/01/19	Design_Seokwan_work	[손석완][레벨] 최북단 목업 작업 중
+115773	2023/01/19	Design_Seokwan_work	[손석완] 그리핀던전 메시 없는 액터 삭제
+115721	2023/01/18	Design_Seokwan_work	[손석완][레벨] 에러나는 GC 액터 제거
+115711	2023/01/18	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 서버 컬리전 파일 추가
+115671	2023/01/18	Design_Seokwan_work	[손석완][레벨] 그리핀 불 안나오게
+115669	2023/01/18	Design_Seokwan_work	[손석완][레벨] 그리핀 디렉셔널 라이트 추가
+115566	2023/01/18	Design_Seokwan_work	[손석완][가젯] 파괴형 가젯 테스트용으로 추가
+115558	2023/01/18	Design_Seokwan_work	[손석완][가젯] 파괴형 가젯 테스트용으로 추가
+115379	2023/01/17	Design_Seokwan_work	[손석완][가젯] npc 테이블 > Define에 DestroyProp 컬럼 내역 추가
+114975	2023/01/13	Design_Seokwan_work	[손석완][가젯] 물리파괴 가젯의 위치 변경
+114897	2023/01/12	Design_Seokwan_work	[손석완] npc 테이블에 프랍 파괴 컬럼 추가
+114729	2023/01/11	Design_Seokwan_work	[손석완][가젯] 테스트용 물리 파괴 가젯 추가
+114240	2023/01/06	Design_Seokwan_work	[손석완][레벨] 버려진 유적 6호점 정리
+114239	2023/01/06	Design_Seokwan_work	[손석완][가젯] 버려진 유적 가젯 배치 변경
+114128	2023/01/05	Design_Seokwan_work	[손석완][레벨] 버려진 유적 01 정리
+114127	2023/01/05	Design_Seokwan_work	[손석완][가젯] 버려진 유적 01 보물 상자 추가
+114111	2023/01/05	Design_Seokwan_work	[손석완][가젯] 버려진 유적 02 수정
+114101	2023/01/05	Design_Seokwan_work	[손석완][레벨] 버려진 유적 1호점 정리
+114036	2023/01/05	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 02 정리 - 주변 랜드스케이프
+114024	2023/01/05	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 02 정리
+114022	2023/01/05	Design_Seokwan_work	[손석완][가젯] 버려진 유적지 2호점 가젯 배치 변경
+114000	2023/01/04	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 02 정리
+113992	2023/01/04	Design_Seokwan_work	[손석완][가젯] 버려진 유적지 2호점 가젯 배치 변경
+113746	2023/01/02	Design_Seokwan_work	[손석완][가젯] 버려진 유적지 2호점 - 잡화 가젯 배치
+113712	2023/01/02	Design_Seokwan_work	[손석완][가젯] 버려진 유적 1호점 잡화 가젯 배치
+113688	2023/01/02	Design_Seokwan_work	[손석완][가젯] 버려진 유적 6호점 잡화 배치
+113598	2023/01/02	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 6호점 잡화 배치
+113519	2022/12/30	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 6호점 벽화 및 조각 위치 변경
+113299	2022/12/29	Design_Seokwan_work	[손석완][레벨] 버려진 유적 1호점, 2호점 수정
+113215	2022/12/29	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 6호점 작업 및 아웃라이너 정리
+113102	2022/12/28	Design_Seokwan_work	[손석완][레벨] 버려진 유적 6호점 지하실 들어갈 때 프랍 안 보이게 처리
+113076	2022/12/28	Design_Seokwan_work	[손석완][레벨] 버려진 유적 1호점 플레이어블 하게 프랍 교체
+113002	2022/12/28	Design_Seokwan_work	[손석완][레벨] 버려진 유적 2호점 수정
+112849	2022/12/28	Design_Seokwan_work	[손석완][가젯] 스위치 가젯의 최대조작 횟수, 조작 쿨타임 테스트용으로 변경
+112368	2022/12/22	Design_Seokwan_work	[손석완][레벨] 버려진 유적 2호점 수정
+112323	2022/12/22	Design_Seokwan_work	[손석완][레벨] 버려진 유적 2호점, 6호점 수정
+112253	2022/12/22	Design_Seokwan_work	[손석완][레벨] 버려진 유적 2호점 수정
+112235	2022/12/22	Design_Seokwan_work	[손석완][레벨] 버려진 유적의 특수이동 액터 런타임 그리드 수정
+112219	2022/12/21	Design_Seokwan_work	[손석완][레벨] 버려진유적 2호점 수정
+112138	2022/12/21	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 6호점
+112136	2022/12/21	Design_Seokwan_work	[손석완][레벨] 임시 폴리지 타입 삭제
+112123	2022/12/21	Design_Seokwan_work	[손석완][레벨] 임시 폴리지 타입 삭제
+112029	2022/12/21	Design_Seokwan_work	[손석완][레벨] 메시 없는 액터 삭제
+112012	2022/12/21	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 2호점 수정
+111905	2022/12/20	Design_Seokwan_work	[손석완][가젯] 스위치 가젯 재사용 시간 10초로 설정
+111823	2022/12/20	Design_Seokwan_work	[손석완][레벨] 버려진 유적에 레퍼런스 없는 BridgeEdge 삭제, 메시 없는 액터들 삭제
+111816	2022/12/20	Design_Seokwan_work	[손석완][레벨] 특수이동 런타임그리드 수정
+111815	2022/12/20	Design_Seokwan_work	[손석완][레벨] 특수이동 런타임그리드 수정
+111764	2022/12/19	Design_Seokwan_work	[손석완][레벨] 버려진 유적 2호점
+111678	2022/12/19	Design_Seokwan_work	[손석완][가젯] 문 가젯의 타입 변경
+111491	2022/12/16	Design_Seokwan_work	[손석완][가젯] 스위치 가젯의 skm 변경
+111466	2022/12/16	Design_Seokwan_work	[손석완][가젯] 스위치 가젯 테스트용 데이터
+111455	2022/12/16	Design_Seokwan_work	[손석완][가젯] 스위치 테스트용 가젯 SKM 늑대로 변경
+111361	2022/12/15	Design_Seokwan_work	[손석완][레벨] 버려진 유적 2호점 이동
+111327	2022/12/15	Design_Seokwan_work	[손석완][레벨] 버려진 유적 리뉴얼 1호점
+111109	2022/12/14	Design_Seokwan_work	[손석완][가젯] 스위치 가젯 테스트용 제작
+110914	2022/12/12	Design_Seokwan_work	[손석완][레벨] 버려진유적지 리뉴얼 1호점 추가
+110891	2022/12/12	Design_Seokwan_work	[손석완][가젯] 그리핀 던전용 가젯 데이터 추가
+110660	2022/12/09	Design_Seokwan_work	[손석완][레벨] 점령된 거주지 위치 지정
+110659	2022/12/09	Design_Seokwan_work	[손석완][레벨] 버려진 유적지 1호점 백업
+110327	2022/12/07	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 수정 - 외곽 단 높이 및 거리 조정
+110188	2022/12/07	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 수정 - 외곽 단 높이 및 거리 조정
+109995	2022/12/05	Design_Seokwan_work	[손석완][레벨] 그리핀 목업 수정 - 파괴형 프랍 조성
+109900	2022/12/05	Design_Seokwan_work	[손석완][레벨] 블로킹볼륨 정리, 가이드 액터 추가
+109773	2022/12/02	Design_Seokwan_work	[손석완][레벨] 윈터펠 지역 블로킹볼륨 정리
+109727	2022/12/02	Design_Seokwan_work	[손석완][레벨] 윈터펠 지역 블로킹볼륨 정리
+108566	2022/11/22	Design_Seokwan_work	[손석완][레벨] 그리핀 목업 수정 - 잔도 정리, 철문 변경
+108468	2022/11/22	Design_Seokwan_work	[손석완][기억의제단] 그리핀 던전 등록
+108287	2022/11/21	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 수정 - 레버 추가
+107385	2022/11/14	Design_Seokwan_work	[손석완] 경사도 체크용 머티리얼 등록
+107036	2022/11/10	Design_Seokwan_work	[손석완][레벨] 목업에 그리핀 추가
+107000	2022/11/10	Design_Seokwan_work	[손석완][레벨] 맵 파일 이름 변경
+106984	2022/11/10	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 수정
+106923	2022/11/10	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 수정
+106913	2022/11/10	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 수정
+106842	2022/11/09	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 수정
+106785	2022/11/09	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 수정
+106291	2022/11/04	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 수정
+105478	2022/10/31	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 레벨 수정
+105205	2022/10/27	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 레벨 수정
+104951	2022/10/26	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 레벨 추가
+104894	2022/10/25	Design_Seokwan_work	[손석완][레벨] 그리핀 던전 목업 레벨 경로 수정
+103267	2022/10/13	Design_Seokwan_work	[손석완][레벨] 레난스레스트에 캐릭터 빠지는 지점 수정
+102596	2022/10/12	Design_Seokwan_work	[손석완][Trunk=>QA] @102573 [레벨] 캐릭터 빠지는 지형 수정
+102573	2022/10/12	Design_Seokwan_work	[손석완][레벨] 캐릭터 빠지는 지형 수정
+101674	2022/10/07	Design_Seokwan_work	[손석완][Trunk=>QA] @101669 [레벨] 레난스레스트 블로킹 볼륨 배치
+101669	2022/10/07	Design_Seokwan_work	[손석완][레벨]레난스레스트 경계지역 블로킹 볼륨 배치
+99176	2022/09/29	Design_Seokwan_work	[손석완][레벨] 경사로에서 미끄러지는 데 드는 딜레이 시간 단축
+99084	2022/09/29	Design_Seokwan_work	[손석완][레벨] 경계선 처리
+99038	2022/09/29	Design_Seokwan_work	[손석완][레벨] 미끄러지기 경사로 조정
+98898	2022/09/28	Design_Seokwan_work	[손석완][레벨]경사로 미끄러지기 변수 수정
+98877	2022/09/28	Design_Seokwan_work	[손석완][레벨] 경계선 경사로 처리
+98670	2022/09/28	Design_Seokwan_work	[손석완][레벨] 테스트레벨 내비
+98669	2022/09/28	Design_Seokwan_work	[손석완][레벨] 경사로 테스트맵 수정
+98661	2022/09/28	Design_Seokwan_work	[손석완][레벨] 미끄러지기 테스트용 경사로 수정
+98659	2022/09/28	Design_Seokwan_work	[손석완][레벨] 미끄러지기 테스트용 경사로 추가
+98614	2022/09/28	Design_Seokwan_work	[손석완][레벨] 미끄러지기 각도 등 변수 수정
+98486	2022/09/27	Design_Seokwan_work	[손석완][레벨] 경계선 처리 작업
+98233	2022/09/27	Design_Seokwan_work	[손석완][레벨] 미끄러지기 딜레이 수정

@@ -1,0 +1,598 @@
+key	created	updated	type	status	role	assignee	reporter	labels	components	parent	summary
+PROJECTT-7421	2022-08-31	2025-06-18	Story	DONE	현담당	seokwan	juna	특수지형이동	Design		[월드][레벨] 45도 이상의 경사 지형에 대한 PC 반응 구현
+PROJECTT-7555	2022-09-13	2025-06-18	Sub-Task	DONE	보고자	jongjin	seokwan		Client	PROJECTT-7421	[월드][클라] 45도 이상의 지형에서 미끄러지는 기초 동작 구현
+PROJECTT-7556	2022-09-13	2025-06-18	Sub-Task	DONE	보고자	dowan	seokwan	특수지형이동	Client	PROJECTT-7694	[월드][클라] Slide Volume 기능 구현
+PROJECTT-7557	2022-09-13	2025-06-18	Sub-Task	DONE	보고자	gyeongjong	seokwan		Animation	PROJECTT-7421	[월드][애니] 경사로에서 미끄러지는 모션 제작
+PROJECTT-7563	2022-09-14	2025-06-18	Sub-Task	DONE	보고자	taekyun	seokwan	특수지형이동		PROJECTT-7694	[월드][클라] 추락 후 경사로에 착지할 경우 구르기 동작 구현
+PROJECTT-7564	2022-09-14	2025-06-18	Sub-Task	DONE	보고자	jongjin	seokwan	특수지형이동	Client	PROJECTT-7694	[월드][클라] 걷기 경사도 구현
+PROJECTT-7597	2022-09-16	2025-06-18	Sub-Task	To Do	보고자	dowan	seokwan	특수지형이동	Client	PROJECTT-7694	[월드][클라] 45도 이상의 지형에서 미끄러지는 심화 동작 구현
+PROJECTT-7694	2022-09-26	2025-06-18	Story	DONE	과거담당	bohyeon	juna	특수지형이동	Design		[월드][레벨] 45도 이상의 경사 지형에 대한 PC 반응 구현 - 후속 처리
+PROJECTT-7758	2022-09-29	2025-06-18	Sub-Task	To Do	보고자	dowan	seokwan	특수지형이동	Client	PROJECTT-7694	[월드][클라] 45도 이상의 계단에 대한 예외 처리
+PROJECTT-7809	2022-10-05	2025-06-18	Task	DONE	보고자	dowan	seokwan		Client		캐릭터의 현재 좌표 복사 및 붙여넣기 기능
+PROJECTT-7913	2022-10-12	2025-06-18	Bug	DONE	보고자	joonhyung	seokwan	아트기반시스템	TA		[TA] 가끔씩 PC 옆에 반투명 그림자가 생기는 문제
+PROJECTT-7986	2022-10-18	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	NPC_그리핀,기억의제단	Design	PROJECTT-8468	[레벨] 그리핀 던전 레벨 기획
+PROJECTT-8098	2022-10-20	2025-06-18	Story	DONE	보고자	chanhyun	seokwan	콘텐츠기반	Design		[월드] 레벨 기믹을 위한 트리거 시스템 개발
+PROJECTT-8132	2022-10-24	2025-06-18	Task	DONE	보고자	seungho.park	seokwan	아트기반시스템	Client		[월드][클라] 에디터에서 미끄러지기 경사도를 표시해주는 기능
+PROJECTT-8468	2022-11-22	2025-06-18	Story	DONE	현담당	seokwan	seokwan	NPC_그리핀,기억의제단	Design		[던전] 기억의 제단 그리핀 던전 제작 #1
+PROJECTT-8469	2022-11-22	2025-06-18	Sub-Task	DONE	현담당	seokwan	seokwan	NPC_그리핀,기억의제단	Design	PROJECTT-8468	[레벨] 그리핀 던전 기능 기획
+PROJECTT-8585	2022-12-01	2025-06-18	Sub-Task	DONE	현담당	seokwan	juna	북부_1.2_윈터펠,위기의성소,점령된구역,컨텐츠제작	Design	PROJECTT-8584	[월드][컨텐츠] 윈터펠 지역 추가 컨텐츠 배치 설계
+PROJECTT-8586	2022-12-01	2025-06-18	Sub-Task	DONE	현담당	seokwan	juna	북부_1.2_윈터펠,컨텐츠제작,콘텐츠신규/추가	Design	PROJECTT-8584	[월드][컨텐츠] 버려진 유적지 대체 컨셉 반영된 공간 구성 완료
+PROJECTT-8685	2022-12-08	2025-06-18	Story	DONE	현담당	seokwan	seokwan	NPC_그리핀,기억의제단,레벨디자인	Design		[던전] 기억의 제단 그리핀 던전 제작 #2
+PROJECTT-8711	2022-12-08	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,버려진유적지,북부_1.2_윈터펠	Design	PROJECTT-9074	[1.2.][윈터펠][레벨] 버려진 유적지 제작
+PROJECTT-8670	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	jinjunhyuk	seokwan	NPC_그리핀,기억의제단	Client	PROJECTT-8685	[클라] 그리핀던전 - PC 카메라 프리셋 추가 방식 개선
+PROJECTT-8671	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	jongjin	seokwan	NPC_그리핀,기억의제단	Client	PROJECTT-8468	[클라] 그리핀던전 - 기본형 스위치 가젯 BP 개발
+PROJECTT-8672	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	dujin.jeong	seokwan	NPC_그리핀,기억의제단	Server	PROJECTT-8468	[서버] 그리핀던전 - 기본형 스위치 가젯 BP 개발
+PROJECTT-8673	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	jinjunhyuk	seokwan	NPC_그리핀,기억의제단	Client	PROJECTT-8685	[클라] 물리에 의한 프랍 파괴
+PROJECTT-8674	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	dujin.jeong	seokwan	NPC_그리핀,기억의제단	Server	PROJECTT-8685	[서버] 물리에 의한 프랍 파괴
+PROJECTT-8675	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	yongsoon	seokwan	NPC_그리핀,기억의제단	Client	PROJECTT-8685	[클라] 그리핀던전 - 자연스러운 FX 재생 기능
+PROJECTT-8677	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	dujin.jeong	seokwan	NPC_그리핀,기억의제단	Server	PROJECTT-8468	[서버] 그리핀던전 - 각종 Action 스크립트 개발
+PROJECTT-8678	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	eunsol	seokwan	NPC_그리핀,기억의제단	BG	PROJECTT-8685	[배경] 그리핀던전 레벨 제작
+PROJECTT-8679	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	nayoung	seokwan	NPC_그리핀,기억의제단,프랍	BG,프랍	PROJECTT-8685	[배경] 그리핀던전 - 기믹용 프랍 제작
+PROJECTT-8680	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	junghwan	seokwan	NPC_그리핀,기억의제단	Effect	PROJECTT-8685	[이펙트] 그리핀던전 - 기믹 및 연출용 이펙트 제작
+PROJECTT-8681	2022-12-08	2025-06-18	Sub-Task	DONE	보고자	sanghyeok.lee	seokwan	NPC_그리핀,기억의제단	Animation	PROJECTT-8685	[애니] 그리핀던전 - 기믹용 프랍 애니 및 PC 애니 제작
+PROJECTT-8727	2022-12-09	2025-06-18	Sub-Task	DONE	보고자	dowan	seokwan	NPC_그리핀,기억의제단	Client	PROJECTT-8685	[클라] 그리핀던전 - 잔도 파괴 연출
+PROJECTT-9004	2023-01-02	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9132	[2.2.][올드타운][레벨] B구역 필드 목업 #S1
+PROJECTT-9072	2023-01-04	2025-06-18	Story	DONE	현담당	seokwan	sungmin.jung	레벨디자인,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼	Design		[1.1.][최북단][레벨] 평면도/레벨 기획서 제작
+PROJECTT-9082	2023-01-04	2025-06-18	Story	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design		[2.2.][올드타운][레벨] 평면도/레벨 기획서 제작
+PROJECTT-9132	2023-01-05	2025-06-18	Story	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design		[2.2.][올드타운][레벨] 레벨 목업 제작
+PROJECTT-9154	2023-01-09	2025-06-18	Story	DONE	현담당	seokwan	sungmin.jung	레벨디자인,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼	Design		[1.1.][최북단][레벨] 레벨 목업 제작
+PROJECTT-9176	2023-01-10	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼	Design	PROJECTT-9154	[1.1.][최북단][레벨] 메인 퀘스트 #1 영역 목업 제작
+PROJECTT-9177	2023-01-10	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼	Design	PROJECTT-9154	[1.1.][최북단][레벨] 서브 퀘스트 #1 영역 목업 제작
+PROJECTT-9178	2023-01-10	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,버려진유적지,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼	Design	PROJECTT-9154	[1.1.][최북단][레벨] 필드 컨텐츠 "버려진 유적지" 영역 목업 제작
+PROJECTT-9179	2023-01-10	2025-06-18	Sub-Task	DONE	과거담당	jieun.kwon	sungmin.jung	레벨디자인,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼	Design	PROJECTT-9154	[1.1.][최북단][레벨] 실내 제작 - 레난스 레스트 영접실
+PROJECTT-9180	2023-01-10	2023-10-20	Task	To Do	보고자	dowan	seokwan	콘텐츠작업환경개선	Client		[툴] 에디터에서 위치 기록 기능 개선
+PROJECTT-9209	2023-01-11	2025-06-18	Sub-Task	DONE	현담당	seokwan	seokwan	레벨디자인,북부_1.1_라스트허스,연기나는오두막,최북단_1.1.인트로튜토리얼	Design	PROJECTT-9154	[1.1.][최북단][레벨] 필드 컨텐츠 - 연기나는 오두막 목업 제작
+PROJECTT-9210	2023-01-11	2025-06-18	Sub-Task	DONE	현담당	seokwan	seokwan	레벨디자인,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼,흉포한동물	Design	PROJECTT-9154	[1.1.][최북단][레벨] 필드 컨텐츠 - 흉포한 동물
+PROJECTT-9208	2023-01-11	2026-02-20	Sub-Task	DONE	과거담당	jieun.kwon	sungmin.jung	레벨디자인,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼,프롤로그	Design	PROJECTT-9154	[1.1.][최북단][레벨] 실내 제작 - 라스트허스 영접실
+PROJECTT-9298	2023-01-13	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼	Design	PROJECTT-9154	[1.1.][최북단][레벨] 레벨디자인 지역 구조 제안
+PROJECTT-9384	2023-01-17	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,버려진유적지,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼	Design	PROJECTT-9154	[1.1.][최북단][레벨] 필드 구성 "퀸즈 크라운" 영역 목업 제작
+PROJECTT-9387	2023-01-17	2025-06-18	Sub-Task	DONE	과거담당	jieun.kwon	sungmin.jung	레벨디자인,최북단_1.1.인트로튜토리얼	Design	PROJECTT-9072	[1.1.~1.4.][북부][레벨] 북부 지역 평면도 갱신 #2
+PROJECTT-9502	2023-01-27	2026-02-20	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,최북단_1.1.인트로튜토리얼,프롤로그	Design	PROJECTT-9072	[1.1.][최북단][레벨] 레벨 기획서 제작
+PROJECTT-9520	2023-01-31	2023-08-17	Sub-Task	DONE	보고자	joonhyung	seokwan	아트기반시스템	TA	PROJECTT-8685	[TA] 나무 프랍을 Fracture 하였을 때 나뭇잎 메시의 머티리얼이 정상적으로 나오게 처리
+PROJECTT-9609	2023-02-06	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9082	[2.2.][올드타운][레벨] 평면도 1차 갱신 (퀘스트 및 주요 필드 컨텐츠)
+PROJECTT-9659	2023-02-08	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9082	[2.2.][올드타운][레벨] 평면도 2차 갱신 (일반 필드 컨텐츠 구역)
+PROJECTT-9664	2023-02-08	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9082	[2.2.][올드타운][레벨] 레벨 기획서 제작
+PROJECTT-9665	2023-02-08	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9082	[2.2.][올드타운][레벨] 평면도 최종
+PROJECTT-9682	2023-02-09	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치,리치_2.1_올드타운	Design	PROJECTT-9082	[2.2.][올드타운][레벨] 리치 지역 환경 설정 기획서 작성
+PROJECTT-9693	2023-02-10	2023-08-17	Sub-Task	DONE	현담당	seokwan	seokwan	NPC_그리핀,기억의제단	Design	PROJECTT-8685	[기획] 파괴형 프랍 가젯 등록 및 배치 작업
+PROJECTT-9795	2023-02-14	2023-08-17	Sub-Task	DONE	현담당	seokwan	seokwan	NPC_그리핀,기억의제단,연출	Design	PROJECTT-8685	[기획] 등장 연출 작업
+PROJECTT-9807	2023-02-14	2023-08-17	Sub-Task	DONE	현담당	seokwan	seokwan	NPC_그리핀,기억의제단	Design	PROJECTT-8685	[기획] 그리핀 던전 연출 제작 대응
+PROJECTT-9789	2023-02-14	2023-08-17	Sub-Task	DONE	보고자	hoon2to	seokwan	NPC_그리핀,기억의제단,연출	Client	PROJECTT-8685	[클라] 그리핀 등장 연출 중 잠시 안 보이는 현상 해결
+PROJECTT-9895	2023-02-17	2023-08-17	Sub-Task	DONE	보고자	nangman05	seokwan	NPC_그리핀,기억의제단	Client	PROJECTT-8685	[클라] 연출용 잔도가 카메라 각도에 따라 안 나오는 문제 해결
+PROJECTT-9981	2023-02-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9132	[2.2.][올드타운][레벨] B구역 필드 목업 #S2
+PROJECTT-9982	2023-02-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9132	[2.2.][올드타운][레벨] B구역 필드 목업 #S3
+PROJECTT-9983	2023-02-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9132	[2.2.][올드타운][레벨] B구역 필드 목업 #S4
+PROJECTT-9984	2023-02-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9132	[2.2.][올드타운][레벨] B구역 필드 목업 #S5
+PROJECTT-9986	2023-02-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운,버려진유적지	Design	PROJECTT-12568	[2.1.][올드타운][레벨] B구역 필드 컨텐츠-버려진 유적지 1호(리치)
+PROJECTT-9987	2023-02-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운,버려진유적지	Design	PROJECTT-12568	[2.1.][올드타운][레벨] B구역 필드 컨텐츠-버려진 유적지 2호(리치)
+PROJECTT-9988	2023-02-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운,버려진유적지	Design	PROJECTT-12568	[2.1.][올드타운][레벨] B구역 필드 컨텐츠-버려진 유적지 3호(리치)
+PROJECTT-9991	2023-02-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운,세력은신처	Design	PROJECTT-9132	[2.2.][올드타운][레벨] B구역 필드 컨텐츠-세력 은신처
+PROJECTT-9997	2023-02-21	2025-06-18	Task	DONE	과거담당	jieun.kwon	sungmin.jung	레벨디자인,리치_2.2_브라이트워터킵	Design		[2.2.][브라이트워터킵][레벨] 평면도/레벨 기획서 제작
+PROJECTT-10036	2023-02-22	2025-06-18	Task	DONE	과거담당	jieun.kwon	sungmin.jung	레벨디자인,리치_2.2_브라이트워터킵	Design		[2.2.][브라이트워터킵][레벨] 레벨 목업 제작
+PROJECTT-10049	2023-02-22	2026-02-20	Task	DONE	과거담당	seunguk	sungmin.jung	레벨디자인,프롤로그	Design		[1.0.][인트로][레벨] 장벽너머 튜토리얼 레벨디자인
+PROJECTT-10054	2023-02-22	2025-06-18	Sub-Task	DONE	과거담당	seunguk	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9132	[2.2.][올드타운][레벨] 성/마을 및 필드 실내 구성
+PROJECTT-10073	2023-02-23	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9132	[2.2.][올드타운] A구역 올드타운 시타델 내부 목업
+PROJECTT-10138	2023-02-23	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-9082	[2.2.][올드타운][레벨] 레벨 기획서 1차 제작
+PROJECTT-10143	2023-02-23	2025-06-18	Sub-Task	DONE	보고자	jinjunhyuk	seokwan	NPC_그리핀,기억의제단	Client	PROJECTT-8685	[클라] 파괴형 프랍에 FX추가
+PROJECTT-10146	2023-02-24	2025-06-18	Task	DONE	보고자	jinjunhyuk	seokwan	NPC_그리핀,기억의제단,사운드시스템,프랍	Client		[클라] 파괴형 프랍에 사운드 추가
+PROJECTT-10243	2023-03-06	2025-06-18	Sub-Task	DONE	보고자	minhee	seokwan	NPC_그리핀,기억의제단	Design	PROJECTT-8685	[기획] 그리핀 던전 컨셉 설명용 쪽지 가젯 제작
+PROJECTT-10244	2023-03-06	2025-06-18	Sub-Task	DONE	보고자	kyeonghun	seokwan	NPC_그리핀,기억의제단	Design	PROJECTT-8685	[기획] 그리핀 던전 컨셉 설명용 쪽지 내용 작성
+PROJECTT-10353	2023-03-13	2023-08-17	Sub-Task	DONE	보고자	jongjin	seokwan	NPC_그리핀,기억의제단,레벨디자인,콘텐츠기반	Client	PROJECTT-8685	[클라] 스위치 가젯 개선 작업
+PROJECTT-10354	2023-03-13	2023-08-17	Sub-Task	DONE	보고자	jongjin	seokwan	가젯,콘텐츠기반	Client	PROJECTT-8685	[클라] 스위치 가젯에서 카메라 독립화
+PROJECTT-10512	2023-03-21	2023-08-17	Sub-Task	DONE	보고자	jongjin	seokwan	NPC_그리핀,가젯,기억의제단	Client	PROJECTT-8685	[클라] 스위치 가젯 반복 사용 가능하게 개선
+PROJECTT-10545	2023-03-23	2023-08-17	Sub-Task	DONE	보고자	joonhyung	seokwan	NPC_그리핀,기억의제단	TA	PROJECTT-8685	[TA] 텐트 지오메트리 컬렉션이 이상하게 나오는 문제 개선
+PROJECTT-10546	2023-03-23	2023-08-17	Sub-Task	DONE	보고자	joonhyung	seokwan	NPC_그리핀,기억의제단	TA	PROJECTT-8685	[TA] 잔도가 몽타주 이후 일부만 사라지게 하는 구현
+PROJECTT-10578	2023-03-24	2023-08-17	Sub-Task	DONE	보고자	seyhun1987	seokwan	기억의제단,사운드	Sound	PROJECTT-8685	[사운드] 기억의 제단 - 그리핀 (레벨)
+PROJECTT-10640	2023-03-28	2023-08-17	Sub-Task	DONE	보고자	jinjunhyuk	seokwan	기억의제단	Client	PROJECTT-8685	[클라] 파괴형 프랍이 파괴되지 않고 사라져버리는 현상 수정
+PROJECTT-10681	2023-03-30	2023-08-17	Sub-Task	DONE	보고자	dujin.jeong	seokwan	NPC_그리핀,기억의제단	Server	PROJECTT-8685	[서버] 파괴형 프랍이 몬스터와 닿지 않았을 때 파괴되는 현상 최소화
+PROJECTT-10689	2023-03-30	2023-08-17	Sub-Task	DONE	보고자	hoon2to	seokwan	NPC_그리핀,기억의제단	Client	PROJECTT-8685	[클라] 그리핀이 등장 연출과정에서 렌더링이 안되는 문제
+PROJECTT-10720	2023-03-31	2023-08-17	Task	DONE	과거담당	jinjunhyuk	jisung	사운드,프랍	Client		[사운드] 파괴가능 프랍관련 사운드 기능 개선
+HELPDESK-38014	2023-04-04	2023-04-04	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4,5 시원하게 해주세요.
+PROJECTT-10811	2023-04-04	2023-08-17	Sub-Task	DONE	보고자	jinjunhyuk	seokwan	프랍	Client	PROJECTT-8685	[클라] 파괴형 프랍 파괴 사운드 안 나는 현상 수정
+PROJECTT-10981	2023-04-12	2023-08-17	Bug	DONE	보고자	jongjin	seokwan	가젯	Client		[클라] 스위치 가젯 조작 시 캐릭터가 왔다갔다 하는 움직임
+PROJECTT-11351	2023-04-24	2025-06-18	Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design		[2.3.][하이가든][레벨] 평면도/레벨 기획서 제작
+PROJECTT-11355	2023-04-24	2025-06-18	Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design		[2.3.][하이가든][레벨] 레벨 목업 제작
+PROJECTT-11365	2023-04-24	2025-06-18	Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트	Design		[3.3.][크로우즈네스트][레벨] 평면도/레벨 기획서 제작 (리뉴얼)
+PROJECTT-11386	2023-04-24	2025-06-18	Story	DONE	현담당	seokwan	sungmin.jung	레벨디자인	Design		[월드][레벨] 레벨 관련 이동 기믹 추가 구현 기획
+PROJECTT-11366	2023-04-24	2025-06-18	Task	DONE	과거담당	sungmin.jung	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트	Design		[3.3.][크로우즈네스트][레벨] 레벨 목업 제작 (리뉴얼)
+PROJECTT-11417	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design	PROJECTT-11351	[2.3.][하이가든][레벨] 평면도 1차 제작
+PROJECTT-11418	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design	PROJECTT-11351	[2.3.][하이가든][레벨] 평면도 최종
+PROJECTT-11419	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design	PROJECTT-11351	[2.3.][하이가든][레벨] 레벨 기획서 1차 제작
+PROJECTT-11420	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design	PROJECTT-11351	[2.3.][하이가든][레벨] 레벨 기획서 최종
+PROJECTT-11421	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design	PROJECTT-11355	[2.3.][하이가든][레벨] 필드 목업 1차
+PROJECTT-11422	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design	PROJECTT-11355	[2.3.][하이가든][레벨] 필드 목업 2차
+PROJECTT-11424	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design	PROJECTT-11355	[2.3.][하이가든][레벨] 성/마을 목업 1차
+PROJECTT-11425	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design	PROJECTT-11355	[2.3.][하이가든][레벨] 성/마을 목업 2차
+PROJECTT-11446	2023-04-25	2025-06-18	Sub-Task	DONE	과거담당	seunguk	sungmin.jung	레벨디자인,리치_2.3_하이가든,세력은신처	Design	PROJECTT-12628	[2.3.][하이가든][레벨] 필드 컨텐츠-세력 은신처
+PROJECTT-11447	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트	Design	PROJECTT-11365	[3.3.][크로우즈네스트][레벨] 평면도 1차 제작
+PROJECTT-11448	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트	Design	PROJECTT-11365	[3.3.][크로우즈네스트][레벨] 평면도 최종
+PROJECTT-11449	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트	Design	PROJECTT-11365	[3.3.][크로우즈네스트][레벨] 레벨 기획서 1차 제작
+PROJECTT-11450	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트	Design	PROJECTT-11365	[3.3.][크로우즈네스트][레벨] 레벨 기획서 최종
+PROJECTT-11451	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트	Design	PROJECTT-11366	[3.3.][크로우즈네스트][레벨] 필드 목업 1차 (리뉴얼)
+PROJECTT-11452	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트	Design	PROJECTT-11366	[3.3.][크로우즈네스트][레벨] 필드 목업 2차 (리뉴얼)
+PROJECTT-11454	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트	Design	PROJECTT-11366	[3.3.][크로우즈네스트][레벨] 성/마을 목업 1차
+PROJECTT-11455	2023-04-25	2025-06-18	Sub-Task	DONE	과거담당	seunguk	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트	Design	PROJECTT-11366	[3.3.][크로우즈네스트][레벨] 성/마을 목업 2차
+PROJECTT-11456	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,세력은신처,스톰랜드_3.3_크로우즈네스트	Design	PROJECTT-11366	[3.3.][크로우즈네스트][레벨] 필드 컨텐츠-세력 은신처
+PROJECTT-11462	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,스톰랜드_3.3_크로우즈네스트,위기의성소	Design	PROJECTT-11366	[3.3.][크로우즈네스트][레벨] 필드 컨텐츠-위기의 성소
+PROJECTT-11463	2023-04-25	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든,위기의성소	Design	PROJECTT-12628	[2.3.][하이가든][레벨] 필드 컨텐츠-위기의 성소
+PROJECTT-11747	2023-05-16	2025-06-18	Story	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운,버려진유적지	Design		[월드][레벨] 버려진 유적지 제작_올드타운
+PROJECTT-11848	2023-05-22	2023-08-17	Task	DONE	보고자	jinjunhyuk	seokwan		Client		[클라] 파괴형 프랍과 앵커 필드의 연결
+PROJECTT-11864	2023-05-23	2025-06-18	Task	DONE	보고자	donghwa	seokwan	탈것	Client		[클라] 로컬모드에서도 말을 탈 수 있는 기능 요청
+PROJECTT-11898	2023-05-24	2023-08-17	Task	DONE	현담당	seokwan	seokwan	NPC_그리핀,기억의제단	Design		[기획] 그리핀 던전 잔도 가젯에 불 FX 부착 작업
+PROJECTT-11971	2023-05-30	2023-08-17	Sub-Task	DONE	보고자	taewoong	seokwan		Effect	PROJECTT-9574	[이펙트] 최북단 환경셋 2종 추가
+PROJECTT-12160	2023-06-15	2023-08-17	Task	DONE	현담당	seokwan	seokwan		Design		[기획] 최북단 레벨 라인 근처에 환경 볼륨 추가 및 적용
+HELPDESK-42987	2023-06-19	2023-06-19	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4,5 시원하게 해주세요.
+PROJECTT-12568	2023-07-04	2025-06-18	Task	DONE	현담당	seokwan	sungmin.jung	리치_2.1_올드타운,버려진유적지,위기의성소,위어우드의기억	Design		[2.1.][올드타운][레벨] 레벨 기반 필드 컨텐츠 제작
+PROJECTT-12590	2023-07-04	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운,위기의성소	Design	PROJECTT-12568	[2.1.][올드타운] 필드 컨텐츠_위기의 성소 제작
+PROJECTT-12594	2023-07-04	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운,위어우드의기억	Design	PROJECTT-12568	[2.1.][올드타운][레벨] 필드 컨텐츠_위어우드의 기억
+PROJECTT-12596	2023-07-04	2025-06-18	Sub-Task	DONE	과거담당	jieun.kwon	sungmin.jung	레벨디자인,리치_2.2_브라이트워터킵,위기의성소	Design	PROJECTT-12595	[2.2.][브라이트워터킵][레벨] 필드 컨텐츠_위기의 성소 제작
+PROJECTT-12597	2023-07-04	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.2_브라이트워터킵,위어우드의기억	Design	PROJECTT-12595	[2.2.][브라이트워터킵][레벨] 필드 컨텐츠_위어우드의 기억
+PROJECTT-12606	2023-07-04	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,북부	Design	PROJECTT-12603	[1.1.~1.4.][북부][레벨] 필드의 레벨 구성 요소 정리 - 1번 구역
+PROJECTT-12612	2023-07-04	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,최북단_필드	Design	PROJECTT-12603	[1.1.][최북단][레벨] 필드 테스트 및 오류 수정, 폴리싱
+PROJECTT-12613	2023-07-04	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-12615	[2.1.][올드타운][레벨] 필드 테스트 및 오류 수정, 폴리싱
+PROJECTT-12614	2023-07-04	2025-06-18	Sub-Task	DONE	과거담당	jieun.kwon	sungmin.jung	레벨디자인,리치_2.2_브라이트워터킵	Design	PROJECTT-12616	[2.2.][브라이트워터킵][레벨] 필드 테스트 및 오류 수정, 폴리싱
+PROJECTT-12615	2023-07-04	2025-06-18	Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design		[2.1.][올드타운][레벨] 올드타운 데이터 구성 및 아트 작업 대응
+PROJECTT-12617	2023-07-04	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.1_올드타운	Design	PROJECTT-12615	[2.1.][올드타운][레벨] 올드타운 도시/실내 테스트 및 오류 수정, 폴리싱
+PROJECTT-12628	2023-07-04	2025-06-18	Task	DONE	과거담당	sungmin.jung	sungmin.jung	레벨디자인,리치_2.3_하이가든	Design		[2.3.][하이가든][레벨] 필드 컨텐츠 제작
+HELPDESK-46054	2023-07-19	2023-07-19	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4,5 시원하게 해주세요.
+HELPDESK-46090	2023-07-19	2023-07-19	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+HELPDESK-46206	2023-07-20	2023-07-20	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+HELPDESK-46322	2023-07-21	2023-07-21	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+HELPDESK-46491	2023-07-24	2023-07-24	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 부탁드립니다.
+HELPDESK-46529	2023-07-24	2023-07-24	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 부탁드립니다.
+HELPDESK-46846	2023-07-27	2023-07-27	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 부탁드립니다.
+PROJECTT-13158	2023-07-27	2025-06-18	Task	DONE	과거담당	sungmin.jung	sungmin.jung	레벨디자인,북부_1.2_윈터펠,위어우드의기억	Design		[1.2.][윈터펠][레벨] 위어우드의 기억 레벨 구성
+HELPDESK-46932	2023-07-28	2023-07-28	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 부탁드립니다.
+HELPDESK-46952	2023-07-28	2023-07-28	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 세게 부탁드립니다.
+HELPDESK-47233	2023-08-01	2023-08-01	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 강력하게 부탁드립니다.
+HELPDESK-47265	2023-08-01	2023-08-01	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 더욱더 세게 부탁드립니다.
+HELPDESK-47316	2023-08-01	2023-08-01	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 가능한 세게 부탁드립니다.
+HELPDESK-47338	2023-08-01	2023-08-01	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 더욱더 세게 부탁드립니다.
+HELPDESK-47877	2023-08-07	2023-08-07	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 3도 낮춰주세요~
+HELPDESK-48415	2023-08-11	2023-08-11	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4,5,6 냉방 부탁드립니다.
+PROJECTT-13432	2023-08-11	2025-06-18	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	레벨디자인,리치_2.3_하이가든,버려진유적지	Design	PROJECTT-12628	[2.3.][하이가든][레벨] 필드 컨텐츠-버려진 유적지 1, 2호
+PROJECTT-13434	2023-08-11	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,리치_2.3_하이가든,위어우드의기억	Design	PROJECTT-12628	[2.3.][하이가든][레벨] 필드 컨텐츠_위어우드의 기억
+HELPDESK-48495	2023-08-14	2023-08-14	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4, 5구역 3도 낮춰주세요.
+HELPDESK-48605	2023-08-16	2023-08-16	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-5 냉방 3도 내려주세요.
+HELPDESK-49957	2023-08-29	2023-08-29	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+PROJECTT-13921	2023-09-01	2025-08-11	Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,장벽너머원정	Design		[월드][레벨] 장벽너머 PvE 컨텐츠 목업 제작
+PROJECTT-14075	2023-09-08	2023-11-08	Task	DONE	보고자	jongjin	seokwan	PC_운반	Client		[클라] 운반(Carry) 타입 가젯에 컬리전 구현
+HELPDESK-50911	2023-09-11	2023-09-11	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+HELPDESK-51442	2023-09-18	2023-09-18	온도조절 요청	Close	보고자	yang653	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+PROJECTT-14275	2023-09-18	2023-10-27	Task	DONE	과거담당	jongjin	bohyeon	가젯	Client		[클래스][상태] 통나무 든 상태에서 피격 시, 통나무가 공중에 떠 있는 현상
+PROJECTT-14316	2023-09-20	2025-06-18	Bug	DONE	보고자	jinjunhyuk	seokwan	NPC_그리핀,기억의제단	Client		[클라] 그리핀 던전 파괴되는 오크통의 파편에 블러가 심하게 생기는 문제
+PROJECTT-14683	2023-10-06	2025-06-18	Task	DONE	현담당	seokwan	sungmin.jung	리치_2.1_올드타운,흉포한동물	Design		[2.1.][올드타운][레벨] 흉포한 동물(곰) 지역 레벨 디자인
+PROJECTT-14686	2023-10-06	2025-06-18	Task	DONE	현담당	seokwan	sungmin.jung	최북단_2.0._레난스레스트	Design		[2.0.][최북단] 북부 완료 후, 최북단 확장 영역 레벨디자인
+PROJECTT-15401	2023-11-02	2025-06-18	Task	DONE	보고자	jongjin	seokwan	PC_운반,가젯	Client		[클래스][상태] Carry 가젯을 든 상태로 특정 위치로 이동 시 움직임이 꼬이는 현상
+PROJECTT-15855	2023-11-16	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	최북단_2.0._레난스레스트	Design	PROJECTT-12603	[1.1.][최북단][레벨] 레난스레스트~라스트허스 구간 개선 목업 제작
+PROJECTT-15856	2023-11-16	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	리치_2.3_하이가든	Design	PROJECTT-11355	[2.3.][하이가든][레벨] 로즈워터 점령된 구역 목업 제작
+PROJECTT-15955	2023-11-22	2025-06-18	Bug	DONE	보고자	changhee	seokwan	위기의성소	Client		[클라] 위기의 성소 콘텐츠에서 몇몇 타겟이 파괴되지 않는 현상
+PROJECTT-16552	2023-12-26	2025-06-30	Task	DONE	과거담당	eunji_jang	sungmin.jung	NPC_크라켄	Design		[3.1][스톰즈엔드][던전][연출] 기억의 제단 - 크라켄
+PROJECTT-16559	2023-12-26	2025-06-18	Task	DONE	현담당	seokwan	sungmin.jung	버려진유적지,최북단	Design		[2.0.][최북단] 최북단 확장 영역 버려진 유적지 목업 제작
+PROJECTT-16560	2023-12-26	2025-06-18	Task	DONE	과거담당	sungmin.jung	sungmin.jung	리치_2.1_올드타운,세력은신처	Design		[2.1.][올드타운] 세력 은신처 데이터 재구성
+PROJECTT-16561	2023-12-26	2025-08-11	Task	DONE	현담당	seokwan	sungmin.jung	장벽너머원정	Design		[월드][레벨] 장벽너머 PvE 컨텐츠 목업 제작 (9/9)
+NNT-966	2024-01-03	2024-01-05	Defect	DONE	과거담당	dongyub	dongyub	메인퀘스트	04. 아트[Art]		[퀘스트] 티레의 변화 - 몰스타운으로 이동하기 태스크에서 몰스타운 지역으로 이동할 수 없는 현상
+NNT-1134	2024-01-15	2024-05-13	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드	01.-1. 기획[Uasset]		[월드] '위어우드의 기억 : 최북단' 지역 남서쪽 절벽으로 이동 가능한 현상
+NNT-1202	2024-01-17	2024-06-25	Suggestions	DONE	과거담당	eunyoul	eunyoul	개선,월드	01. 기획[Planning Issues]		[월드] 라스트 허스 특정 구역에서 주변 지형 때문에 보이는 것보다 실제 움직일 수 있는 범위가 좁은 구역이 있어 개선 건의드립니다.
+NNT-1343	2024-01-25	2024-09-30	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드,탈것,특수지형이동	01.-1. 기획[Uasset]		[탈것][월드] 탑승 상태에서 레난스레스트 이정표 앞 이동시 평지에서 울타리 넘기를 수행하는 현상
+NNT-1374	2024-01-26	2024-05-10	Defect	DONE	과거담당	eunyoul	eunyoul	월드	01.-1. 기획[Uasset]		[월드] 시타델 시청 입구 진입 시 문과 시청 내부가 외부에서 진입할 때와 진입 후가 다릅니다.
+PROJECTT-17537	2024-01-26	2025-06-18	Sub-Task	DONE	보고자	jongjin	seokwan	가젯	Client	PROJECTT-17549	[월드][클라] 철문 게이트 닫히는 몽타주에 콜리전이 생성되게 하는 노티 추가
+NNT-1379	2024-01-26	2024-06-13	Defect	DONE	과거담당	eunyoul	eunyoul	서브퀘스트,퀘스트	01. 기획[Planning Issues]		[퀘스트] 노파의 저주 퀘스트 중 모틴과의 전투 태스크에서 모틴 Npc가 일정 구역 이상 넘어오지 못합니다.
+PROJECTT-17549	2024-01-29	2025-06-18	Story	DONE	현담당	seokwan	seokwan	가젯	Design		[월드] 버려진 유적지의 철문 게이트 닫히도록 작업 요청
+NNT-1435	2024-01-31	2024-06-11	Defect	DONE	과거담당	eunyoul	eunyoul	메인퀘스트,퀘스트	01. 기획[Planning Issues]		[퀘스트] 학사 알라릭 Npc가 시야 밖에서 스폰되는 경우 비정상적인 위치에서 스폰됩니다.
+NNT-1450	2024-01-31	2024-02-07	Defect	DONE	과거담당	eunyoul	eunyoul	메인퀘스트,퀘스트	04. 아트[Art]		[퀘스트] 올드 타운 금지된 지식의 도둑들 추적하기 태스크에서 도둑 Npc가 비정상적인 위치에 스폰됩니다.
+NNT-1472	2024-02-01	2024-09-30	Defect	DONE	과거담당	eunyoul	eunyoul	서브퀘스트,월드,퀘스트	01.-1. 기획[Uasset]		[퀘스트] 올드 타운 서브퀘스트 즐거운 연회 중 갇힐 수 있는 구역이 있습니다.
+NNT-1506	2024-02-01	2024-02-13	Suggestions	DONE	과거담당	eunyoul	eunyoul	서브퀘스트,퀘스트	04. 아트[Art]		[퀘스트] 즐거운 연회 퀘스트의 사과주 보관장소로 이동하기 동선 문의드립니다.
+NNT-1509	2024-02-01	2024-05-13	Defect	DONE	과거담당	jeongwoo	jeongwoo	버려진유적지,월드,특수지형이동	00. 데이터테이블[DataTable]		[버려진유적지] 버려진 유적지 : 윈터펠 남쪽 바닥에서 위쪽 나무 발판 위에 있는 로프에 상호작용이 가능한 현상
+NNT-1524	2024-02-02	2024-07-01	Defect	DONE	과거담당	eunyoul	eunyoul	월드	01.-1. 기획[Uasset]		[월드] 올드 타운 시타델 외벽 근처에서 벽을 뚫고 추락합니다.
+NNT-1630	2024-02-06	2024-05-21	Defect	DONE	과거담당	jeongwoo	jeongwoo	메인퀘스트,월드,퀘스트	01.-1. 기획[Uasset]		[월드][퀘스트] 텐족 전사와 전투하지 않고 메인 퀘스트 동선을 벗어나 퀸스크라운 통과가 가능한 현상
+NNT-1650	2024-02-07	2024-04-02	Defect	DONE	과거담당	heungshik	heungshik	흉포한동물	01.-1. 기획[Uasset]		[흉포한동물] '흉포한 동물 : 엘크' 전투시 NPC와 PC 사이에 오브젝트가 있는상태에서 전투시, NPC가 오브젝트에 껴있거나 순간 이동하는 모션이 출력됩니다.
+NNT-1657	2024-02-07	2024-03-20	Defect	DONE	과거담당	euijun	euijun	퀘스트	01.-1. 기획[Uasset]		[퀘스트] 귀향 - 야인 정예병 처치 메인 퀘스트 진행 시 특정 위치에서 피격받지 않고 몬스터를 공격할 수 있는 현상
+NNT-1666	2024-02-07	2024-06-12	Defect	DONE	과거담당	eunyoul	eunyoul	특수지형이동	01. 기획[Planning Issues]		[특수지형이동] 시타델 지하 감옥 특정 구역의 사다리 이동 시 정상적으로 이동하지 않습니다.
+NNT-1730	2024-02-13	2024-07-01	Defect	DONE	과거담당	jeongwoo	jeongwoo	레벨기믹	01.-1. 기획[Uasset]		[레벨기믹] 물체옮기기 기믹에 흰점과 상호작용 아이콘이 지형지물로 가려진 위치에서도 노출되는 현상
+NNT-1803	2024-02-14	2024-02-27	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 영지 퀘스트 '식어버린 화로' (미끼 재료 챙기기) 퀘스트 지역내 일부 오브젝트가 PC 동선을 막아 퀘스트 진행이 불편합니다.
+PROJECTT-17705	2024-02-14	2025-06-18	Sub-Task	DONE	현담당	seokwan	seokwan		Design	PROJECTT-12628	[2.3.][하이가든][레벨] 필드 컨텐츠-점령된 구역(로즈워터) 데이터 작업
+NNT-1935	2024-02-20	2024-07-10	Defect	DONE	과거담당	inho.jeong	inho.jeong	퀘스트	01.-1. 기획[Uasset]		[퀘스트] 금지된 지식 - 도서관의 출구 점거하기(21310609) 진행 시 원거리 공격을 진행이 불가한 현상
+PROJECTT-17962	2024-02-26	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	길찾기	Design	PROJECTT-17940	[월드] 길찾기 waypoint 정리 및 관리 - 최북단
+PROJECTT-17966	2024-02-26	2025-06-18	Sub-Task	DONE	과거담당	eunji_jang	sungmin.jung	길찾기	Design	PROJECTT-19344	[월드] 길찾기 waypoint 정리 및 관리 - 리치 올드타운
+PROJECTT-17968	2024-02-26	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	길찾기	Design	PROJECTT-19344	[월드] 길찾기 waypoint 정리 및 관리 - 리치 하이가든
+NNT-2150	2024-03-04	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	장애물넘기,특수지형이동	01.-1. 기획[Uasset]		[특수지형이동] 장애물 넘기가 적용된 벽 양옆으로 높이가 다른 경우 > 높은곳에서 낮은곳으로 담넘기시 속도가 빠르게 PC가 착지하게 되며, 낮은곳에서 높은곳으로의 장애물 넘기는 모션만 동작하고 넘어가지 못하는 경우
+NNT-2157	2024-03-05	2024-11-01	Defect	DONE	과거담당	heungshik	heungshik	미니게임	02. 서버[Server]		[미니게임] 히로돈과 라이엄의 실험 > NPC 스폰 후 PC에게 질주하지만 무언가에 걸린것처럼 제자리에서 움직입니다.
+NNT-2173	2024-03-05	2024-10-10	Defect	DONE	과거담당	heungshik	heungshik	전투	03. 클라이언트[Client]		[전투] 물가 위 다리에서의 전투 상황 발생시, NPC의 넉백 스킬 등으로 인해 PC 추락이 가능합니다.
+NNT-2233	2024-03-06	2024-09-30	Defect	DONE	과거담당	taehyung	taehyung	월드,위기의성소	04. 아트[Art]		[위기의성소][월드] 브라이트워터킵1 진행 구역에 PC 진입시 이동 불가능한 지형이 있습니다
+NNT-2236	2024-03-06	2024-05-10	Defect	DONE	과거담당	heungshik	heungshik	특수지형이동	01.-1. 기획[Uasset]		[특수지형이동] middle in water 에 위치시 특수이동이 불가합니다.
+NNT-2238	2024-03-07	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드,퀘스트	04. 아트[Art]		[퀘스트][월드] 특정 좌표의 문턱이 불필요하게 높아 부자연스럽습니다.
+PROJECTT-18140	2024-03-07	2025-06-18	Bug	DONE	과거담당	jimin.kim	hycho	위어우드의기억	Server		[월드][위어우드의기억] 위어우드의 기억에서 보스몬스터의 HP바 UI가 미노출되는 현상
+NNT-2264	2024-03-07	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드	04. 아트[Art]		[월드] 올드 타운 특정 위치에 검정색 컬리전이 설치되어있어 PC 및 NPC가 허공 이동이 가능합니다.
+NNT-2273	2024-03-07	2024-05-13	Defect	DONE	과거담당	heungshik	heungshik	월드	01. 기획[Planning Issues]		[월드] 올드 타운 특정 좌표의 공간이 PC가 접근해야 보입니다.
+NNT-2275	2024-03-07	2024-05-10	Defect	DONE	과거담당	heungshik	heungshik	SFX,사운드	01.-1. 기획[Uasset]		[사운드][SFX] 올드타운 특정 건물내 발걸음 효과음이 없습니다.
+NNT-2312	2024-03-08	2024-08-16	Defect	DONE	과거담당	taehyung	taehyung	월드,위기의성소	04. 아트[Art]		[위기의성소][월드] 브라이트워터킵 위기의 성소에서 한쪽 길을 PC가 통과하지 못해 진행 동선상 불편함이 발생합니다
+NNT-2389	2024-03-11	2024-12-02	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드	03. 클라이언트[Client]		[월드] 흉포한 동물: 검은엘크 출현지역 내에 배치된 지형지물이 PC와 부딪힐 경우에도 파괴되는 현상 문의
+NNT-2455	2024-03-12	2024-05-10	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹	01.-1. 기획[Uasset]		[레벨기믹] 특정위치의 문 기믹 조작시, 문열기 모션이 즉각 동작하지 않고 1회 더 입력하여야 동작합니다.
+NNT-2472	2024-03-13	2024-04-08	Defect	DONE	과거담당	heungshik	heungshik	리치_하이가든,퀘스트	00. 데이터테이블[DataTable]		[퀘스트] 출발의 조건(짐마차 도둑들에 대해 조사하기)Task > 일부 가젯 조작 버튼이 허공에 출력됩니다.
+NNT-2482	2024-03-13	2024-06-14	Defect	DONE	과거담당	heungshik	heungshik	NPC,전투	01. 기획[Planning Issues]		[전투] PC가 계단 위쪽에 위치 > 계단 아래쪽의 적 NPC가 PC를 향해 돌진 스킬 사용시 무언가에 걸린듯 제자리에서 모션을 취하는 경우가 있습니다.
+NNT-2505	2024-03-14	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드	04. 아트[Art]		[월드] 올드타운 항구 남쪽에 위치한 '버려진 유적지 : 녹색 항구' 근방에 물타일이 비어있거나, 육안으로 보이는 텍스처와 컬리전에 차이가 있는 지역이 존재합니다.
+NNT-2507	2024-03-14	2024-05-21	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] '버려진 유적지 : 녹색 항구' 지역 PC 이동에 걸리는 컬리전이 있으며 클리어가 불가합니다.
+NNT-2510	2024-03-14	2024-05-21	Defect	DONE	과거담당	taehyung	taehyung	버려진유적지,월드	01.-1. 기획[Uasset]		[버려진유적지][월드] 녹색 항구 버려진 유적지에서 특정 위치의 벽이 완성되어있지 않은 현상
+NNT-2511	2024-03-14	2024-05-21	Defect	DONE	과거담당	eunyoul	eunyoul	레벨기믹	01.-1. 기획[Uasset]		[레벨기믹] 이중 사다리 기믹에 원거리 공격 시 간헐적으로 사다리가 내려오지 않습니다.
+NNT-2512	2024-03-14	2024-05-23	Defect	DONE	과거담당	taehyung	taehyung	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 녹색 항구 버려진 유적지 특정 위치 진입시 물가에서 벗어나지 못하는 현상
+NNT-2513	2024-03-14	2024-08-29	Defect	DONE	과거담당	heungshik	heungshik	PC액션,버려진유적지	01. 기획[Planning Issues]		[PC액션][버려진유적지] carry 상자 가젯 위로 올라가기 위한 점프 성공 판정이 낮습니다.
+NNT-2515	2024-03-14	2024-07-01	Defect	DONE	과거담당	inho.jeong	inho.jeong	레벨기믹	04. 아트[Art]		[레벨기믹] 문을 열고 실내로 들어갈 때 PC가 문에 끼인것처럼 카메라가 노출되는 현상
+NNT-2522	2024-03-14	2024-11-14	Defect	DONE	과거담당	jeongwoo	jeongwoo	레벨기믹	03. 클라이언트[Client]		[레벨기믹] 물체옮기기 레벨기믹 위치 초기화시 해당 위치에 PC가 있을 경우 캐릭터가 물체에 끼이는 현상 문의
+NNT-2524	2024-03-14	2025-02-06	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹,버려진유적지,재접속	01. 기획[Planning Issues]		[버려진유적지][레벨기믹] 레벨기믹 조작 상태가 네트워크 재접속시 초기화되어, 다시 설치해야하는 불편함이 존재하며, 이때 PC가 기믹에 끼어 조작이 불가한 상황이 발생합니다.
+NNT-2525	2024-03-14	2024-07-03	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	00. 데이터테이블[DataTable]		[버려진유적지] 버려진 유적지 : 학자의 성채 > PC가 지형에 끼이는 지형이 존재합니다.
+NNT-2529	2024-03-14	2024-06-13	Defect	DONE	과거담당	eunyoul	eunyoul	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 올드타운 학자의 성채에서 특정 구역 바닥에 얕은 단차가 있어 진행 중 방해를 받습니다.
+NNT-2538	2024-03-14	2024-12-04	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	00. 데이터테이블[DataTable]		[버려진유적지] 버려진 유적지 : 학자의 성채 > PC 이동에 제한이 걸리는 지형 존재
+NNT-2539	2024-03-14	2024-07-01	Defect	DONE	과거담당	eunyoul	eunyoul	버려진유적지	00. 데이터테이블[DataTable]		[버려진유적지] 올드타운 학자의 성채에서 특정 구역에 빠졌을 때 자연스러운 방법으로 탈출할 수 없습니다.
+NNT-2541	2024-03-14	2024-08-29	Defect	DONE	과거담당	heungshik	heungshik	상태	01. 기획[Planning Issues]		[상태] Carry 상자 가젯을 든 상태에서 지형에 낮은 단차가 있는 경우 이동이 자유롭지 못하거나, Carry 모션이 어색합니다.
+NNT-2544	2024-03-14	2024-07-03	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	00. 데이터테이블[DataTable]		[버려진유적지] 버려진 유적지 : 학자의 성채 > 하얀 칠 된 장애물을 넘지 못합니다.
+NNT-2549	2024-03-14	2024-05-02	Defect	DONE	과거담당	euijun	euijun	월드,웜워크	01.-1. 기획[Uasset]		[웜워크][월드] 웜워크 입장 지역 부근 막혀있는 지형을 통과하여 이동하는 현상
+PROJECTT-18255	2024-03-15	2025-06-18	Task	DONE	현담당	seokwan	sungmin.jung	레벨디자인,월드	Design		[월드][레벨] 최북단 후반부 플레이 경험 개선
+NNT-2570	2024-03-15	2024-09-10	Defect	DONE	과거담당	eunyoul	eunyoul	월드	01.-1. 기획[Uasset]		[월드] 시타델 지하 감옥 특정 구역에서 사다리 조작 및 이동이 불가능합니다.
+NNT-2585	2024-03-15	2024-06-11	Defect	DONE	과거담당	taehyung	taehyung	월드	01.-1. 기획[Uasset]		[월드] 올드타운 특정 건물 입구에서 일정 거리 이상 위치시 실내가 비정상적으로 보이는 현상
+NNT-2600	2024-03-15	2024-08-07	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 모래막이 요새 > 배치된 가젯들이 불완전합니다.
+NNT-2601	2024-03-15	2024-08-07	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 모래막이 요새 > 특정 좌표의 지면에 구멍이 있어 PC가 추락모션을 취합니다.
+NNT-2616	2024-03-19	2024-10-07	Defect	DONE	과거담당	eunyoul	eunyoul	특수지형이동	01.-1. 기획[Uasset]		[특수지형이동] 하이가든 특정 위치의 문 조작 시 조작 불가능한 상태가 됩니다.
+NNT-2662	2024-03-21	2024-05-13	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 혼우드성 남쪽 > 로프 이동 동선과 도착지점의 지면 위치가 상이합니다.
+PROJECTT-18460	2024-03-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	북부_1.1_라스트허스	Design	PROJECTT-18449	[1.1.][최북단] 최북단-레난스레스트 전반부 구간 메인 퀘스트 이동 중심 지형 정리
+PROJECTT-18461	2024-03-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	북부_1.1_라스트허스	Design	PROJECTT-18449	[1.1.][최북단] 지형 외각 개선 진행
+PROJECTT-18462	2024-03-21	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	북부_1.1_라스트허스	Design	PROJECTT-18449	[1.1.][최북단] 지역 내 메시 투명화 처리 오류 수정
+NNT-2688	2024-03-21	2024-05-10	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 토르헨스퀘어 > 특정 위치의 외벽 오브젝트가 배경(잔디) 지형과 겹쳐 있습니다.
+NNT-2692	2024-03-21	2024-06-14	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01. 기획[Planning Issues]		[버려진유적지] 버려진 유적지 : 몰스타운 > 배치된 일부 가젯이 완전하지 않습니다.
+NNT-2741	2024-03-25	2024-06-21	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹	01.-1. 기획[Uasset]		[레벨기믹] 탐색시 도르레 핸들 기믹에 이펙트가 없습니다.
+NNT-2744	2024-03-25	2024-05-10	Defect	DONE	과거담당	heungshik	heungshik	웜워크	01.-1. 기획[Uasset]		[웜워크] 웜워크 입구 근방의 지형지물이 육안으로 보이는 텍스처와 실제 컬리전에 차이가 있습니다.
+NNT-2763	2024-03-25	2024-06-05	Defect	DONE	과거담당	jeongwoo	jeongwoo	레벨기믹	03. 클라이언트[Client]		[레벨기믹] 물체 옮기기 중 다른 물체 상호작용시 상호작용을 시도하는 현상
+PROJECTT-18673	2024-03-27	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	개선,북부_1.1_라스트허스,최북단_1.1.인트로튜토리얼	Design	PROJECTT-18449	[1.1.][최북단후반지역] 콘텐츠 수정 사항 레벨 개선 반영 1차
+PROJECTT-18674	2024-03-27	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	북부_1.1_라스트허스	Design	PROJECTT-18449	[1.1.][최북단후반지역] 신규 콘텐츠 지역 구성
+PROJECTT-18675	2024-03-27	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	북부_1.1_라스트허스	Design	PROJECTT-18449	[1.1.][최북단후반지역] 월드 기본 정리 
+NNT-3010	2024-04-02	2024-05-13	Defect	DONE	과거담당	heungshik	heungshik	흉포한동물	01.-1. 기획[Uasset]		[흉포한동물] 검은 엘크 출현지역 외곽 언덕에 위치시, 엘크의 ai가 멈추며 손쉽게 처치가 가능합니다.
+NNT-3022	2024-04-02	2024-05-13	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드	01. 기획[Planning Issues]		[월드] 레난스레스트 영접실 내부 일부 가젯 통과가 가능한 현상
+NNT-3206	2024-04-12	2024-06-14	Defect	DONE	과거담당	eunyoul	eunyoul	월드	01.-1. 기획[Uasset]		[월드] 레난스레스트 영접실 바깥에서 영접실 내부의 가젯이 보입니다.
+NNT-3233	2024-04-16	2024-06-25	Defect	DONE	과거담당	heungshik	heungshik	개선,장벽너머_튜토리얼	04. 아트[Art]		[장벽너머튜토리얼] 장벽 너머 '야영지 조사' Task > 조사 대상 가젯의 '조사 중' 모션이 모닥불에만 적용되어 있으며, 모닥불에 불씨 표현이 없습니다.
+PROJECTT-19224	2024-04-16	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	북부_1.1_라스트허스,최북단	Design	PROJECTT-19221	[챕터1][최북단전반] 월드 기본 정리 #2/2
+PROJECTT-19234	2024-04-16	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	목업,북부_1.3_드레드포트	Design	PROJECTT-19221	[챕터1][최북단] 컨텐츠 수정 사항을 반영한 레벨 전반적 개선
+NNT-3269	2024-04-17	2024-10-31	Defect	DONE	과거담당	heungshik	heungshik	카메라	01.-1. 기획[Uasset]		[카메라] PC와 카메라 사이에 마록 NPC가 위치한 경우. 침대와 이불이 투명화 처리되어 마록 NPC가 공중에 앉아 있는것처럼 보이게 됩니다.
+NNT-3304	2024-04-18	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 최북단 특정 오브젝트에 컬리전이 없어 PC가 통과됩니다.
+NNT-3320	2024-04-18	2024-05-16	Defect	DONE	과거담당	heungshik	heungshik	네비메시,전투	01.-1. 기획[Uasset]		[전투] 퀸스크라운. PC와 NPC 사이에 네비 메시가 설치되지 않은 경우 NPC는 PC향해 허공만을 타격하게 됩니다.
+NNT-3336	2024-04-18	2024-08-07	Defect	DONE	과거담당	heungshik	heungshik	네비메시,전투	02. 서버[Server]		[전투] 퀸스크라운. 전투 상황에서 PC가 노란색 네비위로 위치한 상태에서, NPC의 돌진 공격 발동시, NPC는 달리기만 하며 공격을 하지 않게됩니다.
+PROJECTT-19309	2024-04-19	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	북부_1.2_윈터펠,세력은신처,윈터펠	Design	PROJECTT-19221	[챕터1][윈터펠] 버려진 유적지 신규 리소스로 재배치
+NNT-3381	2024-04-19	2024-09-24	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드,탈것	03. 클라이언트[Client]		[월드][탈것] 탑승 상태로 최북단 위 특정 구간에서 방향 전환시 탈것 속도가 1단계로 감소하는 현상
+NNT-3411	2024-04-22	2024-12-31	Defect	DONE	과거담당	heungshik	heungshik	길찾기,미니맵,월드맵	04. 아트[Art]		[길찾기] 흉포한 동물 : 검은엘크 이정표 > 갈림길에서 길찾기시, 한쪽길만을 안내합니다. (실제 PC는 다른 갈림길에 위치)
+NNT-3412	2024-04-22	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 흉포한 동물 : 검은엘크 > 엘크 스폰 지역내 오크통들의 오브젝트에 컬리전이 없어 PC가 통과됩니다.
+NNT-3430	2024-04-22	2024-06-17	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 최북단 다리 이정표 부근. 전투상태의 PC가 주변 사물에 끼어 빠져나올수 없는 지역 존재
+NNT-3437	2024-04-22	2024-05-16	Defect	DONE	과거담당	heungshik	heungshik	전투	01.-1. 기획[Uasset]		[전투] 전투중 PC가 뒤로 밀리면서 오브젝트와 겹치게 되는경우가 발생하며, 이때 PC는 오브젝트에 끼인채 빠져나올 수 없게 됩니다.
+NNT-3502	2024-04-23	2024-06-13	Defect	DONE	과거담당	taehyung	taehyung	장벽너머	01.-1. 기획[Uasset]		[장벽너머] 밤의 경비대 구출 던전 중앙 길에서 좌측 으로 이동하는 밧줄 특수 이동을 높은 지대에서 상호작용시 PC가 비정상 동작하며 사망하는 현상
+NNT-3503	2024-04-23	2024-06-13	Defect	DONE	과거담당	taehyung	taehyung	장벽너머	01.-1. 기획[Uasset]		[장벽너머] 밤의 경비대 구출 던전 중앙 길 우측 밧줄 이동시 PC가 바위에 겹치는 현상
+PROJECTT-19380	2024-04-23	2025-06-18	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	길찾기	Design	PROJECTT-19344	[월드] 길찾기 waypoint 정리 및 관리 - 최북단 (챕터2.0)
+PROJECTT-19401	2024-04-24	2024-04-24	Bug	DONE	보고자	speciallive	seokwan		Client		[클라] BP_ControlLadder 액터를 수정하면 정상적으로 저장이 되지 않는 문제
+NNT-3583	2024-04-24	2024-09-30	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드	01.-1. 기획[Uasset]		[월드] 캐슬블랙 내부의 2층 보물상자 뒤로 점프시 PC가 끼일 수 있는 현상
+PROJECTT-19447	2024-04-26	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	드레드포트,버려진유적지	Design	PROJECTT-19221	[챕터1][드레드포트] 버려진 유적지 신규 리소스로 재배치
+NNT-3691	2024-04-29	2024-09-30	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드	01.-1. 기획[Uasset]		[월드] 버려진 유적지 : 토르헨스퀘어 내부에서 점프를 통해 진입 불가능한 지역에 진입 가능한 현상
+NNT-3938	2024-05-10	2024-11-21	Defect	DONE	과거담당	eunyoul	eunyoul	월드	03. 클라이언트[Client]		[월드] 시타델 시청 입구에 달리기로 접근하면 주변 풍경이 비정상적으로 보입니다.
+NNT-3939	2024-05-10	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 티레의 변화(몰스타운 조사하기) Task > 퀘스트 지역내, 울타리에 컬리전이 없어 PC 통과됩니다.
+NNT-3941	2024-05-10	2024-06-03	Defect	DONE	과거담당	heungshik	heungshik	네비메시,레벨기믹	01.-1. 기획[Uasset]		[레벨기믹] 티레의 변화(몰스타운 조사하기) Task > 퀘스트 지역내, 문 열기 기믹 조작시, PC가 바로 진입이 되지않고 문에 끼이게되어 조작이 불가해집니다.
+NNT-3969	2024-05-13	2025-02-06	Defect	DONE	과거담당	heungshik	heungshik	월드	03. 클라이언트[Client]		[월드] 올드 타운 특정위치의 건물의 문 열기 후 진입시, 실내 공간과 무관한 배경이 잠시 출력됩니다.
+PROJECTT-19882	2024-05-17	2025-06-18	Bug	DONE	보고자	jinjunhyuk	seokwan	특수지형이동	Client		[월드][이동기믹]이단 사다리 트리거에 프로젝타일이 잘 맞지 않는 문제
+PROJECTT-19883	2024-05-17	2025-06-18	Bug	DONE	보고자	jinjunhyuk	seokwan	버그수정	Client		[클라] 로컬 플레이 모드에서 PC의 움직임이 정상적이지 않은 문제 (조준 이후, 물 속 이동)
+NNT-4032	2024-05-17	2024-07-08	Defect	DONE	과거담당	heungshik	heungshik	기억의제단	01.-1. 기획[Uasset]		[기억의제단] 황금 골짜기의 글로우르 > 던전내 가젯들에 탐색시, 노란색 이펙트가 없습니다.
+NNT-4060	2024-05-21	2024-06-20	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지]  '버려진 유적지 : 녹색 항구' > 다음 동선으로 가기위한 거리가 멀어 점프 동작으로 목표 위치로 가기 어렵습니다.
+NNT-4061	2024-05-21	2024-06-20	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹,버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] '버려진 유적지 : 녹색 항구' > 특정 위치의 이중 사다리가 삐딱하게 펼쳐집니다.
+NNT-4062	2024-05-21	2025-04-16	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지]  '버려진 유적지 : 녹색 항구' > 특정위치에 'MiddleInWater' 가 적용되어 있어 해당 위치로 PC 이동시 빠져나올수 없게 됩니다.
+NNT-4080	2024-05-21	2024-06-03	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드	01.-1. 기획[Uasset]		[월드] 최북단 메인퀘스트를 진행하지 않고 퀸스크라운 통과가 가능한 현상
+PROJECTT-19972	2024-05-21	2024-06-07	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	최북단_1.0._레난스레스트	Design	PROJECTT-19968	[챕터1][최북단 1.0] 퀄리티 테스트 및 수정
+PROJECTT-19973	2024-05-21	2024-06-07	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	최북단_2.0._레난스레스트	Design	PROJECTT-19968	 [챕터1][최북단 2.0] 퀄리티 테스트 및 수정
+PROJECTT-19974	2024-05-21	2026-02-20	Sub-Task	DONE	현담당	seokwan	sungmin.jung	프롤로그	Design	PROJECTT-19968	[챕터1][프롤로그] 퀄리티 테스트 및 수정
+PROJECTT-19975	2024-05-21	2024-06-17	Sub-Task	DONE	과거담당	eunji_jang	sungmin.jung	북부_1.5_레드킵	Design	PROJECTT-19968	[챕터1][레드킵] 퀄리티 테스트 및 수정
+NNT-4109	2024-05-22	2024-09-30	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드	01.-1. 기획[Uasset]		[월드] 퀸스크라운 2층 상자 뒤에 PC가 끼일 수 있는 현상
+PROJECTT-19986	2024-05-22	2025-06-18	Sub-Task	DONE	보고자	taewoong	seokwan		Effect	PROJECTT-19968	[이펙트] 프롤로그 초반 캠프지역에 붙일 아직 죽지 않은 불씨 리소스 추가
+NNT-4150	2024-05-23	2024-06-20	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹	02. 서버[Server]		[레벨기믹] 프로스트 필드 이정표 근방의 풍차에 설치된, 이중 사다리 트리거가 아래에서 공격시 파괴가 되지 않습니다.
+NNT-4160	2024-05-23	2024-09-30	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드	04. 아트[Art]		[월드] 레난스레스트 내부 대장간 뒷편의 가젯 위로 점프시 PC가 끼일 수 있는 현상
+NNT-4182	2024-05-24	2024-09-30	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드	01. 기획[Planning Issues]		[월드] 레난스레스트 내부 여러 위치에서 점프를 통해 외벽 위로 이동 가능한 현상
+NNT-4230	2024-05-24	2024-06-24	Defect	DONE	과거담당	taehyung	taehyung	가젯,버려진유적지,북부_드레드포트,서브퀘스트,퀘스트	01. 기획[Planning Issues]		[버려진유적지][가젯] 혼우드성 남쪽 유적지 입구에서 나무판자 파괴시 잔해가 디스폰되어야 길이 열리는 현상
+NNT-4238	2024-05-24	2024-05-28	Defect	DONE	과거담당	jeongwoo	jeongwoo	버려진유적지,월드,특수지형이동	01. 기획[Planning Issues]		[월드][버려진유적지] 버려진 유적지 : 혼우드성 남쪽 좁은 틈이 특수지형이동을 수행하지 않고 걸어서 통과 가능한 현상
+HELPDESK-68428	2024-05-27	2024-05-27	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+PROJECTT-20077	2024-05-27	2025-06-18	Bug	DONE	현담당	seokwan	seokwan	Client,가젯	Design		[클라] 에디터에서 NK Gadget Actor Spawner의 빨간색 스피어가 보이지 않음
+HELPDESK-68479	2024-05-27	2024-05-27	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+HELPDESK-68594	2024-05-28	2024-05-28	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+NNT-4366	2024-05-29	2024-08-08	Defect	DONE	과거담당	eunyoul	eunyoul	지역개방	01.-1. 기획[Uasset]		[지역개방] 리치 지역의 일부 구역이 개방되지 않습니다.
+HELPDESK-68700	2024-05-29	2024-05-29	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+NNT-4378	2024-05-30	2024-08-08	Defect	DONE	과거담당	eunyoul	eunyoul	지역개방	01.-1. 기획[Uasset]		[지역개방] 리치 지역의 하이가든 구역 지역 개방이 비정상적인 위치에서 이루어집니다.
+NNT-4381	2024-05-30	2024-06-19	Defect	DONE	과거담당	eunyoul	eunyoul	지역개방	00. 데이터테이블[DataTable]		[지역개방] 특정 구역을 개방하기 전까지 메로우 저택 이정표가 지도에 표시되지 않습니다.
+HELPDESK-68827	2024-05-30	2024-05-30	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+HELPDESK-68890	2024-05-31	2024-05-31	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+NNT-4387	2024-05-31	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 올드 타운 특정 담벼락의 일부 구간에만 볼팅 펜스가 설정되어 장애물 넘기 이동이 가능합니다.
+NNT-4390	2024-05-31	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드	04. 아트[Art]		[월드] 올드타운 다리 아래 특정 위치의 판자 프랍들이 공중에 떠있습니다.
+HELPDESK-69049	2024-06-03	2024-06-03	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+NNT-4467	2024-06-04	2024-09-30	Defect	DONE	과거담당	jeongwoo	jeongwoo	버려진유적지,월드	01.-1. 기획[Uasset]		[월드][버려진유적지] 버려진 유적지 : 윈터펠 남쪽 내부에서 점프를 통해 진입 불가능한 지역에 진입 가능한 현상
+HELPDESK-69269	2024-06-05	2024-06-05	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+HELPDESK-69274	2024-06-05	2024-06-05	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 지금보다 2도 내려주세요
+NNT-4533	2024-06-07	2024-06-20	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 롱 레이크 인근 GO UP 박스 위에서 내려올때 PC가 무언가에 걸리듯 한번에 내려오지 못합니다.
+HELPDESK-69363	2024-06-07	2024-06-07	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 4도 내려주세요. 너무 더워요.
+HELPDESK-69380	2024-06-07	2024-06-07	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+NNT-4586	2024-06-10	2025-02-17	Defect	DONE	과거담당	jeongwoo	jeongwoo	영지퀘스트,흉포한동물	03. 클라이언트[Client]		[흉포한동물] 흉포한 동물 : 엘크 등장 컷신에서 특정 오브젝트가 부서지는 연출 문의
+NNT-4588	2024-06-10	2024-09-30	Defect	DONE	과거담당	jeongwoo	jeongwoo	버려진유적지,월드	01.-1. 기획[Uasset]		[월드][버려진유적지] 버려진 유적지 : 윈터펠 남쪽 내부에서 점프를 통해 진입 불가능한 지역에 진입 가능한 현상
+HELPDESK-70087	2024-06-13	2024-06-13	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+NNT-4860	2024-06-18	2024-08-20	Defect	DONE	과거담당	inho.jeong	inho.jeong	월드	04. 아트[Art]		[월드] 레난스레스트 남쪽 나루터에서 물에 빠진 후 갈 수 없는 지역으로 이동이 가능한 현상
+HELPDESK-70507	2024-06-18	2024-06-18	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 2도 정도 시원하게 해주세요.
+NNT-4923	2024-06-19	2024-08-16	Defect	DONE	과거담당	eunyoul	eunyoul	월드	01.-1. 기획[Uasset]		[월드] 레난스레스트 입구를 달려서 진입할 때 간헐적으로 슬라이딩합니다.
+NNT-4941	2024-06-20	2024-10-08	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드	00. 데이터테이블[DataTable]		[월드] 프로스트 필드 북쪽에서 진입 불가능한 지역 진입이 가능한 현상
+NNT-4972	2024-06-21	2024-08-19	Defect	DONE	과거담당	taehyung	taehyung	점령된구역	01.-1. 기획[Uasset]		[점령된구역] 허브힐 점령된구역 특정 위치의 NPC가 배치된 장소 밖으로 이동하지 못하는 현상
+NNT-4991	2024-06-21	2024-08-29	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹	01.-1. 기획[Uasset]		[레벨기믹] 물체 옮기기와 GO UP 박스 틈에 PC 위치시, PC가 추락하는 모션으로 끼이게 됩니다.
+NNT-4995	2024-06-21	2024-08-29	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01. 기획[Planning Issues]		[버려진유적지] 버려진 유적지 : 학자의 성채 > Carry 가젯을 들고 도르레 핸들 기믹이 위치한 곳으로 이동이 불가합니다.
+NNT-4999	2024-06-21	2025-04-10	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹,버려진유적지	03. 클라이언트[Client]		[버려진유적지] 버려진 유적지 : 몰스타운 > 나무 판자로 막혀있는 이중 사다리 트리거 파괴가 가능합니다.
+NNT-5002	2024-06-21	2025-04-16	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 학자의 성채 > 특정 계단 아래로 PC 점프시 지형에 끼어 나올 수 없게 됩니다.
+NNT-5082	2024-06-25	2024-08-16	Defect	DONE	과거담당	taehyung	taehyung	세력은신처,월드	01.-1. 기획[Uasset]		[세력은신처][월드] 올드타운 세력은신처 해안가쪽 물가에 사다리가 배치된 현상
+NNT-5110	2024-06-25	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드	04. 아트[Art]		[월드] 웜워크 일부 지역내 불필요한 턱이있어 PC 이동에 제한이있습니다.
+NNT-5187	2024-06-27	2024-09-13	Defect	DONE	과거담당	euijun	euijun	훈련장	01.-1. 기획[Uasset]		[훈련장] 훈련 진행 중 특정 좌표 부근으로 이동 시 훈련병이 캐릭터를 공격할 수 없는 현상
+NNT-5223	2024-07-01	2025-04-14	Defect	DONE	과거담당	euijun	euijun	가젯,웜워크	01. 기획[Planning Issues]		[웜워크][가젯] 웜워크 입구의 문이 열려있는 상태에서 문열기 가젯 상호 작용 시 문이 열리는 연출이 한번 더 출력되는 현상
+NNT-5224	2024-07-01	2024-08-19	Defect	DONE	과거담당	euijun	euijun	월드,웜워크	01.-1. 기획[Uasset]		[웜워크][월드] 웜워크 지하 통로로 이동하는 사다리 부근 나무 판자에 콜리전이 없어 이동 시 추락하는 현상
+HELPDESK-72018	2024-07-01	2024-07-01	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+HELPDESK-72031	2024-07-01	2024-07-01	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 최대한 낮은 온도로 부탁드립니다.
+NNT-5243	2024-07-03	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 버려진 유적지 : 학자의 성채 > 일부 지형의 텍스처 높이와 실제 컬리전 높이가 상이하여 PC가 공중을 걷는것처럼 보입니다.
+PROJECTT-21056	2024-07-05	2024-07-11	Sub-Task	DONE	현담당	seokwan	sungmin.jung	개선,탐색	Design	PROJECTT-21248	[레벨] 전투 공간 제어를 위한 투명벽 개선 기획
+PROJECTT-21057	2024-07-05	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	리치_2.1_올드타운,리치_올드타운,버려진유적지	Design	PROJECTT-21058	[챕터2][올드타운] 버려진 유적지 신규 리소스로 재배치
+PROJECTT-21059	2024-07-05	2025-06-18	Sub-Task	DONE	과거담당	eunji_jang	sungmin.jung	리치_2.1_올드타운,리치_올드타운	Design	PROJECTT-21058	[챕터2][올드타운] 월드 기본 정리 1/2
+PROJECTT-21064	2024-07-05	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	리치_2.3_하이가든,리치_하이가든	Design	PROJECTT-21058	[챕터2][하이가든] 월드 기본 정리 1/2
+PROJECTT-21065	2024-07-05	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	리치_2.3_하이가든,리치_하이가든	Design	PROJECTT-21058	[챕터2][하이가든] 월드 기본 정리 2/2
+PROJECTT-21066	2024-07-05	2025-06-18	Sub-Task	DONE	과거담당	jieun.kwon	sungmin.jung	리치_2.2_브라이트워터킵,리치_브라이트워터킵,버려진유적지	Design	PROJECTT-21058	[챕터2][브라이트워터킵] 버려진 유적지 신규 리소스로 재배치
+PROJECTT-21067	2024-07-05	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	리치_2.1_올드타운,리치_올드타운,세력은신처	Design	PROJECTT-21058	[챕터2][올드타운] 세력은신처 개선
+PROJECTT-21068	2024-07-05	2025-06-18	Sub-Task	DONE	과거담당	jieun.kwon	sungmin.jung	리치_2.2_브라이트워터킵,리치_브라이트워터킵,세력은신처	Design	PROJECTT-21058	[챕터2][브라이트워터킵] 세력은신처 개선
+NNT-5364	2024-07-05	2024-09-30	Defect	DONE	과거담당	taehyung	taehyung	월드,장벽너머	01.-1. 기획[Uasset]		[장벽너머][월드] 장벽너머 거인 처치 던전 스타팅포인트 뒤쪽길로 이동이 가능한 현상
+NNT-5408	2024-07-08	2024-10-15	Defect	DONE	과거담당	heungshik	heungshik	탐색,탐색이펙트	01.-1. 기획[Uasset]		[탐색] 황금 골짜기의 그리핀 > 던전내 시체 가젯에 탐색시 탐색 이펙트가 없습니다.
+NNT-5438	2024-07-09	2024-08-30	Defect	DONE	과거담당	heungshik	heungshik	장벽너머	01.-1. 기획[Uasset]		[장벽너머] 야인 거인 스폰지역의 궁수 NPC가 암석을 통과하여 PC를 추적합니다.
+PROJECTT-21248	2024-07-10	2025-06-18	Story	DONE	현담당	seokwan	seokwan	내비,내비메시	Design		[월드] FX 장막 개발
+PROJECTT-21250	2024-07-10	2025-06-18	Sub-Task	DONE	보고자	junghwan	seokwan	장막	Effect	PROJECTT-21248	[월드][이펙트] FX 장막 리소스 제작
+PROJECTT-21253	2024-07-10	2025-06-18	Sub-Task	DONE	보고자	joonhyoung	seokwan	콘텐츠기반	Server	PROJECTT-21248	[월드][서버] FX 장막 리소스 기능 개발
+NNT-5689	2024-07-16	2025-01-06	Defect	DONE	과거담당	taehyung	taehyung	월드	01.-1. 기획[Uasset]		[월드] 특정 위치 사다리 하강 상호작용시 카메라가 벽에 줌인되며 지면 도착 후 바닥으로 떨어지는 현상
+PROJECTT-21445	2024-07-18	2025-06-18	Sub-Task	DONE	현담당	seokwan	sungmin.jung	리치_2.1_올드타운,리치_하이가든	Design	PROJECTT-21058	[챕터2][하이가든] 필드 컨텐츠 정리
+PROJECTT-21464	2024-07-18	2025-06-18	Sub-Task	DONE	보고자	dowan	seokwan	콘텐츠기반	Client	PROJECTT-21248	[월드][클라] FX 장막 개발
+HELPDESK-74309	2024-07-19	2024-07-19	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+NNT-6026	2024-07-24	2024-08-07	Dev Bug	DONE	보고자	dongyub	seokwan		03. 클라이언트[Client]		[클라] 문 BP가 DataLayer에 Remote 연결하면 작동하지 않는 상황
+HELPDESK-74735	2024-07-24	2024-07-24	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+HELPDESK-74817	2024-07-25	2024-07-25	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 3도 낮춰주세요
+PROJECTT-21615	2024-07-25	2024-08-06	Bug	DONE	보고자	jongjin	seokwan		Client		[클라] 시타델 월드에서 데이터레이어가 잘 작동하지 않는 문제
+NNT-6111	2024-07-29	2024-09-30	Defect	DONE	과거담당	eunyoul	eunyoul	월드	01.-1. 기획[Uasset]		[월드] 시타델 도서관 내의 일부 의자가 공중에 떠있습니다.
+NNT-6276	2024-08-02	2024-08-30	Defect	DONE	과거담당	eunyoul	eunyoul	지역개방	01.-1. 기획[Uasset]		[지역개방] 바리케이트 근처로 이동하면 웜워크 근방의 지도가 개방됩니다.
+NNT-6283	2024-08-05	2024-09-30	Defect	DONE	과거담당	jeongwoo	jeongwoo	월드,탈것	01.-1. 기획[Uasset]		[월드][탈것] 레난스레스트 동쪽 밭 지역에서 탈것을 타고 이동시 평지에서도 탈것이 울타리넘기를 수행하는 현상
+PROJECTT-21814	2024-08-05	2024-08-08	Bug	DONE	보고자	dowan	seokwan		Client		[클라] 시타델 월드에서 가젯들이 공중에서 스폰되는 문제
+HELPDESK-75922	2024-08-05	2024-08-05	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+NNT-6335	2024-08-06	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	PC액션,기억의제단	01. 기획[Planning Issues]		[기억의제단] 황금 골짜기의 그리핀 > 슬로프 지형에서 PC 점프시 미끄러지지 않고 낙하데미지를 받으며, 걸어 내려가게됩니다.
+NNT-6400	2024-08-07	2024-11-28	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹	03. 클라이언트[Client]		[레벨기믹] 문 열기 기믹 역조작시 PC의 이동모션 및 조작위치가 어색해집니다.
+NNT-6470	2024-08-09	2024-09-30	Defect	DONE	과거담당	jeongwoo	jeongwoo	연기나는오두막,월드	01.-1. 기획[Uasset]		[월드][연기나는오두막] '연기 나는 오두막 : 동굴 앞 야영지'에서 말이 갇혀있던 울타리 내부로 점프해 들어갈 수 있으며, 울타리 내부에서 탈출이 불가능한 현상
+NNT-6487	2024-08-09	2024-10-31	Defect	DONE	과거담당	heungshik	heungshik	연기나는오두막	03. 클라이언트[Client]		[연기나는오두막] 연기나는 오두막 : 버려진 유적지 야인 오두막 > 전투 지역내 네비메시가 비어있는 안전지대가 있으며, 점프를 통해 지붕위로 올라타는것이 가능합니다.
+NNT-6492	2024-08-09	2024-09-20	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 몰스타운 근방의 물가의 깊은물 설정이 실제 보이는것보다 깊게 설정되어 다소 어색합니다.
+NNT-6499	2024-08-09	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	월드	01. 기획[Planning Issues]		[월드] 몰스타운의 외벽이 PC보다 높음에도 볼팅펜스가 설정되어 있습니다.
+NNT-6504	2024-08-09	2024-09-20	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 점령된 구역 : 허브 빌리지 > 일부 지형에 블로킹 볼륨이 설정되어 있어 진입이 되지 않습니다.
+NNT-6516	2024-08-12	2024-09-20	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹	01.-1. 기획[Uasset]		[레벨기믹] 몰스타운 근방의 폐가에 위치한 GoUp박스의 착지 위치에 턱이있어 PC가 정확히 올라타지 못합니다.
+NNT-6598	2024-08-13	2024-11-06	Defect	DONE	과거담당	heungshik	heungshik	전투	01.-1. 기획[Uasset]		[전투] NPC의 사거리 밖 네비메시가 비어있는 곳에  위치시, NPC는 1분 이후 추적 포기 및 초기화되어야 하나, 해당 지역을 떠나지 않습니다.
+PROJECTT-21999	2024-08-13	2025-06-18	Sub-Task	DONE	보고자	minseok.seo	seokwan	리치_2.1_올드타운	Animation	PROJECTT-9576	[프랍-에셋][애니] 올드타운 시타델 도서관 실내 외문
+NNT-6610	2024-08-13	2024-09-30	Defect	DONE	과거담당	eunyoul	eunyoul	월드	03. 클라이언트[Client]		[월드] 캐슬블랙에 PC가 갇힐 수 있는 지형이 있습니다.
+NNT-6640	2024-08-14	2024-09-20	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹,전투	01.-1. 기획[Uasset]		[전투] 문 열기 기믹으로 진입되는 폐쇄된 공간에서 NPC Idle 상태 유도 후 지역 이탈 > 문 열기 기믹 너머의 NPC를 손쉽게 처치 가능합니다.
+NNT-6671	2024-08-16	2024-11-28	Defect	DONE	과거담당	heungshik	heungshik	네비메시,리치_올드타운,전투,퀘스트	04. 아트[Art]		[전투][퀘스트] 금지된 지식 > 도서관의 출구 점거하기 Task > 주변 프랍을 이용하여 pc 피해 없이 정예 npc 처치가 가능합니다.
+NNT-6679	2024-08-16	2024-09-20	Defect	DONE	과거담당	heungshik	heungshik	프로젝타일	01. 기획[Planning Issues]		[프로젝타일] 금지된 지식 '방해하는 도둑들 물리치기' Task > 특정 위치에서 원거리 공격시 발사체가 적NPC에게 히트되지 않습니다.
+NNT-6689	2024-08-16	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	리치_올드타운,퀘스트	01.-1. 기획[Uasset]		[퀘스트] 금지된 지식 '시타델 뒷문으로 빠져나가기' Task > 가젯 조작시 배경이 일순간 사라져 보이며, 이전 Task에서 처치한 거인이 리스폰되어 있습니다.
+NNT-6773	2024-08-19	2024-09-24	Defect	DONE	과거담당	taehyung	taehyung	연기나는오두막,월드,은신	01.-1. 기획[Uasset]		[연기나는오두막][월드][은신] 산적 야영지 오두막 특정 부쉬에 숨어도 은신 효과가 적용되지 않는 현상
+NNT-6839	2024-08-20	2024-09-30	Defect	DONE	과거담당	taehyung	taehyung	월드	01.-1. 기획[Uasset]		[월드] 레인보우제티 마을 항구쪽 난간이 볼팅펜스로 설정되어있는 현상
+NNT-6854	2024-08-20	2024-10-07	Suggestions	DONE	과거담당	taehyung	taehyung	점령된구역	01. 기획[Planning Issues]		[점령된구역] 로즈워터 점령된구역에 배치된 NPC 종류와 개체수가 클리어 조건과 상이한 현상 문의
+NNT-7086	2024-08-22	2024-10-08	Defect	DONE	과거담당	eunyoul	eunyoul	리치_올드타운,메인퀘스트,퀘스트	01. 기획[Planning Issues]		[퀘스트] 금지된 지식 거인 처치하기 태스크에서 진입 지점 방향으로 넉백 당하면 길막 가젯 너머로 이동됩니다.
+NNT-7088	2024-08-22	2024-09-13	Defect	DONE	과거담당	euijun	euijun	기억의제단	01.-1. 기획[Uasset]		[기억의제단] 황금 골짜기의 그리핀 던전에서 특정 병사의 외형이 어색하게 출력되는 현상
+NNT-7094	2024-08-22	2024-11-01	Defect	DONE	과거담당	heungshik	heungshik	점령된구역	01.-1. 기획[Uasset]		[점령된구역] 점령된 구역 : 클리프사이드 > 일부 네비메시가 끊긴곳이 존재하여 해당 구역에 위치시 npc가 추적이동하지 못하거나 모션이 굳습니다.
+NNT-7096	2024-08-22	2024-09-26	Defect	DONE	과거담당	heungshik	heungshik	길찾기	01.-1. 기획[Uasset]		[길찾기] 올드타운:세력은신처 > 길이 있으나 길찾기 안내가 되지 않습니다.
+NNT-7102	2024-08-23	2024-09-23	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹	01. 기획[Planning Issues]		[레벨기믹] 올드타운:세력은신처 > 특정 위치의 문 기믹이 동작하지 않습니다.
+NNT-7118	2024-08-23	2024-09-23	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 미든크로스 마을 이정표 근방 프랍사이로 점프시 캐릭터가 무수히 떨리면서 조작이 불가해집니다.
+NNT-7125	2024-08-23	2025-01-02	Defect	DONE	과거담당	heungshik	heungshik	월드	00. 데이터테이블[DataTable]		[월드] 출발의 조건 '짐마차를 훔친 산적들 처치하기' Task > 특정 지형에 위치시 pc가 끼어 이동이 불가합니다.
+NNT-7132	2024-08-23	2024-10-16	Defect	DONE	과거담당	heungshik	heungshik	네비메시,전투	01.-1. 기획[Uasset]		[전투] 출발의 조건 '동굴 빠져나가기' Task > 전투지역내 네비메시가 빈곳이 있어 해당 위치에서 공격시 npc가 추적이동하지 않고 굳어버립니다.
+NNT-7163	2024-08-23	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	리치_하이가든,전투	01.-1. 기획[Uasset]		[전투] 장미의 길 '팩스턴 제압하기' Task > 전투 지역내 텐트위로 이동이 가능합니다
+NNT-7164	2024-08-23	2024-11-01	Defect	DONE	과거담당	heungshik	heungshik	네비메시,전투	01.-1. 기획[Uasset]		[전투] 장미의 길 '팩스턴 제압하기' Task > 전투 지역내 네비 메시가 끊어진곳이 존재하여 npc 의 추적 이동이 없거나 모션이 굳어버립니다.
+NNT-7191	2024-08-23	2024-11-01	Defect	DONE	과거담당	heungshik	heungshik	네비메시	01.-1. 기획[Uasset]		[전투] 장미의 길 '매복한 도적들 처치하기' Task > 네비 메시가 끊어진 곳이 존재합니다.
+NNT-7193	2024-08-23	2024-09-23	Defect	DONE	과거담당	heungshik	heungshik	리치_하이가든,전투	01.-1. 기획[Uasset]		[전투] 장미의 길 '매복한 도적들 처치하기' Task > NPC들이 나무 목책 가젯을 통과하여 PC를 추적합니다.
+NNT-7204	2024-08-23	2024-09-23	Defect	DONE	과거담당	heungshik	heungshik	SFX	04. 아트[Art]		[SFX] 하이 가든 내 특정 물 타일에 평지에서의 발걸음 효과음이 적용되어있습니다.
+NNT-7207	2024-08-23	2024-09-24	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 하이가든 내 각 구역별 입구가 좁아 탈것으로 이동이 불가합니다.
+NNT-7211	2024-08-26	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	네비메시,전투	01.-1. 기획[Uasset]		[전투] 사라진 독 '가짜 재단사 처치' Task > 전투 지역내 네비 메시가 빈곳이 있어 해당 위치로 이동시 일부 npc의 위협 모션 및 추적이동이 없습니다.
+NNT-7245	2024-08-26	2024-10-04	Defect	DONE	과거담당	heungshik	heungshik	네비메시,전투	00. 데이터테이블[DataTable]		[전투] 위험한 만찬장 '포도주 도둑 처치하기' Task > 미로 정원 전투 지역내 네비메시가 끊어진곳이 다수 존재합니다.
+NNT-7285	2024-08-26	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	네비메시,서브퀘스트,전투	01.-1. 기획[Uasset]		[전투] 위험에 빠진 장인 '용병들 처치하기' Task > 전투 지역내 네비메시가 끊어진곳이 존재합니다.
+NNT-7295	2024-08-26	2024-11-01	Defect	DONE	과거담당	heungshik	heungshik	전투,프로젝타일	02. 서버[Server]		[전투] 위험에 빠진 장인 '용병들 처치하기' Task > 전투 지역내 네비메시가 끊어진곳이 존재하며, 원거리 공격시 발사체가 일부 프랍을 통과하여 명중됩니다.
+NNT-7321	2024-08-27	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	네비메시,리치_하이가든,서브퀘스트,전투	01.-1. 기획[Uasset]		[전투] 범죄 마을 '토빈 제압하기' Task > 전투 지역내 네비메시가 끊어진곳이 다수 존재합니다.
+NNT-7328	2024-08-27	2025-02-12	Defect	DONE	과거담당	heungshik	heungshik	네비메시,전투	01.-1. 기획[Uasset]		[전투] 범죄 마을 '도적단 처치하기' Task > 전투 지역내 네비메시가 끊어진 곳이 다수 존재합니다.
+NNT-7329	2024-08-27	2024-09-23	Defect	DONE	과거담당	heungshik	heungshik	길찾기	01.-1. 기획[Uasset]		[길찾기] 범죄 마을 '토빈이 언급한 소작농 찾아가기' Task > 길이 있으나 점선으로 안내됩니다.
+NNT-7332	2024-08-27	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	네비메시,전투	01.-1. 기획[Uasset]		[전투] 범죄 마을 '도적단 처치하기' Task > 전투 지역 내 네비메시가 끊어진 곳이 존재합니다.
+NNT-7340	2024-08-27	2024-09-24	Defect	DONE	과거담당	heungshik	heungshik	길찾기	01.-1. 기획[Uasset]		[길찾기] '롱의 야영지 인근 숨겨진 산적 야영지', '하이가든:세력은신처' 길찾기시, 갈수 없는 경로의 길을 안내합니다.
+NNT-7342	2024-08-27	2024-10-16	Defect	DONE	과거담당	heungshik	heungshik	연기나는오두막	01.-1. 기획[Uasset]		[연기나는오두막] 연기 나는 오두막 : 롱의 야영지 인근 숨겨진 산적 야영지' > 전투 지역내 네비메시가 끊어지거나 빈곳이 존재합니다.
+NNT-7344	2024-08-27	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	연기나는오두막	01.-1. 기획[Uasset]		[연기나는오두막] 연기 나는 오두막 : 롱의 야영지 인근 숨겨진 산적 야영지' > 전투지역내 텐트위로 PC 이동이 가능합니다.
+NNT-7345	2024-08-27	2025-04-16	Defect	DONE	과거담당	heungshik	heungshik	연기나는오두막	01.-1. 기획[Uasset]		[연기나는오두막] 연기 나는 오두막 : 롱의 야영지 인근 숨겨진 산적 야영지' > 전투 상태로 특정 지형에 위치시 주변 프랍에 막혀 PC가 빠져나오지 못합니다.
+NNT-7379	2024-08-28	2024-09-26	Defect	DONE	과거담당	taehyung	taehyung	세력은신처	01.-1. 기획[Uasset]		[세력은신처] 올드타운 세력은신처 특정 위치에 NPC 이동을 방해하는 환경 오브젝트가 배치되어있는 현상
+NNT-7383	2024-08-28	2024-09-27	Defect	DONE	과거담당	taehyung	taehyung	레벨기믹,세력은신처	00. 데이터테이블[DataTable]		[세력은신처][레벨기믹] 올드타운 세력은신처 클리어 전 특정 문 기믹이 상호작용 되지않고 아무런 메세지가 출력되지 않는 현상
+NNT-7385	2024-08-28	2024-10-16	Defect	DONE	과거담당	heungshik	heungshik	리치_하이가든,전투	01.-1. 기획[Uasset]		[전투] 범죄 마을 '메로우의 집 앞 도적단 처치하기' Task > 전투 지역내 네비메시가 비어있거나, 끊겨 있는 지형이 존재합니다.
+NNT-7399	2024-08-28	2024-09-30	Defect	DONE	과거담당	heungshik	heungshik	위치동기화	01.-1. 기획[Uasset]		[위치동기화] 프랍 위에 위치한 상태에서 적에게 피격시 PC는 프랍에 묻혀 갇힙니다.
+NNT-7418	2024-08-28	2024-10-02	Defect	DONE	과거담당	heungshik	heungshik	점령된구역	01.-1. 기획[Uasset]		[점령된구역] 점령된 구역 : 로즈워터 > 전투 지역내 네비메시가 끊어진 곳이 존재합니다.
+NNT-7436	2024-08-28	2024-10-16	Defect	DONE	과거담당	heungshik	heungshik	전투	01.-1. 기획[Uasset]		[전투] 기사가 되어라 '도적단 처치하기' Task > 전투 지역내 네비메시가 비어있거나 끊어진곳이 존재합니다.
+NNT-7440	2024-08-28	2024-10-02	Defect	DONE	과거담당	heungshik	heungshik	리치_하이가든,서브퀘스트	01.-1. 기획[Uasset]		[서브퀘스트] 기사가 되어라 '습격당한 장소의 도적단 처치하기' Task > 전투지역내 네미메시가 끊어진 곳이 존재합니다.
+NNT-7446	2024-08-28	2024-10-16	Defect	DONE	과거담당	heungshik	heungshik	연기나는오두막	01.-1. 기획[Uasset]		[연기나는오두막] 연기 나는 오두막 : 로지워터 인근 산적 야영지 > 전투 지역내 네비메시가 비어있거나 끊긴곳이 존재 합니다.
+NNT-7447	2024-08-28	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	연기나는오두막	01.-1. 기획[Uasset]		[연기나는오두막] 연기 나는 오두막 : 로지워터 인근 산적 야영지 > 전투 지역내 텐트 위로 이동이 가능합니다.
+NNT-7451	2024-08-28	2024-09-25	Defect	DONE	과거담당	inho.jeong	inho.jeong	세력은신처	01.-1. 기획[Uasset]		[세력은신처] 세력 은신처 : 토르헨스퀘어에 상자 레벨 기믹이 공중에 떠있는것처럼 보이는 현상
+NNT-7457	2024-08-28	2024-11-01	Defect	DONE	과거담당	heungshik	heungshik	점령된구역	02. 서버[Server]		[점령된구역] 점령된 구역 : 레인보우 제티 > 항구 쪽 NPC가 PC를 향한 위협 모션 중 물가로 추락합니다.
+NNT-7461	2024-08-28	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	점령된구역	01.-1. 기획[Uasset]		[점령된구역] 점령된 구역 : 레인보우 제티 > 보스 스폰 지역 근방에 네비메시까 끊어진곳이 존재하며 이를 이용한 쉬운 전투가 가능합니다.
+NNT-7462	2024-08-28	2024-10-16	Defect	DONE	과거담당	heungshik	heungshik	네비메시,점령된구역	01.-1. 기획[Uasset]		[점령된구역] 점령된 구역 : 레인보우 제티 > 네비메시가 비어있거나 끊어진 곳이 다수 존재 합니다.
+NNT-7467	2024-08-29	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	점령된구역	01.-1. 기획[Uasset]		[점령된구역] 점령된 구역 : 허브힐 > 전투 지역내 네비메시가 비어있거나 끊어진곳이 존재합니다.
+NNT-7468	2024-08-29	2025-05-21	Defect	DONE	과거담당	heungshik	heungshik	점령된구역	01.-1. 기획[Uasset]		[점령된구역] 점령된 구역 : 허브힐 > 전투 지역내 특정 건물 벽면에 볼팅펜스가 설정되어있습니다.
+NNT-7471	2024-08-29	2024-09-25	Defect	DONE	과거담당	heungshik	heungshik	길찾기	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 모래막이 요새 >  길이 있으나 길찾기시 점선으로 안내됩니다.
+NNT-7478	2024-08-29	2024-10-16	Defect	DONE	과거담당	heungshik	heungshik	연기나는오두막	01.-1. 기획[Uasset]		[연기나는오두막] 연기 나는 오두막 : 인어 요새 인근 디스아너드 은신처 > 전투 지역내 네비메시가 비어있거나 끊겨있는 곳이 존재합니다.
+NNT-7479	2024-08-29	2024-10-14	Defect	DONE	과거담당	heungshik	heungshik	연기나는오두막	01.-1. 기획[Uasset]		[연기나는오두막] 연기 나는 오두막 : 인어 요새 인근 디스아너드 은신처 > 전투 지역내 텐트위로 PC 이동이 가능합니다.
+NNT-7480	2024-08-29	2025-04-16	Defect	DONE	과거담당	heungshik	heungshik	연기나는오두막	01.-1. 기획[Uasset]		[연기나는오두막] 연기 나는 오두막 : 인어 요새 인근 디스아너드 은신처 > 특정 위치의 암석들에서 npc들이 땅에서 솟아오르듯 PC에게 이동됩니다.
+PROJECTT-22301	2024-08-29	2025-06-18	Sub-Task	DONE	보고자	kyubong	seokwan		TA	PROJECTT-21248	[월드][TA] FX 머티리얼에 디졸브 파라미터 추가
+NNT-7487	2024-08-29	2024-09-23	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹,버려진유적지	01. 기획[Planning Issues]		[레벨기믹] 버려진 유적지 : 녹색 항구 > 유적지내 문 기믹 조작이 불가합니다.
+NNT-7491	2024-08-29	2024-09-23	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 녹색 항구 > 벽화판 옆에 연결된 나무다리의 지면이 좁습니다.
+NNT-7493	2024-08-29	2024-09-23	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 학자의 성채 > 유적지내 특졍 지형에 PC가 공중에 떠있는것처럼 보이는 지형이 존재합니다.
+NNT-7529	2024-08-29	2025-04-10	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 학자의 성채 > 특정 위치 진입시, PC가 공중에 떠있는것처럼 표현됩니다.
+NNT-7626	2024-09-04	2024-09-25	Defect	DONE	과거담당	inho.jeong	inho.jeong	세력은신처	01. 기획[Planning Issues]		[세력은신처] 올드타운 세력은신처 문 기믹이 열려있어도 통과가 불가한 현상
+NNT-7669	2024-09-04	2024-10-08	Defect	DONE	과거담당	euijun	euijun	월드,흉포한동물	01.-1. 기획[Uasset]		[흉포한동물][월드] 햐얀 엘크와 전투 시 특정 위치에서 공격 받지 않고 하얀 엘크를 타격 할 수 있는 현상
+NNT-7682	2024-09-04	2024-09-24	Defect	DONE	과거담당	heungshik	heungshik	레벨기믹	01.-1. 기획[Uasset]		[레벨기믹] 전투 지역내 열려있는 문기믹에 이동 제한 장막이 설치된 경우 기믹 주변의 텍스처가 노란색으로 빛납니다.
+NNT-7684	2024-09-04	2024-09-13	Defect	DONE	과거담당	euijun	euijun	흉포한동물	01.-1. 기획[Uasset]		[흉포한동물] 하얀 엘크와 전투 시작 시 전투 영역에 경계선이 생성되며 선 밖으로 이동할 수 없는 현상
+PROJECTT-22410	2024-09-05	2024-09-05	Sub-Task	DONE	현담당	seokwan	sungmin.jung	점령된구역	Design	PROJECTT-11366	[3.3.][크로우즈네스트][레벨] 점령된 구역 레벨디자인
+PROJECTT-22415	2024-09-05	2025-06-18	Task	DONE	현담당	seokwan	sungmin.jung	세력은신처	Design		[월드][레벨] 올드타운 세력은신처 몬스터/미션/기믹 적용
+PROJECTT-22418	2024-09-05	2024-09-23	Task	DONE	과거담당	eunji_jang	sungmin.jung	세력은신처	Design		[월드][레벨] 하이가든 세력은신처 몬스터/미션/기믹 적용
+PROJECTT-22422	2024-09-05	2025-06-18	Task	DONE	과거담당	sungmin.jung	sungmin.jung	버려진유적지	Design		[월드][레벨] 버려진 유적지 플레이 개선
+PROJECTT-22423	2024-09-05	2025-06-18	Task	DONE	과거담당	jieun.kwon	sungmin.jung	버려진유적지	Design		[월드][레벨] 버려진 유적지 플레이 개선
+PROJECTT-22429	2024-09-05	2024-12-16	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	레벨디자인,버려진유적지,스톰랜드_3.3_크로우즈네스트	Design	PROJECTT-11366	[3.3.][크로우즈네스트][레벨] 필드 컨텐츠-버려진 유적지
+NNT-7802	2024-09-06	2024-09-25	Defect	DONE	과거담당	taehyung	taehyung	월드,퀘스트	01.-1. 기획[Uasset]		[퀘스트] 금지된 지식 - 도둑들 추격하기 태스크에서 사다리가 MIDDLE WARTER 지형에 배치되어있어 상호작용이 불가능한 현상
+NNT-7803	2024-09-06	2024-09-27	Defect	DONE	과거담당	taehyung	taehyung	퀘스트	00. 데이터테이블[DataTable]		[퀘스트] 금지된 지식 - 도서관 제한 구역으로 들어가기 테스크 진행시 샘웰 탈리 NPC가 디스폰 > 다음 위치에 재생성 되지 않는 현상
+NNT-7860	2024-09-09	2024-09-25	Defect	DONE	과거담당	heungshik	heungshik	길찾기,미니맵,월드맵,최북단	01.-1. 기획[Uasset]		[길찾기] 라스트허스와 강철 '라스트 허스에 도움 요청하기' Task > 길찾기 동선에 불필요한 경로가 안내됩니다.
+NNT-7871	2024-09-09	2024-09-25	Defect	DONE	과거담당	heungshik	heungshik	길찾기,미니맵,월드맵	01.-1. 기획[Uasset]		[길찾기] 라스트허스와 강철 '흔적을 따라가기' Task > 길찾기 경로내 불필요한 경로가 안내됩니다.
+HELPDESK-79758	2024-09-09	2024-09-09	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+NNT-7973	2024-09-11	2024-09-26	Defect	DONE	과거담당	taehyung	taehyung	길찾기	01.-1. 기획[Uasset]		[길찾기] 리치 지역에서 기사가 되어라 서브퀘스트 길찾기 선택시 길안내가 출력되지 않는 현상
+HELPDESK-80075	2024-09-11	2024-09-11	온도조절 요청	Close	보고자	vbhlee	seokwan				[35층] Art-4,5,6 시원하게 해주세요.
+NNT-8039	2024-09-12	2024-09-27	Defect	DONE	과거담당	inho.jeong	inho.jeong	흉포한동물	01.-1. 기획[Uasset]		[흉포한동물] 전설의 곰 특정 영역에 장막이 생성되지 않아 올라가서 공격이 가능한 현상
+NNT-8205	2024-09-20	2024-10-02	Defect	DONE	과거담당	heungshik	heungshik		01.-1. 기획[Uasset]		[월드] 점령된 구역 : 허브 빌리지 > 암석 프랍을 이용하여 목책 위로 이동이 가능합니다.
+NNT-8206	2024-09-20	2024-10-02	Defect	DONE	과거담당	heungshik	heungshik	월드	01.-1. 기획[Uasset]		[월드] 몰스타운 근방의 폐가에 위치한 GoUp박스에 불필요한 프랍이 설치되어 있습니다.
+NNT-8255	2024-09-23	2024-11-04	Defect	DONE	과거담당	heungshik	heungshik	FX장막,전투,피격,피격시_콜리전	01.-1. 기획[Uasset]		[전투] 보이지 않는 손 '카버의 비밀병기 처치' Task > 장막에서 피격시 장막 밖으로 밀려나가 재진입이 되지 않습니다.
+NNT-8272	2024-09-24	2024-11-04	Defect	DONE	과거담당	heungshik	heungshik	FX장막,전투,피격시_콜리전	01.-1. 기획[Uasset]		[전투] 귀향 '텐족 전사와 전투' Task > 장막에 근접한 상태에서 피격시, 장막 바깥으로 밀려나갑니다.
+NNT-8279	2024-09-24	2024-12-02	Defect	DONE	과거담당	heungshik	heungshik	인카운터	00. 데이터테이블[DataTable]		[인카운터] 최북단 : 까마귀 전서구 인카운터 영역 / 롱레이크 다리 > 동굴 내부의 상자 가젯들이 묻혀 있습니다.
+NNT-8297	2024-09-25	2024-09-26	Defect	DONE	과거담당	heungshik	heungshik	리치_올드타운	01.-1. 기획[Uasset]		[퀘스트] 금지된 지식 '도서관의 출구 점거하기' Task > 입구쪽에서 원거리 공격시, PC를 향한 추적이동이 없습니다.
+NNT-8344	2024-09-26	2024-09-30	Defect	DONE	과거담당	taehyung	taehyung	월드,인카운터	01.-1. 기획[Uasset]		[인카운터][월드] 볼튼 병사 처단 인카운터 전투구역에 GoUp박스가 설치되어 전투 중 NPC 접근 불가 구역으로 이동 가능한 현상
+NNT-8353	2024-09-26	2024-11-05	Defect	DONE	과거담당	heungshik	heungshik	리치_올드타운,전투,퀘스트,피격시_콜리전	01.-1. 기획[Uasset]		[전투] 금지된 지식 '도서관의 출구 점거하기' Task > 장막에서 피격시 장막 밖으로 밀려나갑니다.
+PROJECTT-22852	2024-09-26	2025-08-11	Bug	DONE	과거담당	jinjunhyuk	deokgyu	장벽너머원정	Client		[성장][장벽너머원정] 멀티에서 낙사 시, 정상적으로 사망 처리가 되지 않는 이슈
+NNT-8430	2024-09-30	2024-10-08	Defect	DONE	과거담당	taehyung	taehyung	레벨기믹	01.-1. 기획[Uasset]		[레벨기믹] 최북단 특정 위치의 크레인 기믹에서 GoUp 박스와 크레인 연결 선이 보이지 않는 현상
+NNT-8433	2024-09-30	2024-10-28	Defect	DONE	과거담당	taehyung	taehyung	레벨기믹	01.-1. 기획[Uasset]		[레벨기믹] 최북단 특정 위치의 GoUp박스를 특정 방향에서 이용시 위쪽 환경에 막혀 올라가지 못하는 현상
+NNT-8438	2024-09-30	2024-10-07	Defect	DONE	과거담당	taehyung	taehyung	가젯	01.-1. 기획[Uasset]		[가젯] 웜워크 입구 앞 건물 전서구 위치에 배치된 파괴형 가젯 위치가 통로 뒤쪽에 배치된 현상
+PROJECTT-22980	2024-10-07	2025-06-18	Task	DONE	보고자	minseok.seo	seokwan		Animation		[애니] 문BP 몽타주 각도 별 추가 요청
+NNT-8504	2024-10-07	2025-10-21	Dev Bug	DONE	현담당	seokwan	seokwan		01. 기획[Planning Issues]		[클라] 시타델 월드에서 질주를 하면 아직 닿지도 않은 포탈 에리어에 들어간 것으로 판정됨.
+NNT-8681	2024-10-15	2024-11-01	Defect	DONE	과거담당	heungshik	heungshik	기억의제단	04. 아트[Art]		[기억의제단] 황금 골짜기의 그리핀 > 월드내 일부 지형 지물들에 컬리전이 없어 통과됩니다.
+NNT-8747	2024-10-17	2024-11-07	Defect	DONE	과거담당	heungshik	heungshik	FX장막	01.-1. 기획[Uasset]		[FX장막] 대부분의 컨텐츠에서 사용되는 장막에 근접한 상태에서 피격시 PC가 밀려 지역을 이탈합니다.
+PROJECTT-23254	2024-10-22	2025-06-18	Sub-Task	DONE	과거담당	seeun	seeun	길찾기	Design	PROJECTT-23255	[성장][길찾기][레벨] 조건에 의해 오픈되는 길에 대한 처리 추가
+NNT-8970	2024-10-22	2024-11-08	Defect	DONE	과거담당	heungshik	heungshik	북부_윈터펠,전투,퀘스트	01. 기획[Planning Issues]		[전투] 토르헨스퀘어 공방전 '적군 지휘관 처치하기' Task > 입구 막기용 목책 가젯에 근접하여 피격시, PC및 NPC가 가젯 위로 솟구칩니다.
+NNT-9020	2024-10-23	2024-11-04	Defect	DONE	과거담당	euijun	euijun	흉포한동물	01.-1. 기획[Uasset]		[흉포한동물] 동굴 입구 부근에서 거대 곰과 전투 시 간헐적으로 거대 곰이 장막 안으로 이동하는 현상
+NNT-9037	2024-10-23	2024-10-29	Defect	DONE	과거담당	seungwoo.l	seungwoo.l	기억의제단	00. 데이터테이블[DataTable]		[기억의제단] 그리핀 입장 - 입구에서 죽은 병사 시체와 인터렉션이 불가한 현상
+NNT-9042	2024-10-23	2024-11-04	Defect	DONE	과거담당	euijun	euijun	월드,흉포한동물	01.-1. 기획[Uasset]		[흉포한동물][월드] 거대 곰과 전투 시 특정 위치에서 공격 받지 않고 거대 곰을 타격 할 수 있는 현상
+NNT-9207	2024-10-29	2025-04-16	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 혼우드 성 남쪽 > 의도된 퍼즐 순서를 무시하고 조각 획득이 가능합니다.
+NNT-9223	2024-10-29	2024-11-01	Defect	DONE	과거담당	euijun	euijun	기억의제단	01.-1. 기획[Uasset]		[기억의제단] 황금 골짜기의 그리핀 던전에서 문 열기 가젯 조작 후 캐릭터가 문 너머로 이동할 수 없는 현상
+NNT-9296	2024-10-31	2024-11-13	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01. 기획[Planning Issues]		[버려진유적지] 버려진 유적지 : 몰스타운 > 일부 구간의 퍼즐 해소가 되지 않습니다.
+NNT-9425	2024-11-06	2025-04-16	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 녹색항구 > 벽화판이 벽에 떨어져 설치되어 있습니다.
+NNT-9473	2024-11-07	2025-04-16	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 기프트 > 벽화 뒤편에 숨겨진 비밀 공간이 있으며, 파괴시, 불이 피어오릅니다.
+NNT-10453	2024-12-02	2024-12-17	Defect	DONE	과거담당	taehyung	taehyung	길찾기	04. 아트[Art]		[길찾기] 라스트 허스 입구 위쪽 특정 길은 길안내가 적용되지 않는 현상
+NNT-10529	2024-12-03	2025-01-03	Suggestions	DONE	과거담당	heungshik	heungshik		01.-1. 기획[Uasset]		[현상수배] 선다운 퍼치 마을에 현상 수배 게시판이 꾸밈용으로 설치되어 있는건
+NNT-10537	2024-12-03	2025-01-03	Defect	DONE	과거담당	heungshik	heungshik	리치_올드타운,퀘스트	04. 아트[Art]		[퀘스트] 금지된 지식 '도서관의 출구 점거하기' Task > 전투 지역내 일부 네비메시가 분리된곳이 있어 npc가 추적 접근하지 못합니다.
+PROJECTT-24457	2024-12-03	2025-06-18	Bug	DONE	과거담당	sungmin.jung	jinjunhyuk		Design		[월드][버려진유적지] 지형에 끼이는 현상
+PROJECTT-24627	2024-12-05	2025-06-18	Bug	DONE	보고자	sungmin.jung	seokwan	전사테스트	Design		[전사테스트] 토르헨 스퀘어 유적지 첫 구역 색상이 다른 프랍 수정
+PROJECTT-24629	2024-12-05	2025-06-18	Bug	DONE	보고자	sungmin.jung	seokwan		Design		[전사테스트] 올드타운 양조장 지하 기믹 점프구간이 너무 어려움
+PROJECTT-24630	2024-12-05	2025-06-18	Bug	DONE	보고자	sungmin.jung	seokwan	가젯,리치_2.1_올드타운,버려진유적지	Design		[전사테스트][버려진유적지] 올드타운 학자의 성채 버려진 유적에 캐리 가젯이 무용지물 됨
+PROJECTT-24631	2024-12-05	2025-06-18	Bug	DONE	보고자	sungmin.jung	seokwan	리치_2.1_올드타운,전사테스트	Design		[전사테스트][레벨] 시타델 도서관 책장 프랍 중 일부에 컬리전 없음
+PROJECTT-24644	2024-12-05	2025-06-18	Bug	DONE	보고자	eunji_jang	seokwan	레벨기믹,리치_2.1_올드타운,카메라	Design		[전사테스트][레벨] 시타델 도서관 지하수로 사다리 올라갈 때 카메라가 메시 뚫는 현상
+PROJECTT-24646	2024-12-05	2025-06-18	Bug	DONE	보고자	sungmin.jung	seokwan	전사테스트	Design		[전사테스트] 최북단 사냥꾼의 집 앞에 허공에 떠있는 이펙트 제거
+PROJECTT-24647	2024-12-05	2025-06-18	Bug	DONE	보고자	sungmin.jung	seokwan	전사테스트	Design		[전사테스트] 최북단 2.0 버려진 유적 2단 사다리 교체
+PROJECTT-24648	2024-12-05	2025-06-18	Bug	DONE	보고자	sungmin.jung	seokwan	프랍	Design		[전사테스트][레벨] 테이블 및 의자 프랍 수정
+PROJECTT-24649	2024-12-05	2025-06-18	Bug	DONE	보고자	sungmin.jung	seokwan		Design		[전사테스트][레벨] 끼이는 위치 조정
+PROJECTT-24695	2024-12-05	2025-02-07	Task	DONE	과거담당	sungmin.jung	jinjunhyuk	프랍	Design		[월드][파괴형 프랍] 벽면이 무너지는게 너무 비현실적입니다.
+PROJECTT-24799	2024-12-06	2025-06-18	Bug	DONE	보고자	eunji_jang	seokwan	북부_1.2_윈터펠,토르헨스퀘어	Design		[전사테스트][레벨] 배저홀에 배경 이상한 지점
+PROJECTT-24871	2024-12-06	2025-06-18	Bug	DONE	과거담당	jinjunhyuk	jinjunhyuk	버려진유적지	Client		[월드][버려진유적지] 학자의 성채에서 상자가 굳이 필요 없습니다.
+PROJECTT-24943	2024-12-06	2025-06-18	Bug	DONE	과거담당	juna	juna	지렁이길	Design		[월드][웜워크] 지렁이길 입구 앞 상자 인터렉션 시 끼이는 현상
+PROJECTT-24974	2024-12-09	2025-06-18	Bug	DONE	과거담당	eunji_jang	eunji_jang	레벨기믹,리치_2.1_올드타운,전사테스트	Design		[레벨][문 기믹]시타델 레벨 기믹 문 카메라 위치가 이상합니다 
+PROJECTT-25139	2024-12-11	2025-06-18	Bug	DONE	과거담당	jieun.kwon	jieun.kwon		Design		[전사테스트][월드] 올드타운 세력은신처 실내맵 Area 이슈
+NNT-11179	2024-12-13	2025-01-06	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지 : 참수대 > 첫번째 퍼즐 구역의 끌차 측면 조작이 불가합니다.
+PROJECTT-25503	2024-12-21	2025-01-10	Task	DONE	과거담당	juna	juna		Design		[월드][버려진유적지] 최북단 버려진 유적지 나무 발판 위로 이동 중 떨어지면 나올 수 없는 현상
+NNT-11762	2024-12-26	2025-01-07	Defect	DONE	과거담당	heungshik	heungshik	어그로시스템,점령된구역	00. 데이터테이블[DataTable]		[어그로시스템] 점령된 구역 : 로즈워터 > 입구 밖에서 적 공격시 반응이 없으며, 적 NPC들이 입구밖으로 일정거리 나오지 못합니다.
+NNT-12788	2025-02-04	2026-02-09	Suggestions	DONE	과거담당	seungwoo.l	seungwoo.l	가젯,흉포한동물	00. 데이터테이블[DataTable]		[흉포한동물][가젯] 검은 엘크 주변 가젯 제거 관련 개선 문의
+NNT-14401	2025-03-18	2026-02-09	Defect	DONE	과거담당	heungshik	heungshik	영지퀘스트,흉포한동물	00. 데이터테이블[DataTable]		[영지퀘스트][흉포한동물] 식어버린 화로 '엘크 처치하고 뼈 구하기' Task > 전투 구역 놓여진 파괴형 가젯들의 파괴 연출 효과 없이 디스폰됩니다.
+NNT-18969	2025-07-16	2026-04-29	Defect	DONE	과거담당	euijun	euijun	실내맵,월드	01.-1. 기획[Uasset]		[월드][실내맵] 지렁이길 건물 외부 특정 위치로 이동 시 미니맵이 실내맵으로 전환되어 출력되는 현상
+NNT-21922	2025-11-06	2026-01-20	Defect	DONE	과거담당	heungshik	heungshik	월드	04. 아트[Art]		[월드] 최북단 늑대굴 인카운터의 최종 보상 상자 배치 구역내 암살자 클래스의 캐릭터가 지면에 묻힙니다.
+NNT-22402	2025-12-01	2026-01-20	Defect	DONE	과거담당	heungshik	heungshik	세력은신처	01.-1. 기획[Uasset]		[세력은신처] 레이븐스락 요새의 보스구역 이후 마지막 잠긴문의 걸쇠가 유독 크며 높이가 캐릭터 모션 높이에 맞지 않습니다.
+GOAT-163	2025-12-23	2026-05-08	Defect	POSTPONED	과거담당	sunho	sc1991	길찾기경로표시,잔존세력	03. 클라이언트[Client]		[잔존세력] 리치 > 끊어진 진리의 사슬 > 보스 부근 일부 이정표에서 길찾기 시, 길찾기 경로가 최단거리가 아닌 우회 경로로 표시되는 현상
+GOAT-220	2025-12-23	2026-02-03	Defect	DONE	과거담당	inho.jeong	inho.jeong	월드	00. 데이터테이블[DataTable]		[월드] 캐슬블랙 셀단 NPC 근처에 알 수 없는 오브젝트들이 존재하는 현상
+GOAT-362	2025-12-30	2026-01-20	Defect	DONE	과거담당	taehyung	taehyung	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 몰스타운 다리 기믹 파괴 가능 위치가 한정돼있어 파괴가 불편한 현상
+GOAT-404	2025-12-31	2026-01-14	Defect	DONE	과거담당	taehyung	taehyung	버려진유적지	01. 기획[Planning Issues]		[버려진유적지] 학자의 성채에 필요하지 않은 GoUp 박스 기믹이 배치된 현상
+GOAT-405	2025-12-31	2026-01-13	Defect	DONE	과거담당	taehyung	taehyung	버려진유적지	01. 기획[Planning Issues]		[버려진유적지] 맹약의 언덕 특정 구간에서 연속 점프를 사용해야하는 현상
+GOAT-407	2025-12-31	2026-01-14	Defect	DONE	과거담당	taehyung	taehyung	버려진유적지	01. 기획[Planning Issues]		[버려진유적지] 학자의 성채 마지막 조각 획득 후 벽화까지 바로 이동되는 숏컷이 없습니다
+GOAT-438	2026-01-02	2026-01-20	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 숲의 마녀 > 첫번째 벽화 조각 획득 위치에 GoUp 박스 또는 밝고 올라갈수 있는 프랍 추가가 필요해보입니다.
+GOAT-439	2026-01-02	2026-01-20	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 쓰러진 거인의 왕 > 일반 점프로는 피지컬이 살짝 아슬하며, 반복 점프를 요구하는 동선이 존재합니다.
+GOAT-463	2026-01-05	2026-01-20	Defect	DONE	과거담당	heungshik	heungshik	네비메시,복수자	01.-1. 기획[Uasset]		[복수자] 프로스트 필드. TaskID: 101251000 > 전투 구역내 일부 프랍위로 이동시, NPC가 PC를 인식하지 못합니다.
+GOAT-471	2026-01-05	2026-01-14	Defect	DONE	과거담당	taehyung	taehyung	버려진유적지	01. 기획[Planning Issues]		[버려진유적지] 숲의 마녀 유적지 특정 위치에 추락하지 않는 함정 기믹이 배치되어있습니다
+GOAT-472	2026-01-05	2026-01-14	Defect	DONE	과거담당	taehyung	taehyung	버려진유적지	01. 기획[Planning Issues]		[버려진유적지] 숲의 마녀 유적지 마지막 조각 획득 후 벽화까지 이동하는 숏컷이 없습니다
+GOAT-483	2026-01-05	2026-01-20	Defect	DONE	과거담당	heungshik	heungshik	복수자	01.-1. 기획[Uasset]		[복수자] 애쉬릿지. TaskID: 321201000 > 전투 구역내 볼팅 펜스 너머의 NPC가 추적 불가한 공간으로 이동이 가능하며 일부 네비메시가 비어있는 공간이 존재 합니다.
+GOAT-541	2026-01-06	2026-01-27	Defect	DONE	과거담당	heungshik	heungshik	장벽너머튜토리얼	01.-1. 기획[Uasset]		[장벽너머튜토리얼] 귀향 '나타난 야인들 처치하기' Task > 전투 구역내 네비매시가 빈곳이 다수 존재하여 NPC가 PC에게 도달하지 못합니다.
+GOAT-670	2026-01-07	2026-01-20	Defect	DONE	과거담당	sc1991	sc1991	복수자	01.-1. 기획[Uasset]		[복수자] 허니콧 > 전투 구역 내 NPC가 추적 불가한 프랍이 있습니다.
+GOAT-672	2026-01-07	2026-01-20	Defect	DONE	과거담당	sc1991	sc1991	복수자	01.-1. 기획[Uasset]		[복수자] 애쉬릿지 > 네비메시가 비어있는 곳이 있습니다.
+GOAT-760	2026-01-09	2026-01-20	Defect	DONE	과거담당	heungshik	heungshik	정예은신처	01.-1. 기획[Uasset]		[정예은신처] 정예 은신처 > 보스 구역으로 '바로가기' 이용 없이 수동 진입시, FX장막이 설치된 상태로 진입되지 않습니다.
+GOAT-770	2026-01-09	2026-01-23	Defect	DONE	과거담당	heungshik	heungshik	정예은신처	01.-1. 기획[Uasset]		[정예은신처] 보스 구역 FX 장막 밖에 있는 유저를 이용하여 NPC들을 장막 바깥으로 유인 할 수 있습니다.
+GOAT-794	2026-01-09	2026-01-20	Defect	DONE	과거담당	inho.jeong	inho.jeong	월드	03. 클라이언트[Client]		[월드] 북부 특정 구역에서 라이팅 효과가 어색하게 적용되는 현상
+GOAT-1099	2026-01-20	2026-01-27	Defect	DONE	과거담당	ljp0415	ljp0415	가젯	01.-1. 기획[Uasset]		[가젯] 걸쇠가 있는 문을 열 때 카메라가 PC에 너무 가까워져 부자연스럽습니다.
+GOAT-1333	2026-01-23	2026-02-03	Defect	DONE	과거담당	sc1991	sc1991	레벨	04. 아트[Art]		[월드] 캐슬블랙 ~ 라스트허스 구간 > 블로킹 볼륨이 이상하거나 지형에 파묻히는 곳들이 존재합니다.
+PROJECTT-36039	2026-01-29	2026-01-29	Bug	DONE	보고자	jinjunhyuk	seokwan	질주	Client		[클라] 로컬모드에서 대쉬가 안 되는 현상
+GOAT-2966	2026-03-17	2026-03-24	Defect	DONE	과거담당	seungwoo.l	seungwoo.l	가젯,유저초청회	01.-1. 기획[Uasset]		[유저초청회][가젯] 윈터펠 서브퀘스트 중 일부 문 인터렉션 버튼이 너무 떨어져 있는 현상
+PROJECTT-37965	2026-03-26	2026-03-31	Bug	DONE	과거담당	jaemann	jaemann	데이터레이어,퀘스트	Design		[월드][퀘스트] 시타델 내부 데이터레이어가 이상하게 적용되는 문제
+PROJECTT-38149	2026-04-02	2026-08-08	Task	In Progress	현담당	seokwan	sungmin.jung	레벨디자인,챕터5	Design		[레벨디자인] 챕터 5.2 트윈스 레벨 디자인
+PROJECTT-38150	2026-04-02	2026-08-08	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 시나리오 및 퀘스트 내용 레벨 문서화(요약 정리)
+PROJECTT-38152	2026-04-02	2026-08-08	Sub-Task	DONE	현담당	seokwan	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 필드 목업 (1차 - 지형 : 주요 퀘스트 거점 위치)
+PROJECTT-38151	2026-04-02	2026-08-08	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	쳅터5	Design	PROJECTT-38149	[레벨디자인] 평면도 제작
+PROJECTT-38154	2026-04-02	2026-08-08	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 필드 목업 (3차 - 주요 퀘스트 거점 : 성/마을, 적대 거점, 기타 퀘스트 공간)
+PROJECTT-38153	2026-04-02	2026-08-08	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	챕터5	Design,기획_레벨	PROJECTT-38149	[레벨디자인] 필드 목업 (2차 - 지형 : 주요 컨텐츠 위치 포함)
+PROJECTT-38155	2026-04-02	2026-08-08	Sub-Task	To Do	현담당	seokwan	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 필드 목업 (4차 - 주요 컨텐츠(필드) 1 : 점령된 구역)
+PROJECTT-38156	2026-04-02	2026-08-08	Sub-Task	To Do	현담당	seokwan	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 필드 목업 (5차 - 주요 컨텐츠(필드) 2 : 위기의 성소)
+PROJECTT-38157	2026-04-02	2026-08-08	Sub-Task	To Do	현담당	seokwan	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 필드 목업 (6차 - 주요 컨텐츠(필드) 3 : 연기나는 오두막, 위어우드의 기억)
+PROJECTT-38158	2026-04-02	2026-08-08	Sub-Task	To Do	현담당	seokwan	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 필드 목업 (7차 - 주요 컨텐츠(독립) 1 : 흉포한 동물)
+PROJECTT-38159	2026-04-02	2026-08-08	Sub-Task	To Do	과거담당	jieun.kwon	sungmin.jung	챕터5	Design,기획_레벨	PROJECTT-38149	[레벨디자인] 필드 목업 (8차 - 주요 컨텐츠(독립) 2 : 세력은신처)
+PROJECTT-38162	2026-04-02	2026-06-25	Sub-Task	To Do	현담당	seokwan	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 필드 목업 (11차 - 일반 컨텐츠 2 : 필드 소형 컨텐츠)
+PROJECTT-38160	2026-04-02	2026-08-08	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 필드 목업 (9차 - 주요 컨텐츠(독립) 3 : 버려진 유적지)
+PROJECTT-38161	2026-04-02	2026-08-08	Sub-Task	To Do	현담당	seokwan	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 필드 목업 (10차 - 일반 컨텐츠 1 : 현상수배, 복수자, 보부상)
+PROJECTT-38163	2026-04-02	2026-08-08	Sub-Task	To Do	현담당	seokwan	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 필드 목업 (12차 - 최종 목업 마무리 - 거점 및 컨텐츠를 반영한 최종 지형/DL 구성)
+PROJECTT-38164	2026-04-02	2026-08-08	Sub-Task	To Do	현담당	seokwan	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 레벨 기획서 작성 - 평면도 갱신 / 목업 기반 레퍼런스 활용
+PROJECTT-38169	2026-04-02	2026-09-01	Task	DONE	과거담당	sungmin.jung	sungmin.jung	길위의발견,챕터3	Design		[월드][레벨디자인] Ch3.3 크로우즈네스트 - 필드 소형컨텐츠 배치 가이드 제작
+PROJECTT-38472	2026-04-07	2026-08-08	Sub-Task	DONE	현담당	seokwan	sungmin.jung	챕터5	Design	PROJECTT-38149	[레벨디자인] 콘텐츠 지역 설정 
+GOAT-4024	2026-04-09	2026-04-14	Defect	DONE	과거담당	taehyung	taehyung	메인퀘스트	01.-1. 기획[Uasset]		[메인퀘스트] 샘에게 돌아가기 213101130 퀘스트에서 샘웰 탈리 NPC 모션이 책장 빈곳을 확인하고있는 현상
+PROJECTT-38752	2026-04-14	2026-04-15	Task	DONE	과거담당	sungmin.jung	sungmin.jung	레벨디자인	Design		[월드][레벨디자인] [레벨] 스톰랜드 위기의 성소 실내 볼륨 구성
+GOAT-4389	2026-04-20	2026-04-27	Defect	DONE	과거담당	seungwoo.l	seungwoo.l	메인퀘스트	01.-1. 기획[Uasset]		[메인퀘스트] 금지된 지식 > 도둑들 추격하기 Task 중 시타델 지하에 있지만 지역명이 '시타델'로 노출되는 현상
+GOAT-4537	2026-04-20	2026-04-27	Defect	DONE	과거담당	seungwoo.l	seungwoo.l	세력은신처,월드맵	01.-1. 기획[Uasset]		[세력은신처][월드맵] 쉐이디드 수도원 특정 구역 월드맵이 일치하지 않는 현상
+GOAT-4737	2026-04-21	2026-04-27	Defect	DONE	과거담당	seungwoo.l	seungwoo.l	어뷰징,흉포한동물	01.-1. 기획[Uasset]		[흉포한동물][어뷰징] 거대 곰 지형을 이용한 어뷰징이 가능한 현상
+GOAT-4973	2026-04-22	2026-05-11	Defect	DONE	과거담당	heungshik	heungshik	버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지: 몰스 타운 > 도개교 첫번째 트리거 퍼즐 위치에서 두번째 트리거 까지 조준시 록온 가능합니다.
+GOAT-5039	2026-04-23	2026-04-27	Defect	DONE	과거담당	heungshik	heungshik	SFX,버려진유적지	01.-1. 기획[Uasset]		[버려진유적지][SFX] 버려진 유적지: 녹색 항구 > 암석 타일에서, Foot Walk 타입이 Dirt & Rock 섞여있습니다.
+GOAT-5068	2026-04-23	2026-05-04	Defect	DONE	과거담당	heungshik	heungshik	리치_2.1_올드타운,버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지: 맹약의 언덕 > 끌차 동선내 경사로가 있어 캐릭터의 손과 손잡이가 떨어지게 됩니다.
+GOAT-5086	2026-04-23	2026-04-27	Defect	DONE	과거담당	heungshik	heungshik	리치_2.2_브라이트워터킵,월드	01.-1. 기획[Uasset]		[월드] 브라이트워터킵 내 일부 프랍들이 허공에 떠있습니다.
+GOAT-5103	2026-04-24	2026-04-27	Defect	DONE	과거담당	heungshik	heungshik	리치_2.2_브라이트워터킵,월드	01.-1. 기획[Uasset]		[월드] 현상 수배: 오티스 수행 구역내 일부 프랍이 허공에 떠있습니다.
+GOAT-5113	2026-04-24	2026-04-28	Defect	DONE	과거담당	heungshik	heungshik	리치_2.2_브라이트워터킵,월드	01.-1. 기획[Uasset]		[월드] 점령된 구역: 노스페이스 > 구역내 일부 프랍이 허공에 떠있습니다.
+GOAT-5125	2026-04-24	2026-04-27	Defect	DONE	과거담당	heungshik	heungshik	리치_2.3_하이가든,월드	01.-1. 기획[Uasset]		[월드] 현상수배: 나탈리 수행 구역내 일부 프랍이 허공에 떠있습니다.
+GOAT-5173	2026-04-24	2026-04-27	Defect	DONE	과거담당	heungshik	heungshik	리치_2.3_하이가든,버려진유적지	01.-1. 기획[Uasset]		[버려진유적지] 버려진 유적지: 모래막이 요새 > 마지막 조각 위치에서, 원거리 조준시 붉은색 록온이 표시되나, 실제 히트되지 않습니다.
+PROJECTT-39364	2026-04-29	2026-05-07	Task	In Review	보고자	byeongjun	seokwan		Client		끌차BP를 맵에 배치하면 작동 안하는 문제
+PROJECTT-40053	2026-05-15	2026-05-26	Improvement	DONE	과거담당	sungmin.jung	sungmin.jung	월드	Design		[월드][레벨] 최북단 > 라스트 허스 인근 소형 컨텐츠 서신 획득 루트 개선
+QAGOTASIA-636	2026-05-17	2026-06-11	Live issue	DONE	과거담당	riye117	riye117		01. 기획[Planning Issues]		[세력 은신처] 쉐이디드 수도원 내 사다리가 정상적으로 노출되지 않는 현상
+PROJECTT-40144	2026-05-18	2026-05-26	Bug	DONE	보고자	sungmin.jung	seokwan	레벨	Design		[월드][레벨] 올드타운에 올라가면 안 되는 지형에 올라가지는 문제
+PROJECTT-40145	2026-05-18	2026-05-26	Improvement	DONE	보고자	sungmin.jung	seokwan	레벨	Design		[월드][레벨] 크로우즈네스트 점령된 구역 그리핀스 코브 동선 수정
+PROJECTT-40199	2026-05-18	2026-05-19	Bug	DONE	보고자	hycho	seokwan	가젯	Design		[레벨디자인] PC 클래스에 따라 상자에 도달하지 못하는 지점
+PROJECTT-40384	2026-05-22	2026-05-27	Bug	DONE	과거담당	sungmin.jung	sungmin.jung	레벨	Design		[레벨디자인] 최북단 2.0 버려진 유적지 끼임 현상 발생
+PROJECTT-40425	2026-05-22	2026-05-22	Bug	DONE	과거담당	sungmin.jung	sungmin.jung	레벨	Design		[레벨디자인] 하이가든 로즈워터 지역에 공중부양하는 프랍
+PROJECTT-40596	2026-05-28	2026-05-29	Bug	DONE	과거담당	sungmin.jung	sungmin.jung	레벨	Design		[버려진 유적지] 쓰러진 거인의 왕 점프로 넘어가선 안 되는 지점 넘어가짐
+PROJECTT-40600	2026-05-28	2026-05-29	Bug	DONE	과거담당	sungmin.jung	sungmin.jung	레벨,버려진유적지	Design		[버려진 유적지] 숲의 마녀 갇히는 공간 수정
+PROJECTT-40601	2026-05-28	2026-05-29	Bug	DONE	과거담당	sungmin.jung	sungmin.jung	레벨,버려진유적지	Design		[레벨디자인] 크로우즈네스트 버려진 유적지 부근에 떨어지면 되올라올 수 없는 구간 존재
+PROJECTT-40604	2026-05-28	2026-05-29	Bug	DONE	과거담당	sungmin.jung	sungmin.jung	레벨,버려진유적지	Design		[버려진 유적지] 사나운 바다 레벨 버그
+PROJECTT-40607	2026-05-28	2026-06-02	Bug	DONE	과거담당	pillwoo	sungmin.jung	세력은신처	BG		[세력은신처] 레이븐스락 - 레벨디자인용 프랍이 노출되는 현상
+PROJECTT-40609	2026-05-28	2026-05-29	Bug	DONE	과거담당	sungmin.jung	sungmin.jung	점령된구역	Design		[점령된 구역] 그리핀스코브에 유도동선을 가로 막는 프랍
+PROJECTT-40620	2026-05-28	2026-06-02	Bug	DONE	과거담당	pillwoo	sungmin.jung		BG		[레벨디자인] 크로우즈네스트 지형 버그
+PROJECTT-40642	2026-05-29	2026-09-01	Bug	DONE	과거담당	sungmin.jung	sungmin.jung	길위의발견	Design		[소형컨텐츠] 편지통으로 쉽게 도달하지 못하는 지점
+PROJECTT-41010	2026-06-09	2026-09-02	Story	In Progress	현담당	seokwan	sungmin.jung	레벨기믹	Design		[월드][레벨] 엘리베이터 레벨 기믹 제작
+PROJECTT-41011	2026-06-09	2026-07-28	Sub-Task	DONE	과거담당	sungmin.jung	sungmin.jung	레벨기믹	Design	PROJECTT-41010	[월드][레벨] 엘리베이터 레벨 기믹 제작 기획
+GOAT-6779	2026-06-15	2026-06-26	Defect	DONE	과거담당	euijun	euijun	세력은신처,실내맵	01.-1. 기획[Uasset]		[세력은신처][실내맵] 레이븐스락 요새 특정 위치에서 실내맵이 해제되는 현상
+PROJECTT-41991	2026-06-25	2026-08-08	Sub-Task	DONE	현담당	seokwan	juna	레벨,챕터5	Design,기획_레벨	PROJECTT-38149	[레벨디자인] 필드 목업 (9차 - 주요 컨텐츠(독립) 3 : 버려진 유적지-2)
+PROJECTT-41992	2026-06-25	2026-08-08	Sub-Task	DONE	현담당	seokwan	juna	레벨,챕터5	Design,기획_레벨	PROJECTT-38149	[레벨디자인] 필드 목업 (9차 - 주요 컨텐츠(독립) 3 : 버려진 유적지-3)
+PROJECTT-42191	2026-06-26	2026-06-29	Task	To Do	현담당	seokwan	juna	길위의발견,챕터5	Design,기획_레벨		[5.2][레벨디자인] 필드 소형 컨텐츠 배치 가이드 제작
+PROJECTT-42267	2026-06-26	2026-08-08	Sub-Task	To Do	현담당	seokwan	juna	길위의발견,챕터5	Design,기획_레벨	PROJECTT-42191	[5.2][레벨디자인] 필드 소형컨텐츠 배치 가이드 제작
+PROJECTT-42279	2026-06-26	2026-08-06	Task	In Review	과거담당	sungmin.jung	juna	레벨,하렌홀의비명	Design,기획_레벨		[레벨디자인][하렌홀의 비명] 던전 레벨 목업 작업
+PROJECTT-42283	2026-06-26	2026-08-08	Sub-Task	To Do	현담당	seokwan	juna	레벨,챕터5	Design,기획_레벨	PROJECTT-38149	[레벨디자인] 넥 5.3 레벨디자인 후작업
+PROJECTT-42289	2026-06-26	2026-08-08	Sub-Task	To Do	현담당	seokwan	juna	레벨,챕터5	Design,기획_레벨	PROJECTT-38149	[레벨디자인] 지역 외곽 블록 처리
+PROJECTT-42290	2026-06-26	2026-08-08	Sub-Task	To Do	현담당	seokwan	juna	레벨,챕터5	Design,기획_레벨	PROJECTT-38149	[레벨디자인] 웨이포인트 구성
+PROJECTT-42292	2026-06-26	2026-08-08	Sub-Task	To Do	현담당	seokwan	juna	레벨,챕터5	Design,기획_레벨	PROJECTT-38149	[레벨디자인] 월드맵 추출
+PROJECTT-42291	2026-06-26	2026-08-08	Sub-Task	To Do	현담당	seokwan	juna	레벨,챕터5	Design,기획_레벨	PROJECTT-38149	[레벨디자인] 실내맵 추출
+PROJECTT-42315	2026-06-26	2026-08-08	Sub-Task	In Review	과거담당	sungmin.jung	juna	레벨,하렌홀의비명	Design,기획_레벨	PROJECTT-42279	[레벨디자인][하렌홀의 비명] 던전 목업 2차 - 픽스버전
+PROJECTT-43041	2026-07-15	2026-08-19	Improvement	To Do	현담당	seokwan	juna	편의성개선	Design,기획_레벨		[월드][편의성] 사다리 이동 중 중간 취소 기능 추가
+PROJECTT-43289	2026-07-22	2026-07-22	Sub-Task	To Do	보고자	yongsoon	seokwan	레벨기믹	Client	PROJECTT-41010	[레벨기믹][클라] 엘리베이터 레벨 기믹 구현
+PROJECTT-43290	2026-07-22	2026-07-22	Sub-Task	To Do	보고자	jimin.kim	seokwan	레벨기믹	Server	PROJECTT-41010	[레벨기믹][서버] 엘리베이터 레벨 기믹 서버 작업
+PROJECTT-43291	2026-07-22	2026-08-31	Sub-Task	To Do	보고자	minseok.seo	seokwan	레벨기믹	Animation	PROJECTT-41010	[레벨기믹][애니] 엘리베이터 애니메이션
+PROJECTT-43292	2026-07-22	2026-08-03	Sub-Task	DONE	보고자	hoyeon.h	seokwan	레벨기믹	BG	PROJECTT-41010	[레벨기믹][배경원화] 엘리베이터 구조물 컨셉 원화
+PROJECTT-43293	2026-07-22	2026-09-02	Sub-Task	In Review	보고자	jiyeon_b	seokwan	레벨기믹	BG	PROJECTT-41010	[레벨기믹][배경] 엘리베이터 배경 리소스 제작
+GOAT-7949	2026-07-27	2026-08-07	Defect	DONE	과거담당	heungshik	heungshik	웨스터랜드_4.1_캐스털리락,점령된구역	01.-1. 기획[Uasset]		[점령된구역] 점령된 구역: 레드픽 > 캐릭터가 올라탈 수 있는 프랍 및 NPC 접근 불가 지형 좌표 모음
+GOAT-7960	2026-07-27	2026-07-29	Defect	DONE	과거담당	euijun	euijun	월드	01.-1. 기획[Uasset]		[월드] 4챕터 이후 캐슬 블랙 무드 변경 시 특정 위치의 배경 무드가 변경되지 않은 현상
+GOAT-7963	2026-07-27	2026-08-06	Defect	DONE	과거담당	euijun	euijun	월드	01.-1. 기획[Uasset]		[월드] 4챕터 이후 캐슬 블랙 무드 변경 시 방벽 위에 궁수 NPC및 화살통, 오크통 환경 액터들이 배치되어 있지 않은 현상
+GOAT-8197	2026-07-30	2026-09-03	Defect	DONE	과거담당	heungshik	heungshik	관전모드,심연의제단	00. 데이터테이블[DataTable]		[심연의제단][관전모드] 크라켄 하드모드 > 1페이즈에서 사망 > 관전 모드 진입 > 던전 클리어 > 대상 관전 유저는 1페이즈 위치에서 스폰되며, 각 페이즈에서 파괴되었던 프랍, 촉수 다리가 유지됩니다. (컬리전이 없어 캐릭터 통과는 되어 마지막 페이즈 위치의 유저와 조우 가능)
+GOAT-8215	2026-07-30	2026-09-03	Defect	DONE	과거담당	jaeseong	jaeseong	심연의제단	04. 아트[Art]		[심연의제단] 심연의제단 하드 모드 2페이즈 나가는 길, 부적절한 바닥의 튀어나온 땅바닥이 길을 막고 있습니다.
+QAGOTASIA-1060	2026-07-31	2026-08-05	CS(Default)	Resolved	과거담당	rhkralsrb0820	rhkralsrb0820		01. 기획[Planning Issues]		[Live] 북부 버려진 유적지 이중 사다리 끼임 현상 확인 요청
+GOAT-8474	2026-08-06	2026-08-18	Defect	DONE	과거담당	jaeseong	jaeseong	심연의제단	01.-1. 기획[Uasset]		[심연의제단] 심연의 제단 1페이즈 우측 바다를 향해 점프시, PC가 허공에 착지할 수 있는 문제
+GOAT-9100	2026-08-18	2026-09-03	Defect	DONE	과거담당	jaeseong	jaeseong	심연의제단	01.-1. 기획[Uasset]		[심연의제단] 크라켄 3->4페이즈 가는 길목의 오른쪽에 PC가 빠질 수 있는 공간이 있습니다.
+PROJECTT-44415	2026-08-25	2026-08-28	Task	To Do	현담당	seokwan	sungmin.jung	리소스	Design,기획_레벨		Ship Movement 값 조절
+PROJECTT-44449	2026-08-26	2026-08-27	Bug	In Progress	과거담당	sungmin.jung	sungmin.jung	미니맵	Design,기획_레벨		[미니맵] 레이븐스락 요새에서 실내맵이 출력 안 되는 문제
+PROJECTT-44612	2026-08-31	2026-09-01	Sub-Task	To Do	현담당	seokwan	sungmin.jung	특수지형이동	Design,기획_레벨	PROJECTT-44610	[월드][레벨] 렛지 그랩 테스트 및 수정 대응 - 손석완 (최북단 2.0, 올드타운, 크로우즈네스트, 화이트하버)
